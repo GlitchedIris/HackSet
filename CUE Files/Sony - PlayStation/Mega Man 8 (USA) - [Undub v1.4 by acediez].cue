@@ -1,0 +1,6 @@
+FILE "Mega Man 8 (USA) - [Undub v1.4 by acediez].bin" BINARY
+  TRACK 01 MODE2/2352
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    PREGAP 00:04:00
+    INDEX 01 35:41:71

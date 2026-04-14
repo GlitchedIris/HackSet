@@ -1,0 +1,9 @@
+FILE "Note, The (Europe) - [60hz and Undub v1.0 by swosho].bin" BINARY
+  TRACK 01 MODE2/2352
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    INDEX 00 48:31:41
+    INDEX 01 48:33:41
+  TRACK 03 AUDIO
+    INDEX 00 50:09:17
+    INDEX 01 50:11:17

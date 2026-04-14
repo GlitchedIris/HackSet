@@ -1,0 +1,3 @@
+FILE "Final Fantasy IX (USA, Canada) - [Beatrix vs Beatrix vs Beatrix v1.0 by Tirlititi].bin" BINARY
+  TRACK 01 MODE2/2352
+    INDEX 01 00:00:00

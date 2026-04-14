@@ -1,0 +1,3 @@
+FILE "Legend of Legaia (USA) - [Restored Progression v1.0 by CrazyMLC].bin" BINARY
+  TRACK 01 MODE2/2352
+    INDEX 01 00:00:00
