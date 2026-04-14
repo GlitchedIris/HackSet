@@ -5,8 +5,8 @@
 		<name>Sony - PlayStation [HackSet] Collection</name>
 		<description>HackSet Sony PlayStation Collection</description>
 		<category> </category>
-		<version>20260413-165923</version>
-		<date>2026-04-13</date>
+		<version>20260414-154159</version>
+		<date>2026-04-14</date>
 		<author>GlitchedIris</author>
 		<url>https://github.com/GlitchedIris/HackSet</url>
 		<comment>A collection of romhacks for the Sony PlayStation</comment>
@@ -1785,6 +1785,24 @@
 		<description>Tales of Destiny (USA) - [Undub v20140713 by nks]</description>
 		<rom name="Tales of Destiny (USA) - [Undub v20140713 by nks].bin" size="557790912" crc="6f773c40" md5="01ee7de909a4c8159a0a78b175f8e635" sha1="281bf7e842368bb32d434e24d6cf0e1d255502ad" status="none" />
 		<rom name="Tales of Destiny (USA) - [Undub v20140713 by nks].cue" size="113" crc="9b9059b6" md5="1c435250127ea1491d36b0b67aa49490" sha1="b646dcbe050166a6a4a4c2e4ca713b6e954394e8" status="none" />
+	</machine>
+	<machine name="Tales of Destiny II (USA) - [Mostly Undub by Life Bottle Productions] (Disc 1)">
+		<description>Tales of Destiny II (USA) - [Mostly Undub by Life Bottle Productions] (Disc 1)</description>
+		<rom name="Tales of Destiny II (USA) - [Mostly Undub by Life Bottle Productions] (Disc 1) (Track 1).bin" size="581701344" crc="89d98c15" md5="b70ca661b1b318bb25e658c58ef84122" sha1="01952d94dfc0c9539222ae19dfca76edc017c519" status="none" />
+		<rom name="Tales of Destiny II (USA) - [Mostly Undub by Life Bottle Productions] (Disc 1) (Track 2).bin" size="32123616" crc="2120b2da" md5="f11b920d249bcbd76627f50135bea466" sha1="773a46c3e786999c4ede2b728b480f8c5e7765c6" status="none" />
+		<rom name="Tales of Destiny II (USA) - [Mostly Undub by Life Bottle Productions] (Disc 1).cue" size="326" crc="f0cbc273" md5="ded06205e3eec7e6502dd3b1a6727673" sha1="80e9b0114703e683a5fa37bf44aff42664277d14" status="none" />
+	</machine>
+	<machine name="Tales of Destiny II (USA) - [Mostly Undub by Life Bottle Productions] (Disc 2)">
+		<description>Tales of Destiny II (USA) - [Mostly Undub by Life Bottle Productions] (Disc 2)</description>
+		<rom name="Tales of Destiny II (USA) - [Mostly Undub by Life Bottle Productions] (Disc 2) (Track 1).bin" size="612117408" crc="2b882d9c" md5="5b580c6f8f95140f631cf733f1f32397" sha1="f3e5470bede6a4df63ce107ba96b9409750808fe" status="none" />
+		<rom name="Tales of Destiny II (USA) - [Mostly Undub by Life Bottle Productions] (Disc 2) (Track 2).bin" size="32123616" crc="2120b2da" md5="f11b920d249bcbd76627f50135bea466" sha1="773a46c3e786999c4ede2b728b480f8c5e7765c6" status="none" />
+		<rom name="Tales of Destiny II (USA) - [Mostly Undub by Life Bottle Productions] (Disc 2).cue" size="326" crc="66c351f7" md5="acd46ce7bf67f247c81a38c5fc63a382" sha1="455dd159e7be6410ae9af58f205adaa666c8ad9b" status="none" />
+	</machine>
+	<machine name="Tales of Destiny II (USA) - [Mostly Undub by Life Bottle Productions] (Disc 3)">
+		<description>Tales of Destiny II (USA) - [Mostly Undub by Life Bottle Productions] (Disc 3)</description>
+		<rom name="Tales of Destiny II (USA) - [Mostly Undub by Life Bottle Productions] (Disc 3) (Track 1).bin" size="664856304" crc="cc3202a0" md5="f9a60ac5f3305bc5f3476d31a0e93017" sha1="2e96464630d6015c7e6ccfef96c7399112ae4a34" status="none" />
+		<rom name="Tales of Destiny II (USA) - [Mostly Undub by Life Bottle Productions] (Disc 3) (Track 2).bin" size="32123616" crc="2120b2da" md5="f11b920d249bcbd76627f50135bea466" sha1="773a46c3e786999c4ede2b728b480f8c5e7765c6" status="none" />
+		<rom name="Tales of Destiny II (USA) - [Mostly Undub by Life Bottle Productions] (Disc 3).cue" size="326" crc="a21422b4" md5="3747e7f6def1644e939bbb6cc8ef50b7" sha1="0f59ffa6b40d2962239b13ec79b4ac2108c9453b" status="none" />
 	</machine>
 	<machine name="Tales of Destiny II (USA) - [Title Screen Restoration v1.0 by FlamePurge] (Disc 1)">
 		<description>Tales of Destiny II (USA) - [Title Screen Restoration v1.0 by FlamePurge] (Disc 1)</description>
