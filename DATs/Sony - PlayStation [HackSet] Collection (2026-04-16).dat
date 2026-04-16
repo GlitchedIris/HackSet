@@ -5,8 +5,8 @@
 		<name>Sony - PlayStation [HackSet] Collection</name>
 		<description>HackSet Sony PlayStation Collection</description>
 		<category> </category>
-		<version>20260414-154159</version>
-		<date>2026-04-14</date>
+		<version>20260416-152447</version>
+		<date>2026-04-16</date>
 		<author>GlitchedIris</author>
 		<url>https://github.com/GlitchedIris/HackSet</url>
 		<comment>A collection of romhacks for the Sony PlayStation</comment>
@@ -189,16 +189,6 @@
 		<rom name="Armored Core (USA) - [True Analogs v1.53 by VanLaser].bin" size="524759424" crc="254cffc7" md5="5b882972164065d8f72bd8a0c64f2fc0" sha1="40e3843a251ef75db90745d507623edb44b11d4d" status="none" />
 		<rom name="Armored Core (USA) - [True Analogs v1.53 by VanLaser].cue" size="119" crc="2379a766" md5="f46ea41bd536e407ac44139391eaf331" sha1="d8b41336862857dca309a927e41aa6569152a8dd" status="none" />
 	</machine>
-	<machine name="Armored Core (USA) - [Undub v1.1b by swosho]">
-		<description>Armored Core (USA) - [Undub v1.1b by swosho]</description>
-		<rom name="Armored Core (USA) - [Undub v1.1b by swosho].bin" size="526419936" crc="37f01718" md5="054a27ddd35a446e7db593e826e30dc7" sha1="aadf72d427ab289c0b7329201813295935496fad" status="none" />
-		<rom name="Armored Core (USA) - [Undub v1.1b by swosho].cue" size="110" crc="83540b67" md5="4578495ff85333126f0ad9390fdc761b" sha1="194b4860454282cd4da09e86a24ed28fc59c29ee" status="none" />
-	</machine>
-	<machine name="Armored Core (USA) - [Undub v1.1b by swosho] [True Analogs v1.52 by VanLaser]">
-		<description>Armored Core (USA) - [Undub v1.1b by swosho] [True Analogs v1.52 by VanLaser]</description>
-		<rom name="Armored Core (USA) - [Undub v1.1b by swosho] [True Analogs v1.52 by VanLaser].bin" size="524759424" crc="d02a4bb6" md5="f2c2a80eb72b8b7f7aef127392c2f4fa" sha1="45e7d379bcd6fd5f6b37c137c4e39f2e3fed6c65" status="none" />
-		<rom name="Armored Core (USA) - [Undub v1.1b by swosho] [True Analogs v1.52 by VanLaser].cue" size="143" crc="1d6034fe" md5="9b718eaa0ecb92a53b95690f791ecc95" sha1="c35c43032a1d357ac3b2a10617c13a4acf02cac3" status="none" />
-	</machine>
 	<machine name="Armored Core - Master of Arena (USA) - [Sailor Moon - Master of Arena by unknown]">
 		<description>Armored Core - Master of Arena (USA) - [Sailor Moon - Master of Arena by unknown]</description>
 		<rom name="Armored Core - Master of Arena (USA) - [Sailor Moon - Master of Arena by unknown].bin" size="713460384" crc="85133f61" md5="2fb71a770a50be68bf8643d9d05acea7" sha1="2d3dc4f26c00aa11c41c201a332d6223f9c023c9" status="none" />
@@ -224,26 +214,6 @@
 		<rom name="Armored Core - Master of Arena (USA) - [True Analogs v1.53 by VanLaser] (Disc 2).bin" size="700507920" crc="3480226c" md5="55cd3e7aa995ea69f1f020ace92c4723" sha1="43d55aba8ae66adffcbed99c314ff2c9256e7344" status="none" />
 		<rom name="Armored Core - Master of Arena (USA) - [True Analogs v1.53 by VanLaser] (Disc 2).cue" size="146" crc="e8ad2206" md5="e0dc5bec3d79d925c013683daaacc4d0" sha1="9d44e8bf1f15b4c56ede2c90cf563b005c50476b" status="none" />
 	</machine>
-	<machine name="Armored Core - Master of Arena (USA) - [Undub v1.1b by swosho] (Disc 1)">
-		<description>Armored Core - Master of Arena (USA) - [Undub v1.1b by swosho] (Disc 1)</description>
-		<rom name="Armored Core - Master of Arena (USA) - [Undub v1.1b by swosho] (Disc 1).bin" size="701865024" crc="221ba210" md5="1f248fedd72500e3c9528db02048fb8a" sha1="ffe2d8d2493ff953a53f3db02718f42761e93af9" status="none" />
-		<rom name="Armored Core - Master of Arena (USA) - [Undub v1.1b by swosho] (Disc 1).cue" size="137" crc="122d972d" md5="a2f0cbd46d35c38a4e3cb30e925b0ad3" sha1="1d7023ea10fe0a22a06ddddec8cd8354236f4ed3" status="none" />
-	</machine>
-	<machine name="Armored Core - Master of Arena (USA) - [Undub v1.1b by swosho] (Disc 2)">
-		<description>Armored Core - Master of Arena (USA) - [Undub v1.1b by swosho] (Disc 2)</description>
-		<rom name="Armored Core - Master of Arena (USA) - [Undub v1.1b by swosho] (Disc 2).bin" size="701865024" crc="3462cb30" md5="b24c25d32a082a0a178921b9996ad4b9" sha1="6bdff6d1c574f986cd23c2ba12722e1991889a8c" status="none" />
-		<rom name="Armored Core - Master of Arena (USA) - [Undub v1.1b by swosho] (Disc 2).cue" size="137" crc="1370b1fc" md5="623f4f9b2d7848d2f645e51e6ef9fe3f" sha1="315300829318127133db1ddba282394433dda514" status="none" />
-	</machine>
-	<machine name="Armored Core - Master of Arena (USA) - [Undub v1.1b by swosho] [True Analogs v1.52 by VanLaser] (Disc 1)">
-		<description>Armored Core - Master of Arena (USA) - [Undub v1.1b by swosho] [True Analogs v1.52 by VanLaser] (Disc 1)</description>
-		<rom name="Armored Core - Master of Arena (USA) - [Undub v1.1b by swosho] [True Analogs v1.52 by VanLaser] (Disc 1).bin" size="701865024" crc="d72b1ee9" md5="29cbb5174d83359a1b6162b69c82ff1d" sha1="b4469bb4732f2b807ae702dadf9653dec3cbfa29" status="none" />
-		<rom name="Armored Core - Master of Arena (USA) - [Undub v1.1b by swosho] [True Analogs v1.52 by VanLaser] (Disc 1).cue" size="170" crc="692be832" md5="dd9463d7faeab83e5231cae0ee3ab0a3" sha1="c958d51e159a7836191be9dcaad0138021b834c6" status="none" />
-	</machine>
-	<machine name="Armored Core - Master of Arena (USA) - [Undub v1.1b by swosho] [True Analogs v1.52 by VanLaser] (Disc 2)">
-		<description>Armored Core - Master of Arena (USA) - [Undub v1.1b by swosho] [True Analogs v1.52 by VanLaser] (Disc 2)</description>
-		<rom name="Armored Core - Master of Arena (USA) - [Undub v1.1b by swosho] [True Analogs v1.52 by VanLaser] (Disc 2).bin" size="701865024" crc="c15277c9" md5="43ee1b4ffe5b47f0dcce4303d2307c59" sha1="2d607012f85e53a09c73bf22810ca4e9fc708205" status="none" />
-		<rom name="Armored Core - Master of Arena (USA) - [Undub v1.1b by swosho] [True Analogs v1.52 by VanLaser] (Disc 2).cue" size="170" crc="6876cee3" md5="59b98c64ffd0913428380062691c9f12" sha1="b3eb54fc92762b66fbf79fc401e553650fcc9abd" status="none" />
-	</machine>
 	<machine name="Armored Core - Project Phantasma (USA) - [True Analogs Inverted v1.53 by VanLaser]">
 		<description>Armored Core - Project Phantasma (USA) - [True Analogs Inverted v1.53 by VanLaser]</description>
 		<rom name="Armored Core - Project Phantasma (USA) - [True Analogs Inverted v1.53 by VanLaser].bin" size="454072416" crc="96ca75ce" md5="7eca79ef9505d1f023037ed08db2f226" sha1="2c21d2aa6d8009369cf62c8d5dd00ea933f35a6e" status="none" />
@@ -253,16 +223,6 @@
 		<description>Armored Core - Project Phantasma (USA) - [True Analogs v1.53 by VanLaser]</description>
 		<rom name="Armored Core - Project Phantasma (USA) - [True Analogs v1.53 by VanLaser].bin" size="454072416" crc="45febd39" md5="2514fb9e00e92cdadeabf3b5fdd12ef0" sha1="d137029737e421cb18cdfc61c25d23c19b5f241c" status="none" />
 		<rom name="Armored Core - Project Phantasma (USA) - [True Analogs v1.53 by VanLaser].cue" size="139" crc="15633466" md5="503038b731a2b005bfa2de02900b692c" sha1="26dab4dd37f5a5e096c50035b4f424d086a0afa9" status="none" />
-	</machine>
-	<machine name="Armored Core - Project Phantasma (USA) - [Undub v1.1b by swosho]">
-		<description>Armored Core - Project Phantasma (USA) - [Undub v1.1b by swosho]</description>
-		<rom name="Armored Core - Project Phantasma (USA) - [Undub v1.1b by swosho].bin" size="461544720" crc="e5fafe9c" md5="9cbf5c5e4a42a0199b262a82141c43ec" sha1="3975c9bac127803e99202221524c3c8e56f88740" status="none" />
-		<rom name="Armored Core - Project Phantasma (USA) - [Undub v1.1b by swosho].cue" size="130" crc="03a69a19" md5="1fd979a3662f10054d2bf81bed697e3d" sha1="94bab22bbadd433db3240af124e082191948e662" status="none" />
-	</machine>
-	<machine name="Armored Core - Project Phantasma (USA) - [Undub v1.1b by swosho] [True Analogs v1.52 by VanLaser]">
-		<description>Armored Core - Project Phantasma (USA) - [Undub v1.1b by swosho] [True Analogs v1.52 by VanLaser]</description>
-		<rom name="Armored Core - Project Phantasma (USA) - [Undub v1.1b by swosho] [True Analogs v1.52 by VanLaser].bin" size="461544720" crc="d4c463d3" md5="256ecbaeec7f8d86a7a774a21d40319c" sha1="6d39b73ba2ba006c73e903d0d9eecd6171601284" status="none" />
-		<rom name="Armored Core - Project Phantasma (USA) - [Undub v1.1b by swosho] [True Analogs v1.52 by VanLaser].cue" size="163" crc="75962edc" md5="2e1201e486f1fc7e26a52ba59a601c07" sha1="aed4f646585ca72ee98f949e3353c24a7386c08c" status="none" />
 	</machine>
 	<machine name="ASCII Zanmai (Japan) - [Galerians Demo Unlocker v1.0.1 by descawed]">
 		<description>ASCII Zanmai (Japan) - [Galerians Demo Unlocker v1.0.1 by descawed]</description>
