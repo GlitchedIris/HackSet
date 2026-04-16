@@ -1,7 +1,5 @@
 # HackSet inclusion/exclusion examples
 
----
-
 ### Examples of included hacks
 
 Suikoden (USA) - \[BugFix v1.00.002 by Pyriel\]\
@@ -13,8 +11,6 @@ Earthworm Jim 2 (Europe) - \[PAL to NTSC v1.3 by Sakitoshi\]\
 Mizzurna Falls (Japan) - \[T-En v05092022 by Cirosan\] \[The Chilling Cut v20241125 by Darkanioid1997\]\
 *This combination of hacks is included despite being a translation because The Chilling Cut is meant to be applied over the translation patch.*
 
----
-
 ### Examples of excluded hacks
 
 Armored Core - Master of Arena (USA) - \[Undub v1.1b by swosho\]\
@@ -24,8 +20,6 @@ Armored Core - Master of Arena (USA) - \[Undub v1.1b by swosho\]\
 
 Mortal Kombat Mythologies - Sub-Zero (USA) - \[\Control modification v0.1 by Mr2\[\
 *Despite being complete, this hack is very slight and simply remaps four buttons.*
-
----
 
 ### A (slightly) more complicated example
 
