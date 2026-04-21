@@ -5,8 +5,8 @@
 		<name>Sony - PlayStation [HackSet] Collection</name>
 		<description>HackSet Sony PlayStation Collection</description>
 		<category> </category>
-		<version>20260416-152447</version>
-		<date>2026-04-16</date>
+		<version>20260421-133640</version>
+		<date>2026-04-21</date>
 		<author>GlitchedIris</author>
 		<url>https://github.com/GlitchedIris/HackSet</url>
 		<comment>A collection of romhacks for the Sony PlayStation</comment>
@@ -720,10 +720,10 @@
 		<rom name="Final Fantasy Tactics (USA) - [Prime v6.1 Convenience by wakkoswami].bin" size="541315152" crc="b438e090" md5="2c39fc04e0e356b994ff1bf4a33456a3" sha1="9d9edc2be78e82d8513097ea4c7e51ca89fb65ff" status="none" />
 		<rom name="Final Fantasy Tactics (USA) - [Prime v6.1 Convenience by wakkoswami].cue" size="134" crc="38c44353" md5="81cb3c1135844f7fad280657036f8ae3" sha1="0e2cc8dd487e721721542f2fdf88af98814b8c62" status="none" />
 	</machine>
-	<machine name="Final Fantasy Tactics (USA) - [The Lion War ReMixed Beta v1.2.58.2 by Nyzer]">
-		<description>Final Fantasy Tactics (USA) - [The Lion War ReMixed Beta v1.2.58.2 by Nyzer]</description>
-		<rom name="Final Fantasy Tactics (USA) - [The Lion War ReMixed Beta v1.2.58.2 by Nyzer].bin" size="541315152" crc="91f2ce0c" md5="5881f1c40d0db3243a4350e59e8a0e32" sha1="b1bd631de2ba73698a952c78cc33c08fb1c4b999" status="none" />
-		<rom name="Final Fantasy Tactics (USA) - [The Lion War ReMixed Beta v1.2.58.2 by Nyzer].cue" size="142" crc="f6109d94" md5="bc72128784f9b9c88ad28082c781a450" sha1="d6f0270713eee3c523e2447b31f931eef2cae569" status="none" />
+	<machine name="Final Fantasy Tactics (USA) - [The Lion War ReMixed Beta v1.2.60.1 by Nyzer]">
+		<description>Final Fantasy Tactics (USA) - [The Lion War ReMixed Beta v1.2.60.1 by Nyzer]</description>
+		<rom name="Final Fantasy Tactics (USA) - [The Lion War ReMixed Beta v1.2.60.1 by Nyzer].bin" size="541315152" crc="1639d5f5" md5="2ebb7d2a35de20b8d7d7d86d7f27352d" sha1="315c538ef8246e6fb8d177ed1e0aab2303a4e2e1" status="none" />
+		<rom name="Final Fantasy Tactics (USA) - [The Lion War ReMixed Beta v1.2.60.1 by Nyzer].cue" size="142" crc="622c2435" md5="ed85e8fb30c687848e4a2c7c0815f593" sha1="41c4dd7c14a330bff6807e35cffc69720c213037" status="none" />
 	</machine>
 	<machine name="Final Fantasy Tactics (USA) - [The Lion War ReMixed Stable v1.1.11 by Nyzer]">
 		<description>Final Fantasy Tactics (USA) - [The Lion War ReMixed Stable v1.1.11 by Nyzer]</description>
@@ -1887,45 +1887,45 @@
 		<rom name="X-Men - Mutant Academy (USA) - [Costume Mod v1.0 by BalinDMK] (Track 12).bin" size="32104800" crc="9b94ea54" md5="65aea234c174ee35fb574d981fe3fc4f" sha1="bd1fde88c2b79e3cf8821c969373460d51f3155a" status="none" />
 		<rom name="X-Men - Mutant Academy (USA) - [Costume Mod v1.0 by BalinDMK].cue" size="1854" crc="b57f2f1d" md5="656634b05cac2c43abd41f221c752dee" sha1="c471a6e9bd24bff9fc9dc7c4af3287c09f0f51e5" status="none" />
 	</machine>
-	<machine name="Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance and 2x Gold-Exp and Half Encounters v0.9.3 by PWB Team] (Disc 1)">
-		<description>Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance and 2x Gold-Exp and Half Encounters v0.9.3 by PWB Team] (Disc 1)</description>
-		<rom name="Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance and 2x Gold-Exp and Half Encounters v0.9.3 by PWB Team] (Disc 1).bin" size="718648896" crc="c5c8ca7f" md5="948b40a11f2846e65ce399ce6b9d9207" sha1="de08a6b5b699a557f7491d1d2f756bb48e0ab06d" status="none" />
-		<rom name="Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance and 2x Gold-Exp and Half Encounters v0.9.3 by PWB Team] (Disc 1).cue" size="199" crc="a26e94ba" md5="7cf890ca670926eb5cb5dda20bc0cd0e" sha1="8848d9cd3ca441586077654f5d1405bb394e527c" status="none" />
+	<machine name="Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance and 2x Gold-Exp and Half Encounters v0.10.0 by PWB Team] (Disc 1)">
+		<description>Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance and 2x Gold-Exp and Half Encounters v0.10.0 by PWB Team] (Disc 1)</description>
+		<rom name="Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance and 2x Gold-Exp and Half Encounters v0.10.0 by PWB Team] (Disc 1).bin" size="718646544" crc="1c506d20" md5="8cc233bfaa3f83da3d7b4fe87ff2558e" sha1="e23b333515e163f7867d57c1d4a73b63512aca83" status="none" />
+		<rom name="Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance and 2x Gold-Exp and Half Encounters v0.10.0 by PWB Team] (Disc 1).cue" size="200" crc="0fd37f0a" md5="b078698a74834bf0738b1de38c571232" sha1="2a9a4315f264f442485b3cb37746837134bc32d1" status="none" />
 	</machine>
-	<machine name="Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance and 2x Gold-Exp and Half Encounters v0.9.3 by PWB Team] (Disc 2)">
-		<description>Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance and 2x Gold-Exp and Half Encounters v0.9.3 by PWB Team] (Disc 2)</description>
-		<rom name="Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance and 2x Gold-Exp and Half Encounters v0.9.3 by PWB Team] (Disc 2).bin" size="688729104" crc="054d5476" md5="34982f1ae0b5f89a8305bbafedabaac8" sha1="860a74d5f0a9008f5402c983dca0dba4c6441cec" status="none" />
-		<rom name="Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance and 2x Gold-Exp and Half Encounters v0.9.3 by PWB Team] (Disc 2).cue" size="199" crc="a333b26b" md5="357f76a4e9a8e6a01307c40524945903" sha1="e1746893e1804a782d77579692c78d0719a9d529" status="none" />
+	<machine name="Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance and 2x Gold-Exp and Half Encounters v0.10.0 by PWB Team] (Disc 2)">
+		<description>Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance and 2x Gold-Exp and Half Encounters v0.10.0 by PWB Team] (Disc 2)</description>
+		<rom name="Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance and 2x Gold-Exp and Half Encounters v0.10.0 by PWB Team] (Disc 2).bin" size="688792608" crc="eb25637e" md5="79733cf26b81457ae40b7232adda275e" sha1="86e5e95fee8076240416c68a34fea38508d9235f" status="none" />
+		<rom name="Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance and 2x Gold-Exp and Half Encounters v0.10.0 by PWB Team] (Disc 2).cue" size="200" crc="0e8e59db" md5="750d7b18230758e5a0006c6cf8070863" sha1="df318294f51cdcff9d6efe9661394bc899ec5c7c" status="none" />
 	</machine>
-	<machine name="Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance v0.9.3 by PWB Team] (Disc 1)">
-		<description>Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance v0.9.3 by PWB Team] (Disc 1)</description>
-		<rom name="Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance v0.9.3 by PWB Team] (Disc 1).bin" size="718648896" crc="e2539342" md5="c55f02ffb170b9e64907658b4fec8379" sha1="f2d319e1253c366765e6ec9b4eb2be5a83eb1a03" status="none" />
-		<rom name="Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance v0.9.3 by PWB Team] (Disc 1).cue" size="163" crc="dbe35296" md5="081b757b605b3de27f8d8e0aa38fd59a" sha1="f158009525dccdbd26a157e9a5c9a38cea0b31de" status="none" />
+	<machine name="Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance v0.10.0 by PWB Team] (Disc 1)">
+		<description>Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance v0.10.0 by PWB Team] (Disc 1)</description>
+		<rom name="Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance v0.10.0 by PWB Team] (Disc 1).bin" size="718646544" crc="3ff7e162" md5="4682f4609a124e3daeae9597c01643fb" sha1="816240230267abc290af3f0e5c599db339fe5da2" status="none" />
+		<rom name="Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance v0.10.0 by PWB Team] (Disc 1).cue" size="164" crc="3d729e2f" md5="9b235d5612e95a122464077948e247f1" sha1="d97894271b12eff8fc8c00af1beae8182c8bc144" status="none" />
 	</machine>
-	<machine name="Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance v0.9.3 by PWB Team] (Disc 2)">
-		<description>Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance v0.9.3 by PWB Team] (Disc 2)</description>
-		<rom name="Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance v0.9.3 by PWB Team] (Disc 2).bin" size="688729104" crc="0f219bc4" md5="e28ffc13069573c70f62c10121732487" sha1="ab9a8c8f56553bce15c895b6b8f6236be53593dd" status="none" />
-		<rom name="Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance v0.9.3 by PWB Team] (Disc 2).cue" size="163" crc="dabe7447" md5="73de79931923293b6ea4f1b8f7d8e478" sha1="a4bdcc2e5c8a4b40ad2dd859f4c34801380c384b" status="none" />
+	<machine name="Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance v0.10.0 by PWB Team] (Disc 2)">
+		<description>Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance v0.10.0 by PWB Team] (Disc 2)</description>
+		<rom name="Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance v0.10.0 by PWB Team] (Disc 2).bin" size="688792608" crc="bcc11dec" md5="3a160c42dfbb7d07127c215a5166c38b" sha1="1efbc6010d548c5fbb985e9a0dfd302d85af0b12" status="none" />
+		<rom name="Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance v0.10.0 by PWB Team] (Disc 2).cue" size="164" crc="3c2fb8fe" md5="b10a7b99b7d3027fd25802f352ad9b91" sha1="a76ba6bbb1cb8ddc1007dbbd4b97e4937ef5a99e" status="none" />
 	</machine>
-	<machine name="Xenogears (USA) - [Perfect Works Build Fixes and Undub v0.9.3 by PWB Team] (Disc 1)">
-		<description>Xenogears (USA) - [Perfect Works Build Fixes and Undub v0.9.3 by PWB Team] (Disc 1)</description>
-		<rom name="Xenogears (USA) - [Perfect Works Build Fixes and Undub v0.9.3 by PWB Team] (Disc 1).bin" size="718641840" crc="9dd39666" md5="efa265d8a943c0da2371fa6b0c85398f" sha1="49aa054e1ed13bf4557d783fdeaf04d3453610bb" status="none" />
-		<rom name="Xenogears (USA) - [Perfect Works Build Fixes and Undub v0.9.3 by PWB Team] (Disc 1).cue" size="149" crc="ec622183" md5="80c1120dcb1f580b7608e9ccc81fd44e" sha1="aff5c32c63625fb53da3366c642764d281ee9a3c" status="none" />
+	<machine name="Xenogears (USA) - [Perfect Works Build Fixes and Undub v0.10.0 by PWB Team] (Disc 1)">
+		<description>Xenogears (USA) - [Perfect Works Build Fixes and Undub v0.10.0 by PWB Team] (Disc 1)</description>
+		<rom name="Xenogears (USA) - [Perfect Works Build Fixes and Undub v0.10.0 by PWB Team] (Disc 1).bin" size="718641840" crc="0a95cafe" md5="76ae8c95529cac704e3b6816d0c549f4" sha1="1bb70875aa39015414c216653574606e8bc6dbcf" status="none" />
+		<rom name="Xenogears (USA) - [Perfect Works Build Fixes and Undub v0.10.0 by PWB Team] (Disc 1).cue" size="150" crc="5098fbb7" md5="9839037c37fef7ce556da816a129941e" sha1="0ec0fec7f50ca11382f9d45409d25871b3b1b251" status="none" />
 	</machine>
-	<machine name="Xenogears (USA) - [Perfect Works Build Fixes and Undub v0.9.3 by PWB Team] (Disc 2)">
-		<description>Xenogears (USA) - [Perfect Works Build Fixes and Undub v0.9.3 by PWB Team] (Disc 2)</description>
-		<rom name="Xenogears (USA) - [Perfect Works Build Fixes and Undub v0.9.3 by PWB Team] (Disc 2).bin" size="688517424" crc="e0f9220b" md5="7207ab7a3be54732ff8759da4a25185b" sha1="1c1eedbd576f9f1f9454a1c36a7154fe5f5c0d1e" status="none" />
-		<rom name="Xenogears (USA) - [Perfect Works Build Fixes and Undub v0.9.3 by PWB Team] (Disc 2).cue" size="149" crc="ed3f0752" md5="0a09a23bc8f8e9fd49f93a92f24422a3" sha1="3696fbfb2bdc1af381bf767bd510feb337fb9b0d" status="none" />
+	<machine name="Xenogears (USA) - [Perfect Works Build Fixes and Undub v0.10.0 by PWB Team] (Disc 2)">
+		<description>Xenogears (USA) - [Perfect Works Build Fixes and Undub v0.10.0 by PWB Team] (Disc 2)</description>
+		<rom name="Xenogears (USA) - [Perfect Works Build Fixes and Undub v0.10.0 by PWB Team] (Disc 2).bin" size="688583280" crc="7007d061" md5="488fb06740af6abce9fcc9daad46ca89" sha1="734a9a516c9199e0161c37331848edc8a4ad1c11" status="none" />
+		<rom name="Xenogears (USA) - [Perfect Works Build Fixes and Undub v0.10.0 by PWB Team] (Disc 2).cue" size="150" crc="51c5dd66" md5="85a2f3a63478711278e80295538ccb28" sha1="2945db4ce17c3268b2d4c4c29c55a89f90618052" status="none" />
 	</machine>
-	<machine name="Xenogears (USA) - [Perfect Works Build Story Mode and Fixes and Undub v0.9.3 by PWB Team] (Disc 1)">
-		<description>Xenogears (USA) - [Perfect Works Build Story Mode and Fixes and Undub v0.9.3 by PWB Team] (Disc 1)</description>
-		<rom name="Xenogears (USA) - [Perfect Works Build Story Mode and Fixes and Undub v0.9.3 by PWB Team] (Disc 1).bin" size="718639488" crc="cd6c447b" md5="929c94a92128e355d4b3ae70fed48fe2" sha1="46daa38b69750485615e1bd9282fa36a3e5de823" status="none" />
-		<rom name="Xenogears (USA) - [Perfect Works Build Story Mode and Fixes and Undub v0.9.3 by PWB Team] (Disc 1).cue" size="164" crc="158288ce" md5="924f188b16874af45b16df7808a323a5" sha1="1aaf57f12c3c04e28170e7947f0906cae8667787" status="none" />
+	<machine name="Xenogears (USA) - [Perfect Works Build Story Mode and Fixes and Undub v0.10.0 by PWB Team] (Disc 1)">
+		<description>Xenogears (USA) - [Perfect Works Build Story Mode and Fixes and Undub v0.10.0 by PWB Team] (Disc 1)</description>
+		<rom name="Xenogears (USA) - [Perfect Works Build Story Mode and Fixes and Undub v0.10.0 by PWB Team] (Disc 1).bin" size="718639488" crc="52e34886" md5="c70bf9736e84b444cec573ebe46dfff6" sha1="e2612335413c4480c91505946348a77553c4c137" status="none" />
+		<rom name="Xenogears (USA) - [Perfect Works Build Story Mode and Fixes and Undub v0.10.0 by PWB Team] (Disc 1).cue" size="165" crc="580c2633" md5="a6513a42dec6e1b497dd80ab94742d51" sha1="a86aa18a0851e7e4fc27693f2f2c19e15e55d4f6" status="none" />
 	</machine>
-	<machine name="Xenogears (USA) - [Perfect Works Build Story Mode and Fixes and Undub v0.9.3 by PWB Team] (Disc 2)">
-		<description>Xenogears (USA) - [Perfect Works Build Story Mode and Fixes and Undub v0.9.3 by PWB Team] (Disc 2)</description>
-		<rom name="Xenogears (USA) - [Perfect Works Build Story Mode and Fixes and Undub v0.9.3 by PWB Team] (Disc 2).bin" size="688515072" crc="280234a6" md5="82f92fe5e6db76434d3b4f7f993aa9aa" sha1="c699444a9ec67f236299d3804e060355681fd51c" status="none" />
-		<rom name="Xenogears (USA) - [Perfect Works Build Story Mode and Fixes and Undub v0.9.3 by PWB Team] (Disc 2).cue" size="164" crc="14dfae1f" md5="e78b6be21151776983b05db8f71c59b2" sha1="1385ea90f5f83228d001c173f241cc9c6628b325" status="none" />
+	<machine name="Xenogears (USA) - [Perfect Works Build Story Mode and Fixes and Undub v0.10.0 by PWB Team] (Disc 2)">
+		<description>Xenogears (USA) - [Perfect Works Build Story Mode and Fixes and Undub v0.10.0 by PWB Team] (Disc 2)</description>
+		<rom name="Xenogears (USA) - [Perfect Works Build Story Mode and Fixes and Undub v0.10.0 by PWB Team] (Disc 2).bin" size="688580928" crc="26def544" md5="fd969a5d52d5907839e6b5984583e0ba" sha1="c80bb844af364321a4cd69e919e14dff6de2e392" status="none" />
+		<rom name="Xenogears (USA) - [Perfect Works Build Story Mode and Fixes and Undub v0.10.0 by PWB Team] (Disc 2).cue" size="165" crc="595100e2" md5="a44f10a2e391a44dd89a1ad1221bff2f" sha1="a4a5921cdd3d37dfd8670d88c650d195375ed3dd" status="none" />
 	</machine>
 	<machine name="Xenogears (USA) - [Undub v1.01 by RyleFury] (Disc 1)">
 		<description>Xenogears (USA) - [Undub v1.01 by RyleFury] (Disc 1)</description>
