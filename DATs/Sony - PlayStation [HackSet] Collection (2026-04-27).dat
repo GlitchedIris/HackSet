@@ -5,8 +5,8 @@
 		<name>Sony - PlayStation [HackSet] Collection</name>
 		<description>HackSet Sony PlayStation Collection</description>
 		<category> </category>
-		<version>20260425-100230</version>
-		<date>2026-04-25</date>
+		<version>20260427-051215</version>
+		<date>2026-04-27</date>
 		<author>GlitchedIris</author>
 		<url>https://github.com/GlitchedIris/HackSet</url>
 		<comment>A collection of romhacks for the Sony PlayStation</comment>
@@ -36,10 +36,13 @@
 		<rom name="Chaos Break (Europe) - [NTSC v1.0 by Sakitoshi].txt" size="374" crc="40278d3f" md5="62ced649474759968f2bfb8c125e34f1" sha1="96d1e22a5aa9a7b5c5ae62e793b2a11036fd4fe7" status="none" />
 		<rom name="Chrono Cross (USA, Canada) - [Time's Anguish v3.5 by LandonRay].txt" size="1192" crc="cb22ee63" md5="730d1e6f5c16c8fba08894fc3b3b2c1c" sha1="d3caf244cbc5e673a4d56af56f9a1f0303c1935d" status="none" />
 		<rom name="Clock Tower II - The Struggle Within (USA) - [Ghost Head ~Yokubari~ v1.0 by FlamePurge].txt" size="11202" crc="5fdfa338" md5="d5d272f7c9b4c4d3dc6b9ae45116d354" sha1="4e4edf7750893af7b04ec435f3ccc79dc3529936" status="none" />
+		<rom name="Codemasters Demo Disk (Europe) - [Micro Maniacs Extended Prototype Demo v20260423 by bbayles].md" size="702" crc="7dc322b7" md5="9af35a2cde76618e423b2ea35fa65c31" sha1="049d943a28ea0714fcc2758101c7be84dd7aaaeb" status="none" />
 		<rom name="Colin McRae Rally 2.0 (USA) - [Colin McRae Rally 2.1 v1.0 by Lupus Erectus].txt" size="635" crc="985f7d77" md5="31d52c5eb6ee064a98e1b9901d555f04" sha1="861cadc45da28bad175778768fed1757a5236b96" status="none" />
 		<rom name="Crash Bandicoot (USA) - [Quality of Life v1.1 by TechieSaru].txt" size="166" crc="7ea09752" md5="90e98d731cac0a6cf22c7e26446c6f2d" sha1="828d15341cac2daab7ddc7f33d6000912a226a3a" status="none" />
 		<rom name="CTR - Crash Team Racing (USA) - [Retro-fueled v1.0 by TheRedhotbr].txt" size="619" crc="d3d11d78" md5="1f9ad314b47dd69819ef39d756dd0d36" sha1="d9156ac879df54cd8b4787fb8a4a3af49ba32149" status="none" />
 		<rom name="Darkstalkers 3 (USA) [Uncensored v1.1 by Ortew].txt" size="1619" crc="95b2ebe6" md5="4a6cb28c236bc44032f23cb180848ac4" sha1="09d0f8a24c29354c569b65621276a259f35d37ca" status="none" />
+		<rom name="DemoDemo PlayStation Soukangou Vol. 1 (Japan) - [Ridge Racer Extended Prototype Demo v20260312 by bbayles].txt" size="883" crc="ddfcfee7" md5="e517f5762f7404859df06bc9b8b1fc4f" sha1="404fb8cee5b6fbfb0743afaf152ecbfb29b1bfa7" status="none" />
+		<rom name="DemoDemo PlayStation Vol. 16 (Japan) - [Motor Toon Grand Prix 2 Extended Prototype Demo v20260319 by bbayles].txt" size="1139" crc="c8294a40" md5="edf48989d19f15e7ca729e0c02dd375b" sha1="7395eb0acdd844e1169cad473cf6378e06cd5be1" status="none" />
 		<rom name="Digimon World 2 (USA) - [Alternative v6.0 by Grensuingo].txt" size="6616" crc="ccf9e10e" md5="4bbc772bad7e467fcc66ff3d379b3c70" sha1="269c27e0fdf8a4963a5ad4989dc45bfecad5000e" status="none" />
 		<rom name="Digimon World 2 (USA) - [Conquered v1.0 by acemon33].txt" size="4202" crc="13b6bce0" md5="0099a35cd594f9b764b4f07446849a85" sha1="7a5c92fd00b604e926f4b527638cb5a85be2f2be" status="none" />
 		<rom name="Digimon World 2 (USA) - [Faithful Mode v4.1 by Xuroka] Faithful Mode.txt" size="6912" crc="ece301b8" md5="b030514176f10de83e511ac763ea069a" sha1="e191f59e12cc1f863bdc00c4bff62f8dc48b906c" status="none" />
@@ -114,13 +117,18 @@
 		<rom name="Mortal Kombat 4 (USA) - [Hardcore Attack v2.0 by Mr2].txt" size="10143" crc="878420b4" md5="a316745a9dec2d767699d042708b69ff" sha1="db41975e476d83cbeb99417ce61016ff437a15c3" status="none" />
 		<rom name="Mortal Kombat Trilogy (USA) - [Fixed Audio v0.999 by That One Seong].txt" size="3628" crc="7bdf5a8a" md5="987abe389d10cbaa176a6e83ac0ed61a" sha1="e9846d917d2190210b1d0662b40bbfc8d9a140ef" status="none" />
 		<rom name="Mortal Kombat Trilogy (USA) - [Tournament Edition v2.2 by Mr2].txt" size="4706" crc="b589429d" md5="e913161e31590485491e9a4ede751f15" sha1="6fb53ee691fe6c2f85af0a005212c88f20f4a51c" status="none" />
+		<rom name="Ms. Pac-Man Maze Madness (Demo) (USA) - [Extended Prototype Demo v20260416 by bbayles].md" size="919" crc="9b6f765f" md5="bdcbb43fff47c2331c2d7ff42ac62ae8" sha1="024939b5847616916cea51c72622b5bd0a885163" status="none" />
+		<rom name="Ms. Pac-Man Maze Madness (USA) - [Level Select Menu v20260416 by bbayles].md" size="919" crc="9b6f765f" md5="bdcbb43fff47c2331c2d7ff42ac62ae8" sha1="024939b5847616916cea51c72622b5bd0a885163" status="none" />
 		<rom name="NBA Jam - Tournament Edition (Japan) - [Double Z Mod (J) v1.18 by eskayelle].txt" size="12330" crc="e14714f6" md5="cba90b934bde046e95c46963db46ea6d" sha1="a64936f76311d2864c9b2b892bf0204a361c53b1" status="none" />
 		<rom name="NBA Jam - Tournament Edition (USA) - [NBA Jam 22 v1.4 by ponlork].txt" size="1782" crc="a38efb0c" md5="353736071fe29ccceb788c5c0a4acf2d" sha1="6a34f037927b64619f2491250bc10ca70f4737af" status="none" />
 		<rom name="NBA Jam - Tournament Edition (USA) - [NBA Jam 50 v0.99 by eskayelle and Wake].txt" size="13307" crc="dff3aa9b" md5="f05d0bf385ee3e8215619ff398f1cfe1" sha1="b8ce4b8a00cea146225ee9df19c2f63be23e7e14" status="none" />
 		<rom name="Need for Speed - High Stakes (USA) - [Complete Edition v3 by Hypercycle] changelog_en.txt" size="5760" crc="f7e8d2cf" md5="ce3823694481252a47ee0c28645c1c69" sha1="ad50034b8ffc043d7958b550d725f8a4513e2833" status="none" />
 		<rom name="Need for Speed - High Stakes (USA) - [Complete Edition v3 by Hypercycle] readme_en.txt" size="7973" crc="7054d59d" md5="f827ee1277c106c7608e44d31b7a725c" sha1="bb15945609229ba3190865d37087ccd97c7e65d2" status="none" />
 		<rom name="Note, The (Europe) - [60hz and Undub v1.0 by swosho].txt" size="310" crc="b6a1caaf" md5="18d98a8dc439e779f3ee0d2932c5dcac" sha1="c5f6475961c6bb74934ab89700fa5d8e67ddee45" status="none" />
+		<rom name="Official U.S. PlayStation Magazine Demo Disc 03 (USA) - [Vs Extended Prototype Demo v20260402 by bbayles].txt" size="1005" crc="3a1d1c0e" md5="83a4c4f9159a03acbc95857dc1495684" sha1="71bcae0285639b9d329cd36815cc9978deee3206" status="none" />
+		<rom name="Official U.S. PlayStation Magazine Demo Disc 13 (USA) - [Test Drive 5 Extended Prototype Demo v20260409 by bbayles].txt" size="1030" crc="a0289276" md5="c332ff3b64966552797fff41d007aedd" sha1="cbc35d90e185f667be8d97ce150fb5c5f367bcec" status="none" />
 		<rom name="Persona 2 - Eternal Punishment (USA) - [Debug Menu v by Revenant].txt" size="1818" crc="b470c123" md5="3b2f3ad35245119983ddebe54a67c47f" sha1="2163f1845d78636845b539c73d457d8428562a9d" status="none" />
+		<rom name="PlayStation Picks (USA) - [Destruction Derby Demo Playable v20260301 by bbayles].txt" size="543" crc="e1441d17" md5="96432df0dc1fc9379443be7d82f9394d" sha1="ccf809136a35066841c98fe74d1a605366d5d620" status="none" />
 		<rom name="Rayman (USA) - [Reverse Endsigns v1.1 by EightSixThree].txt" size="1386" crc="ec9b9f78" md5="46faca754f0e4365d95a2d2e0a75116e" sha1="c6569312f599e416eaac65e0a3faccdc4a81b5d4" status="none" />
 		<rom name="Resident Evil 2 - Dual Shock Ver. (USA) - [Sorry About That, Babe Edition v1.5 by Dacaskos].txt" size="11052" crc="cf1e905e" md5="cd9d707dbd38d803165418973364d323" sha1="a4d4cd5ee0edcb1ffa1c4c106867cff3c97f7a11" status="none" />
 		<rom name="Resident Evil 3 - Nemesis (USA, Canada) - [I'll give you STARS edition v1.4.2 by Dacaskos].txt" size="14516" crc="9fcf3753" md5="ded63a2921a8b8265b3a4f5cdd806926" sha1="355e0d4ddaab8c0bc974d4ef5bb50f9beb557993" status="none" />
@@ -135,6 +143,7 @@
 		<rom name="Robo Pit 2 (USA) - [No Music Fix v1.0 by Alma Elma].txt" size="447" crc="07664727" md5="cb2b124bdd6e77af6acb5b78ec0918f7" sha1="6f0915cd0b390f26320c743f57df681e7d76e07c" status="none" />
 		<rom name="SaGa Frontier (USA) - [Alkaiser Improvements v1.0 by Zaraktheus].txt" size="809" crc="2c3e0050" md5="432c4263c4f8ec270b55a3ae419564dc" sha1="74bb90ff7a58f7183abdf3d811da4540bb0fb77e" status="none" />
 		<rom name="SaGa Frontier (USA) - [Monster Can Seal and Equip Abilities v1.0 by Zaraktheus].txt" size="4271" crc="317573fb" md5="13bb14675b62505de37a255c8c305513" sha1="ab51210121af8a4f8932bf7c243b107f41b79180" status="none" />
+		<rom name="Shutokou Battle R (Demo) (Japan) - [Prototype Demo Extension v20250305 by bbayles].md" size="1337" crc="ca17c132" md5="c7458ce6e18ee8f6e6bd6908c7a5e02e" sha1="f362faca53b1b96731ea4c90af21bb8fab5e2539" status="none" />
 		<rom name="Spyro the Dragon (USA) - [Spyro 3.5 - Return to the Forgotten Realms v1.1.0 by Hwd405 and Jeremy Thompson] CHANGELOG.txt" size="2461" crc="c07bf5c5" md5="ef7d8fcc97cad6624ce194c454cec950" sha1="3096bb66bb4194e1498c07544995fa57caa8177a" status="none" />
 		<rom name="Spyro the Dragon (USA) - [Spyro 3.5 - Return to the Forgotten Realms v1.1.0 by Hwd405 and Jeremy Thompson] CREDITS.txt" size="1734" crc="293f9bec" md5="c6bc5094ccd76bf5b9c779adaed54d7c" sha1="e818c3d8f3d6d3c659f7fbfd91ea6f3b04ab0463" status="none" />
 		<rom name="Spyro the Dragon (USA) - [Spyro 3.5 - Return to the Forgotten Realms v1.1.0 by Hwd405 and Jeremy Thompson] README.txt" size="2373" crc="97eb1f23" md5="c415550698e1e16aa73a7b43a575d837" sha1="c29437b4f9d9465798736c037d448a0745511389" status="none" />
@@ -409,6 +418,12 @@
 		<rom name="Clock Tower II - The Struggle Within (USA) - [Undub v1 by SilentPyramid].bin" size="428922480" crc="f0a56f49" md5="ab6a29da958d06daf640ee0a35709f80" sha1="52b0cacd5ad1dcf36ebf0fad8324a23e4e53cab9" status="none" />
 		<rom name="Clock Tower II - The Struggle Within (USA) - [Undub v1 by SilentPyramid].cue" size="138" crc="e6a7c1a1" md5="31cb0f76af33a376c4065404127444b2" sha1="1edd4d7339fb51e1ba4f29651f6a1a10e5f5b077" status="none" />
 	</machine>
+	<machine name="Codemasters Demo Disk (Europe) - [Micro Maniacs Extended Prototype Demo v20260423 by bbayles]">
+		<description>Codemasters Demo Disk (Europe) - [Micro Maniacs Extended Prototype Demo v20260423 by bbayles]</description>
+		<rom name="Codemasters Demo Disk (Europe) - [Micro Maniacs Extended Prototype Demo v20260423 by bbayles] (Track 1).bin" size="122097024" crc="1d02954e" md5="f4e9fd3ee22d4d8255633cab71898d40" sha1="4b08ae2fa4787b5560d4c2484739a959e2240ab7" status="none" />
+		<rom name="Codemasters Demo Disk (Europe) - [Micro Maniacs Extended Prototype Demo v20260423 by bbayles] (Track 2).bin" size="48594672" crc="82637522" md5="0c6619764611eff175821a695229c0fa" sha1="cf953bde0d04d9483d7ae04848744326929b531f" status="none" />
+		<rom name="Codemasters Demo Disk (Europe) - [Micro Maniacs Extended Prototype Demo v20260423 by bbayles].cue" size="356" crc="b068628c" md5="11e8783cab5eb3c0050f7b25d2f77c34" sha1="b2352219619cd8df6e5dd66f50c44342d9e17882" status="none" />
+	</machine>
 	<machine name="Colin McRae Rally 2.0 (USA) - [Colin McRae Rally 2.1 v1.0 by Lupus Erectus]">
 		<description>Colin McRae Rally 2.0 (USA) - [Colin McRae Rally 2.1 v1.0 by Lupus Erectus]</description>
 		<rom name="Colin McRae Rally 2.0 (USA) - [Colin McRae Rally 2.1 v1.0 by Lupus Erectus].bin" size="488317536" crc="ab6c48d9" md5="a0ab9ec007f3152ad0240d650bd620ca" sha1="4734ed9fdc5c1ca3c31341687d160e995d898149" status="none" />
@@ -433,6 +448,22 @@
 		<description>Darkstalkers 3 (USA) - [Uncensored v1.1 by Ortew]</description>
 		<rom name="Darkstalkers 3 (USA) - [Uncensored v1.1 by Ortew].bin" size="749838768" crc="f54de0dc" md5="23e21ae198a494712402bdf8938a319a" sha1="9ea7ef7af64e4e7a09f96a746d5a5f9bca9d93d6" status="none" />
 		<rom name="Darkstalkers 3 (USA) - [Uncensored v1.1 by Ortew].cue" size="115" crc="a77c91ec" md5="c193ed28ce0dac2b86a7b353697c15d0" sha1="80fa531f0abb72f92f30adeb15c1643947a5577d" status="none" />
+	</machine>
+	<machine name="DemoDemo PlayStation Soukangou Vol. 1 (Japan) - [Ridge Racer Extended Prototype Demo v20260312 by bbayles]">
+		<description>DemoDemo PlayStation Soukangou Vol. 1 (Japan) - [Ridge Racer Extended Prototype Demo v20260312 by bbayles]</description>
+		<rom name="DemoDemo PlayStation Soukangou Vol. 1 (Japan) - [Ridge Racer Extended Prototype Demo v20260312 by bbayles] (Track 1).bin" size="335343456" crc="c9c43d0d" md5="a0f3c9395dca4ed532a659041d558ea2" sha1="2a506580dce0b825331d4e36b13f27d4cb3d065f" status="none" />
+		<rom name="DemoDemo PlayStation Soukangou Vol. 1 (Japan) - [Ridge Racer Extended Prototype Demo v20260312 by bbayles] (Track 2).bin" size="60328800" crc="01c2c3a1" md5="f187cfa4ea5475c35f7d40e97d139a94" sha1="960022911079ba6fa6de1e7ed2695c0e800e45ab" status="none" />
+		<rom name="DemoDemo PlayStation Soukangou Vol. 1 (Japan) - [Ridge Racer Extended Prototype Demo v20260312 by bbayles] (Track 3).bin" size="28327488" crc="e9df0893" md5="d2a73380d9c2c1e10bd20528705bbdca" sha1="b3070238995a9f759225871f63fa1e4a732e841b" status="none" />
+		<rom name="DemoDemo PlayStation Soukangou Vol. 1 (Japan) - [Ridge Racer Extended Prototype Demo v20260312 by bbayles] (Track 4).bin" size="30590112" crc="cbb502b8" md5="1c775dbd7343c2c69612d12aeac153d1" sha1="1f01c6d2336ff763b7eb5f02502836a11ecef45b" status="none" />
+		<rom name="DemoDemo PlayStation Soukangou Vol. 1 (Japan) - [Ridge Racer Extended Prototype Demo v20260312 by bbayles] (Track 5).bin" size="6119904" crc="08bc59a3" md5="512aecb656e0bdfa90fafeea0ed44673" sha1="01090dfd52206545c25ee1706347ecd67f14a7c7" status="none" />
+		<rom name="DemoDemo PlayStation Soukangou Vol. 1 (Japan) - [Ridge Racer Extended Prototype Demo v20260312 by bbayles].cue" size="982" crc="262c0fc1" md5="10cbc29eb38a9649648e0143208e45b7" sha1="40ba1bdbcac5461944ce362c9307fa538589f856" status="none" />
+	</machine>
+	<machine name="DemoDemo PlayStation Vol. 16 (Japan) - [Motor Toon Grand Prix 2 Extended Prototype Demo v20260319 by bbayles]">
+		<description>DemoDemo PlayStation Vol. 16 (Japan) - [Motor Toon Grand Prix 2 Extended Prototype Demo v20260319 by bbayles]</description>
+		<rom name="DemoDemo PlayStation Vol. 16 (Japan) - [Motor Toon Grand Prix 2 Extended Prototype Demo v20260319 by bbayles] (Track 1).bin" size="397464480" crc="4dbcd94d" md5="ff813c31f5366320c659f38ad3ebe235" sha1="daa6192dea0c9dbc19cda664a7edfa3d9c0169d3" status="none" />
+		<rom name="DemoDemo PlayStation Vol. 16 (Japan) - [Motor Toon Grand Prix 2 Extended Prototype Demo v20260319 by bbayles] (Track 2).bin" size="9596160" crc="d0cd1da6" md5="88accd6c759410b608b08cb620a60f4f" sha1="7dbfc6c1c9f934d750b29aac8b43e5e4dd6b6318" status="none" />
+		<rom name="DemoDemo PlayStation Vol. 16 (Japan) - [Motor Toon Grand Prix 2 Extended Prototype Demo v20260319 by bbayles] (Track 3).bin" size="33908784" crc="857edda8" md5="369ff3006396bbca8d9a1fb9cc125af9" sha1="28a06c34d53442f736fed283c086340d7c56321e" status="none" />
+		<rom name="DemoDemo PlayStation Vol. 16 (Japan) - [Motor Toon Grand Prix 2 Extended Prototype Demo v20260319 by bbayles].cue" size="591" crc="93379da1" md5="7a24ededb37aaf7be9e189a749cbe3ae" sha1="30a6cdc46024b0be4e4f012a92fea003165eabe1" status="none" />
 	</machine>
 	<machine name="Digimon - Digital Card Battle (USA) - [Digi-Parts Fix v1.0 by Gledson999]">
 		<description>Digimon - Digital Card Battle (USA) - [Digi-Parts Fix v1.0 by Gledson999]</description>
@@ -1432,6 +1463,28 @@
 		<rom name="Mortal Kombat Trilogy (USA) - [Tournament Edition v2.2 by Mr2].bin" size="577190208" crc="d87cc657" md5="c7696eac413aae854f0d14a6282e9cf0" sha1="aa9658424a3b5e073dc70a77df75e7c649894733" status="none" />
 		<rom name="Mortal Kombat Trilogy (USA) - [Tournament Edition v2.2 by Mr2].cue" size="1984" crc="448df1fc" md5="586729deb4acca1967dbbfb06b971b5b" sha1="3750d09a98d6c9abbd6f6625fbf699dc720f895c" status="none" />
 	</machine>
+	<machine name="Ms. Pac-Man Maze Madness (Demo) (USA) - [Extended Prototype Demo v20260416 by bbayles]">
+		<description>Ms. Pac-Man Maze Madness (Demo) (USA) - [Extended Prototype Demo v20260416 by bbayles]</description>
+		<rom name="Ms. Pac-Man Maze Madness (Demo) (USA) - [Extended Prototype Demo v20260416 by bbayles] (Track 1).bin" size="143780112" crc="c7a5c534" md5="54d2c04e2a78514536e68b7701dd8ee9" sha1="869ffa42ba4fb78e2130aa553d497273a2409340" status="none" />
+		<rom name="Ms. Pac-Man Maze Madness (Demo) (USA) - [Extended Prototype Demo v20260416 by bbayles] (Track 2).bin" size="22141728" crc="53e52955" md5="8fd938ee0609bbf14ef9c48d0338c539" sha1="c463c214a2521c78059e47e9d29e6d08b67eb015" status="none" />
+		<rom name="Ms. Pac-Man Maze Madness (Demo) (USA) - [Extended Prototype Demo v20260416 by bbayles] (Track 3).bin" size="20763456" crc="7c764def" md5="e4970d007dc23cdeb123b4928c4bfb38" sha1="b96e20d35762bb25ff3b697d032a42aaab73374f" status="none" />
+		<rom name="Ms. Pac-Man Maze Madness (Demo) (USA) - [Extended Prototype Demo v20260416 by bbayles] (Track 4).bin" size="2384928" crc="bb8af30c" md5="8e5cc4a58d82a812c319c632a5ec2e74" sha1="e9ebc1790845855f1048bac0f6320342b7e8b372" status="none" />
+		<rom name="Ms. Pac-Man Maze Madness (Demo) (USA) - [Extended Prototype Demo v20260416 by bbayles] (Track 5).bin" size="22614480" crc="70a6dcf2" md5="afd15bb1829df836f615d72e29388bec" sha1="3c2760c358cecea023fe8b16a68aad0efd3c2673" status="none" />
+		<rom name="Ms. Pac-Man Maze Madness (Demo) (USA) - [Extended Prototype Demo v20260416 by bbayles] (Track 6).bin" size="21252672" crc="fc47ad70" md5="4e0bd973d733c9f0a97b6d81c733da34" sha1="2e96e52e70a4aa40b20d37a12e0936b5e4cfd101" status="none" />
+		<rom name="Ms. Pac-Man Maze Madness (Demo) (USA) - [Extended Prototype Demo v20260416 by bbayles] (Track 7).bin" size="28002912" crc="53138a3e" md5="938cd585633f5c4bff1856b807bfd8de" sha1="53bf773f2fd1e9ac3bf219555bf61a36c93a19a9" status="none" />
+		<rom name="Ms. Pac-Man Maze Madness (Demo) (USA) - [Extended Prototype Demo v20260416 by bbayles].cue" size="1242" crc="7d4491ef" md5="79b1f64f88cf2cb442cfcc67badb4ee3" sha1="466ce1d194e0c82e95189fa3d252ace2d5656ed5" status="none" />
+	</machine>
+	<machine name="Ms. Pac-Man Maze Madness (USA) - [Level Select Menu v20260416 by bbayles]">
+		<description>Ms. Pac-Man Maze Madness (USA) - [Level Select Menu v20260416 by bbayles]</description>
+		<rom name="Ms. Pac-Man Maze Madness (USA) - [Level Select Menu v20260416 by bbayles] (Track 1).bin" size="298348848" crc="8dc3d3f9" md5="af2ec4d589e7d51d63f2c578ffe98c78" sha1="d1c6b2b341d385eb44a989e3695a09920c4ddf24" status="none" />
+		<rom name="Ms. Pac-Man Maze Madness (USA) - [Level Select Menu v20260416 by bbayles] (Track 2).bin" size="22141728" crc="53e52955" md5="8fd938ee0609bbf14ef9c48d0338c539" sha1="c463c214a2521c78059e47e9d29e6d08b67eb015" status="none" />
+		<rom name="Ms. Pac-Man Maze Madness (USA) - [Level Select Menu v20260416 by bbayles] (Track 3).bin" size="20763456" crc="7c764def" md5="e4970d007dc23cdeb123b4928c4bfb38" sha1="b96e20d35762bb25ff3b697d032a42aaab73374f" status="none" />
+		<rom name="Ms. Pac-Man Maze Madness (USA) - [Level Select Menu v20260416 by bbayles] (Track 4).bin" size="2384928" crc="bb8af30c" md5="8e5cc4a58d82a812c319c632a5ec2e74" sha1="e9ebc1790845855f1048bac0f6320342b7e8b372" status="none" />
+		<rom name="Ms. Pac-Man Maze Madness (USA) - [Level Select Menu v20260416 by bbayles] (Track 5).bin" size="22614480" crc="70a6dcf2" md5="afd15bb1829df836f615d72e29388bec" sha1="3c2760c358cecea023fe8b16a68aad0efd3c2673" status="none" />
+		<rom name="Ms. Pac-Man Maze Madness (USA) - [Level Select Menu v20260416 by bbayles] (Track 6).bin" size="21252672" crc="fc47ad70" md5="4e0bd973d733c9f0a97b6d81c733da34" sha1="2e96e52e70a4aa40b20d37a12e0936b5e4cfd101" status="none" />
+		<rom name="Ms. Pac-Man Maze Madness (USA) - [Level Select Menu v20260416 by bbayles] (Track 7).bin" size="28002912" crc="53138a3e" md5="938cd585633f5c4bff1856b807bfd8de" sha1="53bf773f2fd1e9ac3bf219555bf61a36c93a19a9" status="none" />
+		<rom name="Ms. Pac-Man Maze Madness (USA) - [Level Select Menu v20260416 by bbayles].cue" size="1151" crc="7553c328" md5="6793ac188b267c3257bebdb39da0db88" sha1="b306abf520310cfdcb2ed9ac8b6efd8664d25ee2" status="none" />
+	</machine>
 	<machine name="NBA Jam - Tournament Edition (Japan) - [Double Z Mod (J) v1.18 by eskayelle]">
 		<description>NBA Jam - Tournament Edition (Japan) - [Double Z Mod (J) v1.18 by eskayelle]</description>
 		<rom name="NBA Jam - Tournament Edition (Japan) - [Double Z Mod (J) v1.18 by eskayelle] (Track 01).bin" size="411286551" crc="0fa12a78" md5="dcfd683ee9ccc5e213f9593aba4d8603" sha1="34f182ff20bd8eb24ad62935ab4f270631b4a04d" status="none" />
@@ -1528,6 +1581,29 @@
 		<rom name="Note, The (Europe) - [60hz and Undub v1.0 by swosho].bin" size="566241648" crc="7fb053eb" md5="44212c992f181a50f652035cc9504ff2" sha1="eb4d31fed34eb9bd48a971c61629b73462281904" status="none" />
 		<rom name="Note, The (Europe) - [60hz and Undub v1.0 by swosho].cue" size="246" crc="8e240364" md5="0015889a9e103d8a5189c785001b0de4" sha1="5b95b2aca84888e830c4cacff2defc6c4f04357e" status="none" />
 	</machine>
+	<machine name="Official U.S. PlayStation Magazine Demo Disc 03 (USA) - [Vs Extended Prototype Demo v20260402 by bbayles]">
+		<description>Official U.S. PlayStation Magazine Demo Disc 03 (USA) - [Vs Extended Prototype Demo v20260402 by bbayles]</description>
+		<rom name="Official U.S. PlayStation Magazine Demo Disc 03 (USA) - [Vs Extended Prototype Demo v20260402 by bbayles] (Track 1).bin" size="181141632" crc="941d8d1c" md5="ba4f40d4406370be520910be7409a126" sha1="6f6a5fcedb49f450a1c0369d8d01c293c6116128" status="none" />
+		<rom name="Official U.S. PlayStation Magazine Demo Disc 03 (USA) - [Vs Extended Prototype Demo v20260402 by bbayles] (Track 2).bin" size="5941152" crc="f8d68f20" md5="5a0ba44b89721d33fc024bdca0f028f0" sha1="32c4563b3673d8907292bc7d47f39a3e9cb3fb2d" status="none" />
+		<rom name="Official U.S. PlayStation Magazine Demo Disc 03 (USA) - [Vs Extended Prototype Demo v20260402 by bbayles] (Track 3).bin" size="15612576" crc="dc7ee67b" md5="77494918297562a14b5496e7b17e9303" sha1="c30a2036b75ed6dc85a5ab449a92e5109ff87e04" status="none" />
+		<rom name="Official U.S. PlayStation Magazine Demo Disc 03 (USA) - [Vs Extended Prototype Demo v20260402 by bbayles] (Track 4).bin" size="31897824" crc="83ba448b" md5="abd8f670c1b9a0d7efe03cf3639135ac" sha1="85c9b4ab85a844c7803ebc0f1aae9b68dc7ad547" status="none" />
+		<rom name="Official U.S. PlayStation Magazine Demo Disc 03 (USA) - [Vs Extended Prototype Demo v20260402 by bbayles] (Track 5).bin" size="7585200" crc="70b5ea80" md5="0f484825f8ebac056dadac9acf483048" sha1="87cd61c26d8c4b72918c576411084c37697760fa" status="none" />
+		<rom name="Official U.S. PlayStation Magazine Demo Disc 03 (USA) - [Vs Extended Prototype Demo v20260402 by bbayles] (Track 6).bin" size="11649456" crc="71a35c7b" md5="6376b7df349d00dd9464be2c9c55a304" sha1="335e772113b532d29e4961825c3af6b5fcbfcf63" status="none" />
+		<rom name="Official U.S. PlayStation Magazine Demo Disc 03 (USA) - [Vs Extended Prototype Demo v20260402 by bbayles] (Track 7).bin" size="10750992" crc="f721fde1" md5="0c753c43ce81efd8e772daf923fa8c39" sha1="fca09012c6238f766e52b133ecc0f38a79ba417d" status="none" />
+		<rom name="Official U.S. PlayStation Magazine Demo Disc 03 (USA) - [Vs Extended Prototype Demo v20260402 by bbayles] (Track 8).bin" size="26826912" crc="5f16ff59" md5="dde70d4c7d91d12de66420acb1b8f27d" sha1="ea44fcd76443f714993a758850254f2332efee38" status="none" />
+		<rom name="Official U.S. PlayStation Magazine Demo Disc 03 (USA) - [Vs Extended Prototype Demo v20260402 by bbayles] (Track 9).bin" size="1401792" crc="780b1fc7" md5="54734d3fe6f75e0d6cf73fa0d3b63c83" sha1="d11089e8cd3f7d9fc4dfd1156e1a02f2f992897a" status="none" />
+		<rom name="Official U.S. PlayStation Magazine Demo Disc 03 (USA) - [Vs Extended Prototype Demo v20260402 by bbayles].cue" size="1773" crc="51eb8bfd" md5="1ce90495edd645e839cf708ac4f8510b" sha1="f0fb96259c5bf1de5b6f44c6681166fcb187ba8f" status="none" />
+	</machine>
+	<machine name="Official U.S. PlayStation Magazine Demo Disc 13 (USA) - [Test Drive 5 Extended Prototype Demo v20260409 by bbayles]">
+		<description>Official U.S. PlayStation Magazine Demo Disc 13 (USA) - [Test Drive 5 Extended Prototype Demo v20260409 by bbayles]</description>
+		<rom name="Official U.S. PlayStation Magazine Demo Disc 13 (USA) - [Test Drive 5 Extended Prototype Demo v20260409 by bbayles] (Track 1).bin" size="525697872" crc="50d884af" md5="be70b05b6fd3abc66edea03c827ef4b4" sha1="aa4a8cf283adcbdccbfa8648c170aab1b3023176" status="none" />
+		<rom name="Official U.S. PlayStation Magazine Demo Disc 13 (USA) - [Test Drive 5 Extended Prototype Demo v20260409 by bbayles] (Track 2).bin" size="17992800" crc="83997ad4" md5="c36c6c2849838998769825f755635704" sha1="19618e88a716a9e2003d9288fa84593ec9ed52f1" status="none" />
+		<rom name="Official U.S. PlayStation Magazine Demo Disc 13 (USA) - [Test Drive 5 Extended Prototype Demo v20260409 by bbayles] (Track 3).bin" size="26093088" crc="2ba81cab" md5="cab6337c5b8c9678034cdf724f1e0593" sha1="94cf45af4c58ed8aeed6b91bddcac553688f8135" status="none" />
+		<rom name="Official U.S. PlayStation Magazine Demo Disc 13 (USA) - [Test Drive 5 Extended Prototype Demo v20260409 by bbayles] (Track 4).bin" size="4010160" crc="8c7c12f7" md5="75fb283dbe62ce550dd6b247bfd866a4" sha1="2dc6f9a6009f60a4423e15e2fe8e34f0dcf8a6ff" status="none" />
+		<rom name="Official U.S. PlayStation Magazine Demo Disc 13 (USA) - [Test Drive 5 Extended Prototype Demo v20260409 by bbayles] (Track 5).bin" size="26622288" crc="5b590460" md5="cbd2c75cb422b770cde928aa7aa72231" sha1="4789475cb0e0b529c1719e11525be48e90878122" status="none" />
+		<rom name="Official U.S. PlayStation Magazine Demo Disc 13 (USA) - [Test Drive 5 Extended Prototype Demo v20260409 by bbayles] (Track 6).bin" size="1401792" crc="780b1fc7" md5="54734d3fe6f75e0d6cf73fa0d3b63c83" sha1="d11089e8cd3f7d9fc4dfd1156e1a02f2f992897a" status="none" />
+		<rom name="Official U.S. PlayStation Magazine Demo Disc 13 (USA) - [Test Drive 5 Extended Prototype Demo v20260409 by bbayles].cue" size="1236" crc="4e53d265" md5="2bb3eec9f6ff758780df459566c48389" sha1="6335cf3f4bd6c756adaa8082cef37931df815224" status="none" />
+	</machine>
 	<machine name="Panzer Bandit (Japan) - [All Heroes v1.2 by Shadow501]">
 		<description>Panzer Bandit (Japan) - [All Heroes v1.2 by Shadow501]</description>
 		<rom name="Panzer Bandit (Japan) - [All Heroes v1.2 by Shadow501] (Track 1).bin" size="251504064" crc="bb5a9e87" md5="0a688a161cab478a6b1cedd6d5935230" sha1="61234f9e4f64dda49f3dec224c516d731334f5b9" status="none" />
@@ -1558,6 +1634,22 @@
 		<description>Persona 2 - Eternal Punishment (USA) - [Localized v20210606 by eiowlta] [Undub by unknown]</description>
 		<rom name="Persona 2 - Eternal Punishment (USA) - [Localized v20210606 by eiowlta] [Undub by unknown].bin" size="724827600" crc="5ccc5801" md5="104598209e09057c7142cdc07fda2ce8" sha1="d60c1feaaf8ab500242bccd6e39b97a582193f8d" status="none" />
 		<rom name="Persona 2 - Eternal Punishment (USA) - [Localized v20210606 by eiowlta] [Undub by unknown].cue" size="156" crc="24624f1d" md5="c8d3187a175635ad8af8b95c74d4a4be" sha1="afa92661f412289f0dc803806eec381259fbb0c4" status="none" />
+	</machine>
+	<machine name="PlayStation Picks (SCUS-94952) (USA) - [Destruction Derby Demo Playable v20260301 by bbayles]">
+		<description>PlayStation Picks (SCUS-94952) (USA) - [Destruction Derby Demo Playable v20260301 by bbayles]</description>
+		<rom name="PlayStation Picks (SCUS-94952) (USA) - [Destruction Derby Demo Playable v20260301 by bbayles] (Track 01).bin" size="294508032" crc="e0acea90" md5="cb6301ca783cf2e659be1f0ff3e89415" sha1="7642d2ea9f59bf3dec6796c876914c680e3f8de6" status="none" />
+		<rom name="PlayStation Picks (SCUS-94952) (USA) - [Destruction Derby Demo Playable v20260301 by bbayles] (Track 02).bin" size="34052256" crc="69f6f2c4" md5="469c7546a41167dbf4cf9a3acff70a2c" sha1="1e5c6cf0c7659a7c0f1bb46aad6f737a10dcc0de" status="none" />
+		<rom name="PlayStation Picks (SCUS-94952) (USA) - [Destruction Derby Demo Playable v20260301 by bbayles] (Track 03).bin" size="57666336" crc="5d63b0fa" md5="ac5c96dca383390e729840ca8b434794" sha1="f07f8258ec4a16bcba3a13995c320da16bc830a7" status="none" />
+		<rom name="PlayStation Picks (SCUS-94952) (USA) - [Destruction Derby Demo Playable v20260301 by bbayles] (Track 04).bin" size="11501280" crc="152643a6" md5="4929a82f393e3bfe710af037087dce68" sha1="5f7a328ffb5eb3f0649318745e9a44aeed46a2ac" status="none" />
+		<rom name="PlayStation Picks (SCUS-94952) (USA) - [Destruction Derby Demo Playable v20260301 by bbayles] (Track 05).bin" size="11821152" crc="1e57d80b" md5="3e60d9a54714c713d5ae6c72aeebd253" sha1="da08f0ffbe41663fe45d28f0dd6ec20f202bf7ab" status="none" />
+		<rom name="PlayStation Picks (SCUS-94952) (USA) - [Destruction Derby Demo Playable v20260301 by bbayles] (Track 06).bin" size="57174768" crc="6ec65808" md5="7617d4cfbcc37c9031e96e471863f4ec" sha1="9bda1d67ecb0a27d037d980d1ac6cd5d2e62f326" status="none" />
+		<rom name="PlayStation Picks (SCUS-94952) (USA) - [Destruction Derby Demo Playable v20260301 by bbayles] (Track 07).bin" size="10104192" crc="7a39d617" md5="3d327403f3436422c5113140ec028e17" sha1="8a6db828bd9c61a1895a48266634057a7d876ef6" status="none" />
+		<rom name="PlayStation Picks (SCUS-94952) (USA) - [Destruction Derby Demo Playable v20260301 by bbayles] (Track 08).bin" size="59505600" crc="89c753e0" md5="b798888c0788b143b7faff94562fe893" sha1="66b8e4ec53a5648e6a9742921b19dd2fa894bdb4" status="none" />
+		<rom name="PlayStation Picks (SCUS-94952) (USA) - [Destruction Derby Demo Playable v20260301 by bbayles] (Track 09).bin" size="21523152" crc="2c62eb8a" md5="fc66a3124188328b8d9a7a67264f0b48" sha1="3820997047510fb8058eec50fc4e2756538d9e78" status="none" />
+		<rom name="PlayStation Picks (SCUS-94952) (USA) - [Destruction Derby Demo Playable v20260301 by bbayles] (Track 10).bin" size="25570944" crc="79e365a4" md5="0757c28c497fea9fffc86894b5bea03e" sha1="6571d85ee39338e4404376623d5b4fbba5404ce6" status="none" />
+		<rom name="PlayStation Picks (SCUS-94952) (USA) - [Destruction Derby Demo Playable v20260301 by bbayles] (Track 11).bin" size="29381184" crc="ffd4a182" md5="8d711d4214d5b4cc5ebebd8722870de5" sha1="2b9d91bfbbcbe63d7562507cefcbbb4dbaf9db1f" status="none" />
+		<rom name="PlayStation Picks (SCUS-94952) (USA) - [Destruction Derby Demo Playable v20260301 by bbayles] (Track 12).bin" size="9005808" crc="ff880b4e" md5="722781c229b17f92457b8c571e31447d" sha1="6b6dc1e9d8631644ad4f9b1da0aea9b4e80f8789" status="none" />
+		<rom name="PlayStation Picks (SCUS-94952) (USA) - [Destruction Derby Demo Playable v20260301 by bbayles].cue" size="2238" crc="ba1ec863" md5="73d105791a90c01efbfcf32922353676" sha1="ad8cde409715be13eeb34c950f970dd4689e77e9" status="none" />
 	</machine>
 	<machine name="Rayman (USA) - [Reverse Endsigns v1.1 by EightSixThree]">
 		<description>Rayman (USA) - [Reverse Endsigns v1.1 by EightSixThree]</description>
@@ -1655,6 +1747,13 @@
 		<description>Shadow Tower (USA) - [Undub v1.0 by copypaste-kyun]</description>
 		<rom name="Shadow Tower (USA) - [Undub v1.0 by copypaste-kyun].bin" size="486012576" crc="e02cba24" md5="6c7727f70564e4fd24d47ba17e6b4c8c" sha1="a917a3ef33e6a9e53fd11e7ffa2da9d993dcce2c" status="none" />
 		<rom name="Shadow Tower (USA) - [Undub v1.0 by copypaste-kyun].cue" size="117" crc="4d17e489" md5="42397d6fda3dbcb76b64eeb7091b4ede" sha1="e483a7c7b80d8ffccd583c40fc37c2d356138531" status="none" />
+	</machine>
+	<machine name="Shutokou Battle R (Demo) (Japan) - [Prototype Demo Extension v20250305 by bbayles]">
+		<description>Shutokou Battle R (Demo) (Japan) - [Prototype Demo Extension v20250305 by bbayles]</description>
+		<rom name="Shutokou Battle R (Demo) (Japan) - [Prototype Demo Extension v20250305 by bbayles] (Track 1).bin" size="335806800" crc="1825e0ad" md5="6b1f0885f33d1d5b0efc5ab0c74a82b7" sha1="fb418331d7a97bbcdb25ef539f453a3dca3d037d" status="none" />
+		<rom name="Shutokou Battle R (Demo) (Japan) - [Prototype Demo Extension v20250305 by bbayles] (Track 2).bin" size="45071376" crc="9c48e480" md5="124dd9c5322b48ad01ceac589e05baa7" sha1="8ee9d864dc2535468601ac3fe51955bf9e26cabf" status="none" />
+		<rom name="Shutokou Battle R (Demo) (Japan) - [Prototype Demo Extension v20250305 by bbayles] (Track 3).bin" size="45071376" crc="9c48e480" md5="124dd9c5322b48ad01ceac589e05baa7" sha1="8ee9d864dc2535468601ac3fe51955bf9e26cabf" status="none" />
+		<rom name="Shutokou Battle R (Demo) (Japan) - [Prototype Demo Extension v20250305 by bbayles].cue" size="510" crc="2e22ef94" md5="e14b5d99d2b01e063a30a17b2cdfa6df" sha1="b2eea525e7e9ae3b9990e70e2adc3896b2802297" status="none" />
 	</machine>
 	<machine name="Silent Bomber (USA) - [Undub v1.0 by swosho]">
 		<description>Silent Bomber (USA) - [Undub v1.0 by swosho]</description>
