@@ -5,8 +5,8 @@
 		<name>Sega - Saturn [HackSet] Collection</name>
 		<description>HackSet Sega Saturn Collection</description>
 		<category> </category>
-		<version>20260430-210241</version>
-		<date>2026-04-30</date>
+		<version>20260503-141158</version>
+		<date>2026-05-03</date>
 		<author>GlitchedIris</author>
 		<url>https://github.com/GlitchedIris/HackSet</url>
 		<comment>A collection of romhacks for the Sega Saturn</comment>
@@ -20,6 +20,7 @@
 		<rom name="Albert Odyssey - Legend of Eldean (USA) - [Xhul hack v3 by Xhul].txt" size="3718" crc="71e22baf" md5="d245e96ef2a9767877d4db8c271b9258" sha1="979b54fd39006c8c909335cd7d964f052666f990" status="none" />
 		<rom name="Area 51 (USA) - [Flash Removal v1.0 by privateye].txt" size="2476" crc="56b87c9d" md5="b1bdf0138f5d614efbb480421557aefa" sha1="a7cd9355ea9f79cce774f4db03e0fc6e32d11d91" status="none" />
 		<rom name="Astal (USA) - [Audio Fixes v2.0 by Riggles].txt" size="4293" crc="a5f73d10" md5="e01c72b1a92a4fde3a554fc76df346fd" sha1="79cdf050cce88ff320c8a842b2b3f80427711ddd" status="none" />
+		<rom name="Asuka 120% Limited - Burning Fest. Limited (Japan) - [Burning Remixes v1.0 by PFTM].txt" size="596" crc="8577097d" md5="1ac55801d620859836b54e093cb1a2a6" sha1="0cf54524df0f487b6e70a8bc2fbb671c74513f11" status="none" />
 		<rom name="Asuka 120% Limited - Burning Fest. Limited (Japan) - [Limit Over v2.1 by CafeBreak Project].txt" size="9596" crc="c4d38a32" md5="acc86fa93984100f3aeea1fcec9f5b3c" sha1="ab09348e6a5eac7af19ff519f14e64ee15695e5c" status="none" />
 		<rom name="Asuka 120% Limited - Burning Fest. Limited (Japan) - [T-En v1.0 by Ms Tea].txt" size="3054" crc="a53be3be" md5="5b959c888b672e88483c703e75467695" sha1="97fc68acda60832425b0f004187054e970eda49f" status="none" />
 		<rom name="Batsugun (Japan) - [Tribute Boosted Arrange by Simon B].txt" size="5094" crc="108cf763" md5="65630b01d16fc6e7d1e4ae6e94b80f00" sha1="55cbf54a68eb3372f95d99b601271e4c13210c32" status="none" />
@@ -49,7 +50,7 @@
 		<rom name="Flash SegaSaturn Vol. 25 (Japan) - [Control Burning Rangers Demo v2024-12-18.01 by bbayles].txt" size="817" crc="61044ce4" md5="f2e31b2c494092b5052e9857b0f18d9c" sha1="15aa9adc4dc4c7c37c179967e5efaabdaa28d522" status="none" />
 		<rom name="Flash SegaSaturn Vol. 26 (Japan) - [Extended Prototype Demo v2024-08-22 by bbayles].txt" size="849" crc="6df01fd0" md5="2df2ce2b43b29831bf98be550ad01aaf" sha1="3b8bfc0fde254a35657c397e3ad323f248dd6d50" status="none" />
 		<rom name="G Vector (Japan) - [Extra Cheat Codes v2025-03-19.01 by bbalyes].txt" size="679" crc="e9a2e96c" md5="447a8893107659307a180e76516b8584" sha1="1085ac2ed415629ea4818e4a9273c2869182cd69" status="none" />
-		<rom name="Galactic Attack (USA) - [Arcade Soundtrack v1 by KoolFiller].txt" size="831" crc="777ccddb" md5="cf580108200751a9d0549a09152bbbe4" sha1="c2ffdcd88c8e853234b73778f5b93539fefdf473" status="none" />
+		<rom name="Galactic Attack (USA) - [Arcade Soundtrack v2 by KoolFiller].txt" size="1106" crc="4c2d9e88" md5="88c28da659971a4c3c88dbee823e73a7" sha1="1f06045518d66a6e48f7791255c9160f005ad09f" status="none" />
 		<rom name="Goiken Muyou - Anarchy in the Nippon (Demo) (Japan) - [Extended Prototype Demo v20240912 by bbayles].txt" size="858" crc="d719033f" md5="1795290f02a8de6857f99ef4865342e7" sha1="af6d430ffea324ca3fc9b502432985faeec0ead2" status="none" />
 		<rom name="Grandia - Digital Museum (Japan) - [Debug Menus v2025-01-04.01 by bbayles].txt" size="564" crc="809c2617" md5="111b4c9260d2be82389c213be54bf3a1" sha1="4439a56d8a86f018491236a0714e0d1d9dcd0f16" status="none" />
 		<rom name="Gremlin Interactive Demo Disc (Europe) - [Re-Loaded Extended Demo v2024.02.23-01 by bbayles].txt" size="842" crc="9fd1d59e" md5="2f4bff2b6055d8a2170337ce8bb24351" sha1="0505e348a347a6efd918ed1459deec6766662ea9" status="none" />
@@ -65,6 +66,7 @@
 		<rom name="Maximum Force (USA) - [Flash Removal v1.0 by privateye].txt" size="2263" crc="68a4db6d" md5="9df62328fa0b19023362a8f5eb13eee2" sha1="51918570cc426133bdf8ff005c178c39fce34f71" status="none" />
 		<rom name="Mechanical Violator Hakaider - Last Judgement (Japan) - [Flash Removal v1.0 by privateye].txt" size="2068" crc="63760174" md5="ed6601d7717b8b4ab4836c7489eb226c" sha1="2f38ab58ef2c2080f8b1c58dfbbf3b23d23893e1" status="none" />
 		<rom name="Metal Black (Japan) - [Debug Mode v2024-08-15 by bbayles].txt" size="752" crc="2ab52815" md5="9a59fbd6b5b136681df3be611f431762" sha1="27030d86f2f6d390e0a1e910ac5b62afadede84c" status="none" />
+		<rom name="Mortal Kombat Trilogy (USA) - [Quality Hack v1.1 by paul_met].txt" size="1287" crc="65429f73" md5="5f50499944b887c87ae4cb12160c2202" sha1="723835eb5a2378c2515554a466568e285310616c" status="none" />
 		<rom name="Mystaria - The Realms of Lore (USA) - [Debug and Cheat Menus v2024-10-07.01 by bbayles].txt" size="889" crc="9cfcb400" md5="34d9251ad1a4b3edc327db5761f25ef5" sha1="2c05163305e3368b5af1c5414a00a18bea568d55" status="none" />
 		<rom name="Nights into Dreams... (USA) - [Pedestrian Challenge v2024-07-06.01 by bbayles].txt" size="1471" crc="dd085491" md5="ad7525cc33a62c70a84ff37fbca6bbf8" sha1="5698b9cb7c6e5ce5e4a673dd5725d05fcd39a486" status="none" />
 		<rom name="Omakase! Savers (Japan) - [Debug Menu v2025-06-21.01 by bbayles].txt" size="716" crc="6b67f5fc" md5="498cad9941f1d4c22c530f9dbd81cd6d" sha1="bcb6e98710f7e3079b2482313b2ffa990a31a870" status="none" />
@@ -78,6 +80,7 @@
 		<rom name="Saturn Bomberman Fight!! (Japan) - [Bonus Stages v2024.01.16-01 by bbayles].txt" size="558" crc="814c768f" md5="33ebbf413b349d9425c9ab13b43682c7" sha1="bc99e12442ee930a5e0d78c4add74143ad468fbe" status="none" />
 		<rom name="Saturn Super Vol. 10 Furoku CD-ROM (Japan) - [VATLVA Prototype Demo Extension v2024-07-11.01 by bbayles].txt" size="1090" crc="1e1b2ca4" md5="8264b652988e599b9dd88be3c984d3c9" sha1="8e1d7223e3bb3e5a6550e4cd133116c10bf58911" status="none" />
 		<rom name="Scud - The Disposable Assassin (USA) - [Flash Removal v1.0 by privateye].txt" size="1767" crc="e529c981" md5="8905338c576aae91ad72cbc72dc81228" sha1="964ac4a460e6e6a6bd69d3e6f84f668e0b84b54d" status="none" />
+		<rom name="Sega Ages - OutRun (Japan) - [Extra Music Tracks v1.1 by OlivusPrime].txt" size="2171" crc="8fa8b275" md5="3b7a3dd5abdce6d4aa6988278c29a7b0" sha1="706250084dd07fd81872c72c14bc5f2292deecfa" status="none" />
 		<rom name="Sengoku Blade - Sengoku Ace Episode II (Japan) - [Enable Test Mode v2024-07-25.01 by bbayles].txt" size="613" crc="41ae991c" md5="a639df60bee3eac6d21bacee0d9d67a0" sha1="3f4d7466e5f1b6e9a7cc62a218fed849e3f1a597" status="none" />
 		<rom name="Shining Force III (USA) - [Extended v1.0 by Meduza Team].pdf" size="497930" crc="25597070" md5="762c0db349f0e376da11eb2a4c822df7" sha1="700095202cbc01d10488fce9b137691bb915ff9c" status="none" />
 		<rom name="Shining the Holy Ark (Japan) - [Rhythm Challenge v2025-06-18 by bbayles].txt" size="1109" crc="28dda0e7" md5="23b717bf076e4f1c5dc57b223f3e4c48" sha1="8525ff6a7ed8cfe7a0d9d5336ed2bb2430357dda" status="none" />
@@ -86,9 +89,11 @@
 		<rom name="Shinsetsu Samurai Spirits - Bushidou Retsuden (Japan) - [Debug Menu v2025-01-04.01 by bbayles].txt" size="707" crc="b400b07e" md5="05e89b003df96db6dcc18e8e58a4223a" sha1="6843f32b10d0d4719c21e504e2fdd0db24f9a2d7" status="none" />
 		<rom name="Silhouette Mirage (Demo) (Japan) - [Extended Prototype v2024-01-26 by bbayles].txt" size="1142" crc="1fdf9d69" md5="baafb38792404d32559210d4d249b256" sha1="e4ed30a40e810540149f3bde2f4b3599533ccae6" status="none" />
 		<rom name="Solar Eclipse (USA) - [Enable Debug Menu v2024.04.11-01 by bbayles].txt" size="520" crc="6194d407" md5="250029437c4fdfe40961c61d0b8aa1a5" sha1="261228b20320ef0268990acd95d6d7f82a35afd5" status="none" />
+		<rom name="Sonic 3D - Flickies' Island (Japan) - [Special Stage Edition v1.0 by bbayles].txt" size="9617" crc="204c261e" md5="4caae86aa3ebee2b68e7d0da6a4f3c93" sha1="5abc664a039301b17aff048a8489a3518d0bab47" status="none" />
 		<rom name="Sonic Jam (USA) - [Tails World v1.0.1 by privateye].txt" size="6212" crc="34a59118" md5="3fddf2037823e7f237c59dddac8f0c57" sha1="d5c674a0baa0ad3ca1cea0206dada045947d193d" status="none" />
 		<rom name="Sonic R (USA, Brazil) - [R and R mod v2026-01-26.01 by bbayles].txt" size="1026" crc="09d77865" md5="3d183de11f0da0771b4f6ca2a2a9e8fe" sha1="add161d3cb2b12c1a0594954ebd5c61f5e00bd9a" status="none" />
 		<rom name="Steep Slope Sliders (USA) - [Easier Minigame Entry v2024-03-11 by bbayles].txt" size="744" crc="85dfd634" md5="17849a52538f8b7c15b41def29c1eeb2" sha1="3545a13d02b919486dd0186516fc5eecd91adb04" status="none" />
+		<rom name="Story of Thor 2, The (Europe) - [4 in 1 Hack v1.5 by paul_met].txt" size="4251" crc="42678473" md5="2e2b56193bc2db98ce591a5294acf238" sha1="5c64462946f9ddca3313220581fea6d072e61c6a" status="none" />
 		<rom name="Street Fighter - The Movie (USA) - [Sprite Test Menu v2024.04.21-01 by bbayles].txt" size="364" crc="fed4023f" md5="d521a22476123961ae9b4420f02afa4f" sha1="71603f4d78798c920c5174da12df26b9c6a403d2" status="none" />
 		<rom name="Street Fighter Zero 2 (Demo) (Japan) - [Extended Prototype Demo v2024.05.16-01 by bbayles].txt" size="655" crc="6f7cca5e" md5="ef9f7001238ca0568bc3734ce481bcca" sha1="8bd15faac38bb6d19b0a0485dd31a00702008eb5" status="none" />
 		<rom name="Strikers 1945 (Japan) - [Enable Test Mode v2024-07-26.01 by bbayles].txt" size="425" crc="1ce6286e" md5="2028f4f63818a6b7780f35856df9313a" sha1="2d3bd4f670ef4596f2218e006aae797a7a9577c0" status="none" />
@@ -266,6 +271,16 @@
 		<rom name="Astal (USA) - [Audio Fixes v2.0 by Riggles] (Track 1).bin" size="615513696" crc="ac595e82" md5="2bf47bd1fffc9abc0c9f618727290ed7" sha1="6346c51dc762d43ed47c8dd008bf2919df61e674" status="none" />
 		<rom name="Astal (USA) - [Audio Fixes v2.0 by Riggles] (Track 2).bin" size="21346752" crc="d102e06b" md5="11c34b7adbbaf59e7f143f065ca4ec4a" sha1="6146476de9009391ce5562982f8680469876d4c3" status="none" />
 		<rom name="Astal (USA) - [Audio Fixes v2.0 by Riggles].cue" size="279" crc="6d21924b" md5="e355db803dc78634a15746265bb684ee" sha1="211d374580375e20a501156c11f7d7deee2b6c39" status="none" />
+	</machine>
+	<machine name="Asuka 120% Limited - Burning Fest. Limited (Japan) - [Burning Remixes v1.0 by PFTM]">
+		<description>Asuka 120% Limited - Burning Fest. Limited (Japan) - [Burning Remixes v1.0 by PFTM]</description>
+		<rom name="Asuka 120% Limited - Burning Fest. Limited (Japan) - [Burning Remixes v1.0 by PFTM] (Track 01).bin" size="629317584" crc="833b3028" md5="3274c9899adacdc4d48b357531e3f304" sha1="1402edd72c98ea38e87a0f4bef149af3ec81a29a" status="none" />
+		<rom name="Asuka 120% Limited - Burning Fest. Limited (Japan) - [Burning Remixes v1.0 by PFTM].cue" size="1696" crc="64940427" md5="1c86799c26a896920bcbef56f94122a8" sha1="b770c40aebd880dd9de4dfb42eb95ca9f61da27b" status="none" />
+	</machine>
+	<machine name="Asuka 120% Limited - Burning Fest. Limited (Japan) - [Burning Remixes v1.0 by PFTM] [Limit Over v2.1 by CafeBreak Project] [T-En v1.0 by Ms Tea]">
+		<description>Asuka 120% Limited - Burning Fest. Limited (Japan) - [Burning Remixes v1.0 by PFTM] [Limit Over v2.1 by CafeBreak Project] [T-En v1.0 by Ms Tea]</description>
+		<rom name="Asuka 120% Limited - Burning Fest. Limited (Japan) - [Burning Remixes v1.0 by PFTM] [Limit Over v2.1 by CafeBreak Project] [T-En v1.0 by Ms Tea] (Track 01).bin" size="629317584" crc="56537319" md5="b0f512194ddf6a3984c71771256275cd" sha1="44e182e6e78960d1eddd16b7e7d8d61156aca132" status="none" />
+		<rom name="Asuka 120% Limited - Burning Fest. Limited (Japan) - [Burning Remixes v1.0 by PFTM] [Limit Over v2.1 by CafeBreak Project] [T-En v1.0 by Ms Tea].cue" size="1757" crc="c7f6f02e" md5="1fff18a5fdd068d555d0d47d52365848" sha1="78ef4d28ac9bf990791d990f5b4434f1edec7a95" status="none" />
 	</machine>
 	<machine name="Asuka 120% Limited - Burning Fest. Limited (Japan) - [Limit Over v2.1 by CafeBreak Project] [T-En v1.0 by Ms Tea]">
 		<description>Asuka 120% Limited - Burning Fest. Limited (Japan) - [Limit Over v2.1 by CafeBreak Project] [T-En v1.0 by Ms Tea]</description>
@@ -863,27 +878,27 @@
 		<rom name="G Vector (Japan) - [Extra Cheat Codes v2025-03-19.01 by bbalyes] (Track 16).bin" size="23110752" crc="57e0bb92" md5="e2750906ed773a063c6aaa145eaf70d4" sha1="15b70017f7dec231721f0927bbec228c997eb078" status="none" />
 		<rom name="G Vector (Japan) - [Extra Cheat Codes v2025-03-19.01 by bbalyes].cue" size="2526" crc="100882d4" md5="0b5c386bc076ecfa400966c590b7ccbe" sha1="dca3942cb2f713ac0837050a409b0e07301bbfd1" status="none" />
 	</machine>
-	<machine name="Galactic Attack (USA) - [Arcade Soundtrack v1 by KoolFiller]">
-		<description>Galactic Attack (USA) - [Arcade Soundtrack v1 by KoolFiller]</description>
-		<rom name="Galactic Attack (USA) - [Arcade Soundtrack v1 by KoolFiller] (Track 01).bin" size="16781520" crc="69fc11ea" md5="5758da94abf13c16d21528c192f7c624" sha1="ac745a5e8ec979fd61dbce14939e68d0f532e8e0" status="none" />
-		<rom name="Galactic Attack (USA) - [Arcade Soundtrack v1 by KoolFiller] (Track 02).bin" size="5324112" crc="7a3b45df" md5="80a1887704cb4f6193d222a0105a6dd3" sha1="175c38587e0395d0158dccde4791635ffa64b07f" status="none" />
-		<rom name="Galactic Attack (USA) - [Arcade Soundtrack v1 by KoolFiller] (Track 03).bin" size="8307708" crc="c0cde5e3" md5="5090fae1196f71ff420f3dcb0bbc68d8" sha1="453e62c6b88f7fb06fd0356761c2dfd057e006eb" status="none" />
-		<rom name="Galactic Attack (USA) - [Arcade Soundtrack v1 by KoolFiller] (Track 04).bin" size="34009856" crc="3e079978" md5="c191cf2f93f7751c6390fc4a691c436f" sha1="22c59f4c589400eece4e5cf00b283810e8b93974" status="none" />
-		<rom name="Galactic Attack (USA) - [Arcade Soundtrack v1 by KoolFiller] (Track 05).bin" size="41445212" crc="7aa01f20" md5="a67c94911b4bea167ef8e8c25a2509e0" sha1="80a21fbdc9277ba98d1905beaf6b61966a0c4273" status="none" />
-		<rom name="Galactic Attack (USA) - [Arcade Soundtrack v1 by KoolFiller] (Track 06).bin" size="50967376" crc="347a33c8" md5="60a1ca093f379200770c6cc9a9ccf6ae" sha1="d34daadcd563c4e7a173657ce4006457cda0a00f" status="none" />
-		<rom name="Galactic Attack (USA) - [Arcade Soundtrack v1 by KoolFiller] (Track 07).bin" size="45431560" crc="7d8c14f6" md5="6516fb13ee5cbb66cce173aa17791a2b" sha1="9b40af73aaecf4dc98f1bc16eb32a5cb6dc016e5" status="none" />
-		<rom name="Galactic Attack (USA) - [Arcade Soundtrack v1 by KoolFiller] (Track 08).bin" size="42551160" crc="873e3ba6" md5="216fce287c10f6200c81c62a8911e6ff" sha1="e9bc1f6089e0bf78f66230da91c1db4ab2fffd20" status="none" />
-		<rom name="Galactic Attack (USA) - [Arcade Soundtrack v1 by KoolFiller] (Track 09).bin" size="56834032" crc="c6c49a9a" md5="794219a1bbdbe0b8002d77e384958029" sha1="99bd44d6bcb5ded7f1470098aa7d2f34378f55dd" status="none" />
-		<rom name="Galactic Attack (USA) - [Arcade Soundtrack v1 by KoolFiller] (Track 10).bin" size="20696236" crc="0687973e" md5="8e5d3c6350c85dd44145a9168865d843" sha1="c9ee116e0fd3dc05f883b3618b4e325270f82ea1" status="none" />
-		<rom name="Galactic Attack (USA) - [Arcade Soundtrack v1 by KoolFiller] (Track 11).bin" size="55022776" crc="d4cb2e2a" md5="4f92ca8c3d4063a026d36b02a32f8133" sha1="b2bf7cfec0982cc1b0cbbae43f70593c2bd961f8" status="none" />
-		<rom name="Galactic Attack (USA) - [Arcade Soundtrack v1 by KoolFiller] (Track 12).bin" size="25437592" crc="81235ac8" md5="8661ec6343ed0b5d975aee1ca03d1c3a" sha1="94e004538b1810b9ad580eab513673c57808e5c5" status="none" />
-		<rom name="Galactic Attack (USA) - [Arcade Soundtrack v1 by KoolFiller] (Track 13).bin" size="24481884" crc="0e69cbd1" md5="30a0dff2431f4ad6c426ee59f557a780" sha1="a70bc904b52821a25a49f7d89727b51be56a76de" status="none" />
-		<rom name="Galactic Attack (USA) - [Arcade Soundtrack v1 by KoolFiller] (Track 14).bin" size="29267248" crc="4198c9c0" md5="9f51e27d3cd09d71052f0667749e64da" sha1="bc95dafff41790715c1459f18e5bc2f2513fe1df" status="none" />
-		<rom name="Galactic Attack (USA) - [Arcade Soundtrack v1 by KoolFiller] (Track 15).bin" size="29610604" crc="b5468a9c" md5="401fbb78e80d869ae3efb8c693ca4661" sha1="7d4f15ee94fb1794ed18f9dbbe1d9264b562dd08" status="none" />
-		<rom name="Galactic Attack (USA) - [Arcade Soundtrack v1 by KoolFiller] (Track 16).bin" size="17176548" crc="ae49cfdc" md5="7e8039f8ac2ce864d237a1b1ff7cfb73" sha1="7c0c5c1cf53c64c0a4dde0eca052ed2a816ca26f" status="none" />
-		<rom name="Galactic Attack (USA) - [Arcade Soundtrack v1 by KoolFiller] (Track 17).bin" size="8054268" crc="17ac9373" md5="6996b4420256242c2e08ca2f493a879c" sha1="036c0255b0dfa3f2b7d41eccd054bcb63b89e4f2" status="none" />
-		<rom name="Galactic Attack (USA) - [Arcade Soundtrack v1 by KoolFiller] (Track 18).bin" size="5017176" crc="628bd3b5" md5="f5a16a35c75879c46f88ef3438510882" sha1="c3e9482eb4e524e278b990a7c1e62e1261ce60bd" status="none" />
-		<rom name="Galactic Attack (USA) - [Arcade Soundtrack v1 by KoolFiller].cue" size="2795" crc="834cad7f" md5="53d5fad071de1aad79bb773e5c4b1014" sha1="e77f8874185747e0d9e944c8243bf774019c00aa" status="none" />
+	<machine name="Galactic Attack (USA) - [Arcade Soundtrack v2 by KoolFiller]">
+		<description>Galactic Attack (USA) - [Arcade Soundtrack v2 by KoolFiller]</description>
+		<rom name="Galactic Attack (USA) - [Arcade Soundtrack v2 by KoolFiller] (Track 01).bin" size="16781520" crc="69fc11ea" md5="5758da94abf13c16d21528c192f7c624" sha1="ac745a5e8ec979fd61dbce14939e68d0f532e8e0" status="none" />
+		<rom name="Galactic Attack (USA) - [Arcade Soundtrack v2 by KoolFiller] (Track 02).bin" size="5324112" crc="0dcbc6ed" md5="a4cdfb7bf1c1d55f483e8265265576b4" sha1="39f4b20aa9186a7e32c14cf9549af0fe54b19b93" status="none" />
+		<rom name="Galactic Attack (USA) - [Arcade Soundtrack v2 by KoolFiller] (Track 03).bin" size="8307708" crc="94968346" md5="ad6aa59601e51f298595cb5580db4942" sha1="b8d51a3b4e8c887d6a76637038e69f14660a2553" status="none" />
+		<rom name="Galactic Attack (USA) - [Arcade Soundtrack v2 by KoolFiller] (Track 04).bin" size="34009856" crc="7cf09592" md5="86b482cf4292f06115369c81b7c0c97a" sha1="181f6f7877f54fdcae86920f45f6857632991d10" status="none" />
+		<rom name="Galactic Attack (USA) - [Arcade Soundtrack v2 by KoolFiller] (Track 05).bin" size="41445212" crc="127a33ed" md5="4e35963776d8de2b746e44168a1a103e" sha1="5b88a3a2f83afc1cc6aabfe46f9b9e2e19cd5dfb" status="none" />
+		<rom name="Galactic Attack (USA) - [Arcade Soundtrack v2 by KoolFiller] (Track 06).bin" size="50967376" crc="879043f6" md5="f145bd343c02f67aa53f3db4914daa36" sha1="3826e9d3ea3622a9646e89b5a2b0eb1bcb29efad" status="none" />
+		<rom name="Galactic Attack (USA) - [Arcade Soundtrack v2 by KoolFiller] (Track 07).bin" size="45431560" crc="0f8b7ba4" md5="cffa951787c89a4a46de93c7d7a94c6b" sha1="d7be0a861529971fc655fca161c1cc7c44650fa4" status="none" />
+		<rom name="Galactic Attack (USA) - [Arcade Soundtrack v2 by KoolFiller] (Track 08).bin" size="42551160" crc="5ad20bfb" md5="9b4711d41f4d2a854086ecf69f21ca40" sha1="958913e3f444272cf54d9ca94bab7d4b839b85f9" status="none" />
+		<rom name="Galactic Attack (USA) - [Arcade Soundtrack v2 by KoolFiller] (Track 09).bin" size="56834032" crc="0b1dc76a" md5="06d285552075304b9ef0d63c46f792f1" sha1="9eef057c602f5ecda8c45c699266da92eaa7f0c2" status="none" />
+		<rom name="Galactic Attack (USA) - [Arcade Soundtrack v2 by KoolFiller] (Track 10).bin" size="20696236" crc="af24c48a" md5="f5485e1840932c3ac2ddee4a71aa6e72" sha1="ee6c0027e124262b287e572ca52a7aad1f6e3543" status="none" />
+		<rom name="Galactic Attack (USA) - [Arcade Soundtrack v2 by KoolFiller] (Track 11).bin" size="55022776" crc="07bf1eb2" md5="e189d701179729af6b9acd0b93720cdd" sha1="73e5a71d3ef7280f829fdf9ee5d9ec83fc7d4fba" status="none" />
+		<rom name="Galactic Attack (USA) - [Arcade Soundtrack v2 by KoolFiller] (Track 12).bin" size="25437592" crc="ca3a9df1" md5="8a6ed7fd1ed8dbdee57a0c0495c3e14c" sha1="fb64e47c5b6b48302ba8e76f3f2ba8c1c2829fee" status="none" />
+		<rom name="Galactic Attack (USA) - [Arcade Soundtrack v2 by KoolFiller] (Track 13).bin" size="24481884" crc="0fc6b631" md5="a383a163dc99971b68449585f8d5683d" sha1="9f6bacf1b621c51ea8f17d07dccb1c4063c2205e" status="none" />
+		<rom name="Galactic Attack (USA) - [Arcade Soundtrack v2 by KoolFiller] (Track 14).bin" size="29267248" crc="efc4da39" md5="d0c7ffff310ccb05f68ee0ccc2c6a67c" sha1="2186bd55e0ee584f3eed03d79d0212010c9136ad" status="none" />
+		<rom name="Galactic Attack (USA) - [Arcade Soundtrack v2 by KoolFiller] (Track 15).bin" size="29610604" crc="6ca841bf" md5="5c82a958594db686a1acf7b0a4f00b5b" sha1="9f74497c701975f41758f550527017837776eeac" status="none" />
+		<rom name="Galactic Attack (USA) - [Arcade Soundtrack v2 by KoolFiller] (Track 16).bin" size="17176548" crc="271db140" md5="1541251a89161eed2173646c448206f6" sha1="56db115edeeb8024f34db4bf3899c481bc9ffaff" status="none" />
+		<rom name="Galactic Attack (USA) - [Arcade Soundtrack v2 by KoolFiller] (Track 17).bin" size="8054268" crc="45122132" md5="71440cb317d459f86bce7638ebe35bed" sha1="92cf97df3a6dc643e4a5a4a22bfc0152633de3ed" status="none" />
+		<rom name="Galactic Attack (USA) - [Arcade Soundtrack v2 by KoolFiller] (Track 18).bin" size="5017176" crc="0f5ca319" md5="df027ae3b13b729a0d1703e446af73f5" sha1="b03f37966612dfd8ae3f7871f3c16151d08c3e66" status="none" />
+		<rom name="Galactic Attack (USA) - [Arcade Soundtrack v2 by KoolFiller].cue" size="2795" crc="d33ab999" md5="3da32ed71b58377c741fc5902bbed758" sha1="6fa5174f3b7347d9b5fe829e6abda6ba6607f91b" status="none" />
 	</machine>
 	<machine name="Ginga Ojousama Densetsu Yuna Remix (Japan) - [Bonus mode and Debug mode v2026-01-05.01 by bbayles]">
 		<description>Ginga Ojousama Densetsu Yuna Remix (Japan) - [Bonus mode and Debug mode v2026-01-05.01 by bbayles]</description>
@@ -1126,6 +1141,11 @@
 		<rom name="Mortal Kombat II (USA) - [Music Sequence Fix v1.0 by Wesker] (Track 2).bin" size="1058400" crc="2619e163" md5="ad85f8fff956c6663757e6d7adc55f60" sha1="864b49ecc1e609f45d5549b0d4635461882b6ced" status="none" />
 		<rom name="Mortal Kombat II (USA) - [Music Sequence Fix v1.0 by Wesker].cue" size="290" crc="bede73ab" md5="02b1a05bf5a75159ff1da90b79c609d7" sha1="5e1c10e5fc14a862c84d5f6bc50f2618b90cb852" status="none" />
 	</machine>
+	<machine name="Mortal Kombat Trilogy (USA) - [Quality Hack v1.1 by paul_met]">
+		<description>Mortal Kombat Trilogy (USA) - [Quality Hack v1.1 by paul_met]</description>
+		<rom name="Mortal Kombat Trilogy (USA) - [Quality Hack v1.1 by paul_met].bin" size="515454912" crc="0ac549c3" md5="6ba9a24361df6588a44fb569727de311" sha1="cbe8d9824daf2f6e7930ca10a49ec22f93c92c5a" status="none" />
+		<rom name="Mortal Kombat Trilogy (USA) - [Quality Hack v1.1 by paul_met].cue" size="1919" crc="3aaa35b6" md5="8ec30221a1d7145232096051b19f4739" sha1="f72a70eee0fff4af7dd8728abd68528c1217e86e" status="none" />
+	</machine>
 	<machine name="Mystaria - The Realms of Lore (USA) - [Debug and Cheat Menus v2024-10-07.01 by bbayles]">
 		<description>Mystaria - The Realms of Lore (USA) - [Debug and Cheat Menus v2024-10-07.01 by bbayles]</description>
 		<rom name="Mystaria - The Realms of Lore (USA) - [Debug and Cheat Menus v2024-10-07.01 by bbayles] (Track 1).bin" size="177606576" crc="720fc5ed" md5="45d8e1df5771c377331628dafd193681" sha1="b34b0bde6d966d7094df49db8bcdf3e70a2fb2f3" status="none" />
@@ -1333,6 +1353,32 @@
 		<rom name="Scud - The Disposable Assassin (USA) - [Flash Removal v1.0 by privateye] (Track 9).bin" size="11249616" crc="d5633ded" md5="be1ab14d02f65deabb90aa3a973b9de7" sha1="3cf3089d67bd1f47cda3c92c03b43dd3d6893e0e" status="none" />
 		<rom name="Scud - The Disposable Assassin (USA) - [Flash Removal v1.0 by privateye].cue" size="1476" crc="ec928297" md5="1c0b2d0446c7e5bf114a9494b87adb61" sha1="12eb3baacc5e818227c07a16fc395c43086ac2d7" status="none" />
 	</machine>
+	<machine name="Sega Ages - OutRun (Japan) - [Extra Music Tracks Arcade Step on Beat v1.1 by OlivusPrime]">
+		<description>Sega Ages - OutRun (Japan) - [Extra Music Tracks Arcade Step on Beat v1.1 by OlivusPrime]</description>
+		<rom name="Sega Ages - OutRun (Japan) - [Extra Music Tracks Arcade Step on Beat v1.1 by OlivusPrime] (Track 1).bin" size="3184608" crc="4eaaccbc" md5="555fd1c8065c61bac94d2ed62b14fc55" sha1="1d2a6d3f8792466626722c985f5151d70f6f0b64" status="none" />
+		<rom name="Sega Ages - OutRun (Japan) - [Extra Music Tracks Arcade Step on Beat v1.1 by OlivusPrime] (Track 2).bin" size="73168368" crc="db635cf7" md5="7399fee342271425f3a68d3599a7a690" sha1="54b6d629a7eb3dba5bf1fad86a08a0855fc748b5" status="none" />
+		<rom name="Sega Ages - OutRun (Japan) - [Extra Music Tracks Arcade Step on Beat v1.1 by OlivusPrime] (Track 3).bin" size="79344720" crc="ad3e2ebe" md5="1b475c5bd7577612a5fc1f8b9ba3667b" sha1="c23f3337c34146fa9ac598da463cbf02d8b8d511" status="none" />
+		<rom name="Sega Ages - OutRun (Japan) - [Extra Music Tracks Arcade Step on Beat v1.1 by OlivusPrime] (Track 4).bin" size="74090352" crc="6553f807" md5="f4a0849666fd9a133b34eda88d1cb5f6" sha1="35c1e0bbde81541f4efa025a4c3b75a65073498d" status="none" />
+		<rom name="Sega Ages - OutRun (Japan) - [Extra Music Tracks Arcade Step on Beat v1.1 by OlivusPrime] (Track 5).bin" size="15918336" crc="0ccfc4c8" md5="9a178fb89b24b388d4a2a0b4313d8475" sha1="2269884fee8a7a4fedc874052ca7066f931a6a76" status="none" />
+		<rom name="Sega Ages - OutRun (Japan) - [Extra Music Tracks Arcade Step on Beat v1.1 by OlivusPrime] (Track 6).bin" size="70028200" crc="49e0f9df" md5="6d1cc7d480b803e2fc0ee703b881d136" sha1="6197757bc810816271d7db815c920528335778ac" status="none" />
+		<rom name="Sega Ages - OutRun (Japan) - [Extra Music Tracks Arcade Step on Beat v1.1 by OlivusPrime] (Track 7).bin" size="76661344" crc="1ba3d324" md5="5e16eb8632181e36696ff7d8282a9b81" sha1="6c77f2a806b2637aafae212a69c993f86e08bb29" status="none" />
+		<rom name="Sega Ages - OutRun (Japan) - [Extra Music Tracks Arcade Step on Beat v1.1 by OlivusPrime] (Track 8).bin" size="71538980" crc="7d0ffe63" md5="8fec148950a3b61b3f932aae6c42f116" sha1="d54d5a3ad17c59f9fffbdad72d7591216d989101" status="none" />
+		<rom name="Sega Ages - OutRun (Japan) - [Extra Music Tracks Arcade Step on Beat v1.1 by OlivusPrime] (Track 9).bin" size="51557028" crc="33f1d516" md5="80ac96111785ee9e153a2d16aa552f3e" sha1="5d49c20bebd6beb1ab2bdf3ec5584730e6c4f2eb" status="none" />
+		<rom name="Sega Ages - OutRun (Japan) - [Extra Music Tracks Arcade Step on Beat v1.1 by OlivusPrime].cue" size="1652" crc="7e8130ba" md5="bc6c538d3c1e826e0593fb913ed8b362" sha1="6778f2a7c4a411cfa8978e1ea6412b4a5d19da3c" status="none" />
+	</machine>
+	<machine name="Sega Ages - OutRun (Japan) - [Extra Music Tracks Mega Drive Step on Beat v1.1 by OlivusPrime]">
+		<description>Sega Ages - OutRun (Japan) - [Extra Music Tracks Mega Drive Step on Beat v1.1 by OlivusPrime]</description>
+		<rom name="Sega Ages - OutRun (Japan) - [Extra Music Tracks Mega Drive Step on Beat v1.1 by OlivusPrime] (Track 1).bin" size="3184608" crc="4eaaccbc" md5="555fd1c8065c61bac94d2ed62b14fc55" sha1="1d2a6d3f8792466626722c985f5151d70f6f0b64" status="none" />
+		<rom name="Sega Ages - OutRun (Japan) - [Extra Music Tracks Mega Drive Step on Beat v1.1 by OlivusPrime] (Track 2).bin" size="73168368" crc="db635cf7" md5="7399fee342271425f3a68d3599a7a690" sha1="54b6d629a7eb3dba5bf1fad86a08a0855fc748b5" status="none" />
+		<rom name="Sega Ages - OutRun (Japan) - [Extra Music Tracks Mega Drive Step on Beat v1.1 by OlivusPrime] (Track 3).bin" size="79344720" crc="ad3e2ebe" md5="1b475c5bd7577612a5fc1f8b9ba3667b" sha1="c23f3337c34146fa9ac598da463cbf02d8b8d511" status="none" />
+		<rom name="Sega Ages - OutRun (Japan) - [Extra Music Tracks Mega Drive Step on Beat v1.1 by OlivusPrime] (Track 4).bin" size="74090352" crc="6553f807" md5="f4a0849666fd9a133b34eda88d1cb5f6" sha1="35c1e0bbde81541f4efa025a4c3b75a65073498d" status="none" />
+		<rom name="Sega Ages - OutRun (Japan) - [Extra Music Tracks Mega Drive Step on Beat v1.1 by OlivusPrime] (Track 5).bin" size="15918336" crc="0ccfc4c8" md5="9a178fb89b24b388d4a2a0b4313d8475" sha1="2269884fee8a7a4fedc874052ca7066f931a6a76" status="none" />
+		<rom name="Sega Ages - OutRun (Japan) - [Extra Music Tracks Mega Drive Step on Beat v1.1 by OlivusPrime] (Track 6).bin" size="69606800" crc="9248cfa7" md5="af427460a9f313199ada2c06bd3ea861" sha1="6c40d570fbb345e5ae731efb5f093e1061f94170" status="none" />
+		<rom name="Sega Ages - OutRun (Japan) - [Extra Music Tracks Mega Drive Step on Beat v1.1 by OlivusPrime] (Track 7).bin" size="76661344" crc="1ba3d324" md5="5e16eb8632181e36696ff7d8282a9b81" sha1="6c77f2a806b2637aafae212a69c993f86e08bb29" status="none" />
+		<rom name="Sega Ages - OutRun (Japan) - [Extra Music Tracks Mega Drive Step on Beat v1.1 by OlivusPrime] (Track 8).bin" size="71538980" crc="7d0ffe63" md5="8fec148950a3b61b3f932aae6c42f116" sha1="d54d5a3ad17c59f9fffbdad72d7591216d989101" status="none" />
+		<rom name="Sega Ages - OutRun (Japan) - [Extra Music Tracks Mega Drive Step on Beat v1.1 by OlivusPrime] (Track 9).bin" size="51557028" crc="33f1d516" md5="80ac96111785ee9e153a2d16aa552f3e" sha1="5d49c20bebd6beb1ab2bdf3ec5584730e6c4f2eb" status="none" />
+		<rom name="Sega Ages - OutRun (Japan) - [Extra Music Tracks Mega Drive Step on Beat v1.1 by OlivusPrime].cue" size="1688" crc="befe9cd1" md5="e6945be08f1cd99cfbc301ea06bfdc5f" sha1="fbc23017ec8e16aefbf09f3e2a83d8f09a6f8165" status="none" />
+	</machine>
 	<machine name="Sengoku Blade - Sengoku Ace Episode II (Japan) - [Enable Test Mode v2024-07-25.01 by bbayles]">
 		<description>Sengoku Blade - Sengoku Ace Episode II (Japan) - [Enable Test Mode v2024-07-25.01 by bbayles]</description>
 		<rom name="Sengoku Blade - Sengoku Ace Episode II (Japan) - [Enable Test Mode v2024-07-25.01 by bbayles] (Track 01).bin" size="446564832" crc="ba615b0f" md5="610cd422ed4eeb9375ce41283854adb1" sha1="9da094cefd7abbe86615598e104ed0b4d533f9db" status="none" />
@@ -1444,6 +1490,35 @@
 		<rom name="Solar Eclipse (USA) - [Enable Debug Menu v2024.04.11-01 by bbayles] (Track 2).bin" size="7594608" crc="68e16911" md5="9860659784192283828e18c4ea733974" sha1="651b8ec8240d6534f005ef7fca46fe5c174ce0b0" status="none" />
 		<rom name="Solar Eclipse (USA) - [Enable Debug Menu v2024.04.11-01 by bbayles].cue" size="327" crc="f46aaa71" md5="f2d194423bc909543194761120d3a482" sha1="3b01c1c1c4b5638e91b2e3793710eca38478a401" status="none" />
 	</machine>
+	<machine name="Sonic 3D - Flickies' Island (Japan) - [Special Stage Edition v1.0 by bbayles]">
+		<description>Sonic 3D - Flickies' Island (Japan) - [Special Stage Edition v1.0 by bbayles]</description>
+		<rom name="Sonic 3D - Flickies' Island (Japan) - [Special Stage Edition v1.0 by bbayles] (Track 01).bin" size="71870064" crc="aff49725" md5="e38dd539688040afcd27efe4451226e8" sha1="e06c39b6ea60d6687304c8ccf0b8efbb40049a54" status="none" />
+		<rom name="Sonic 3D - Flickies' Island (Japan) - [Special Stage Edition v1.0 by bbayles] (Track 02).bin" size="9890160" crc="6918512a" md5="235452a27f65e1e47fe1fa7ddd929d56" sha1="a34ae518494a412ec17c86b385334318122c9bf0" status="none" />
+		<rom name="Sonic 3D - Flickies' Island (Japan) - [Special Stage Edition v1.0 by bbayles] (Track 03).bin" size="529200" crc="92a18440" md5="1d479b2f01ff096f729486321207710c" sha1="603abd2799c2333117b62098abb2f74d5b25e246" status="none" />
+		<rom name="Sonic 3D - Flickies' Island (Japan) - [Special Stage Edition v1.0 by bbayles] (Track 04).bin" size="529200" crc="92a18440" md5="1d479b2f01ff096f729486321207710c" sha1="603abd2799c2333117b62098abb2f74d5b25e246" status="none" />
+		<rom name="Sonic 3D - Flickies' Island (Japan) - [Special Stage Edition v1.0 by bbayles] (Track 05).bin" size="529200" crc="92a18440" md5="1d479b2f01ff096f729486321207710c" sha1="603abd2799c2333117b62098abb2f74d5b25e246" status="none" />
+		<rom name="Sonic 3D - Flickies' Island (Japan) - [Special Stage Edition v1.0 by bbayles] (Track 06).bin" size="529200" crc="92a18440" md5="1d479b2f01ff096f729486321207710c" sha1="603abd2799c2333117b62098abb2f74d5b25e246" status="none" />
+		<rom name="Sonic 3D - Flickies' Island (Japan) - [Special Stage Edition v1.0 by bbayles] (Track 07).bin" size="529200" crc="92a18440" md5="1d479b2f01ff096f729486321207710c" sha1="603abd2799c2333117b62098abb2f74d5b25e246" status="none" />
+		<rom name="Sonic 3D - Flickies' Island (Japan) - [Special Stage Edition v1.0 by bbayles] (Track 08).bin" size="529200" crc="92a18440" md5="1d479b2f01ff096f729486321207710c" sha1="603abd2799c2333117b62098abb2f74d5b25e246" status="none" />
+		<rom name="Sonic 3D - Flickies' Island (Japan) - [Special Stage Edition v1.0 by bbayles] (Track 09).bin" size="529200" crc="92a18440" md5="1d479b2f01ff096f729486321207710c" sha1="603abd2799c2333117b62098abb2f74d5b25e246" status="none" />
+		<rom name="Sonic 3D - Flickies' Island (Japan) - [Special Stage Edition v1.0 by bbayles] (Track 10).bin" size="529200" crc="92a18440" md5="1d479b2f01ff096f729486321207710c" sha1="603abd2799c2333117b62098abb2f74d5b25e246" status="none" />
+		<rom name="Sonic 3D - Flickies' Island (Japan) - [Special Stage Edition v1.0 by bbayles] (Track 11).bin" size="529200" crc="92a18440" md5="1d479b2f01ff096f729486321207710c" sha1="603abd2799c2333117b62098abb2f74d5b25e246" status="none" />
+		<rom name="Sonic 3D - Flickies' Island (Japan) - [Special Stage Edition v1.0 by bbayles] (Track 12).bin" size="529200" crc="92a18440" md5="1d479b2f01ff096f729486321207710c" sha1="603abd2799c2333117b62098abb2f74d5b25e246" status="none" />
+		<rom name="Sonic 3D - Flickies' Island (Japan) - [Special Stage Edition v1.0 by bbayles] (Track 13).bin" size="529200" crc="92a18440" md5="1d479b2f01ff096f729486321207710c" sha1="603abd2799c2333117b62098abb2f74d5b25e246" status="none" />
+		<rom name="Sonic 3D - Flickies' Island (Japan) - [Special Stage Edition v1.0 by bbayles] (Track 14).bin" size="529200" crc="92a18440" md5="1d479b2f01ff096f729486321207710c" sha1="603abd2799c2333117b62098abb2f74d5b25e246" status="none" />
+		<rom name="Sonic 3D - Flickies' Island (Japan) - [Special Stage Edition v1.0 by bbayles] (Track 15).bin" size="529200" crc="92a18440" md5="1d479b2f01ff096f729486321207710c" sha1="603abd2799c2333117b62098abb2f74d5b25e246" status="none" />
+		<rom name="Sonic 3D - Flickies' Island (Japan) - [Special Stage Edition v1.0 by bbayles] (Track 16).bin" size="529200" crc="92a18440" md5="1d479b2f01ff096f729486321207710c" sha1="603abd2799c2333117b62098abb2f74d5b25e246" status="none" />
+		<rom name="Sonic 3D - Flickies' Island (Japan) - [Special Stage Edition v1.0 by bbayles] (Track 17).bin" size="529200" crc="92a18440" md5="1d479b2f01ff096f729486321207710c" sha1="603abd2799c2333117b62098abb2f74d5b25e246" status="none" />
+		<rom name="Sonic 3D - Flickies' Island (Japan) - [Special Stage Edition v1.0 by bbayles] (Track 18).bin" size="529200" crc="92a18440" md5="1d479b2f01ff096f729486321207710c" sha1="603abd2799c2333117b62098abb2f74d5b25e246" status="none" />
+		<rom name="Sonic 3D - Flickies' Island (Japan) - [Special Stage Edition v1.0 by bbayles] (Track 19).bin" size="26365920" crc="03bba4f2" md5="55f332adf49f687498b6643a3e879a10" sha1="5e73325e5913478283cf9824f0b3d8e69eab17b6" status="none" />
+		<rom name="Sonic 3D - Flickies' Island (Japan) - [Special Stage Edition v1.0 by bbayles] (Track 20).bin" size="529200" crc="92a18440" md5="1d479b2f01ff096f729486321207710c" sha1="603abd2799c2333117b62098abb2f74d5b25e246" status="none" />
+		<rom name="Sonic 3D - Flickies' Island (Japan) - [Special Stage Edition v1.0 by bbayles] (Track 21).bin" size="529200" crc="92a18440" md5="1d479b2f01ff096f729486321207710c" sha1="603abd2799c2333117b62098abb2f74d5b25e246" status="none" />
+		<rom name="Sonic 3D - Flickies' Island (Japan) - [Special Stage Edition v1.0 by bbayles] (Track 22).bin" size="529200" crc="92a18440" md5="1d479b2f01ff096f729486321207710c" sha1="603abd2799c2333117b62098abb2f74d5b25e246" status="none" />
+		<rom name="Sonic 3D - Flickies' Island (Japan) - [Special Stage Edition v1.0 by bbayles] (Track 23).bin" size="1549968" crc="69369dd9" md5="f6a02df68eba60ad643e4550a1a6c320" sha1="21fdf01499237773f96c3088c1305b843fca4bc4" status="none" />
+		<rom name="Sonic 3D - Flickies' Island (Japan) - [Special Stage Edition v1.0 by bbayles] (Track 24).bin" size="529200" crc="92a18440" md5="1d479b2f01ff096f729486321207710c" sha1="603abd2799c2333117b62098abb2f74d5b25e246" status="none" />
+		<rom name="Sonic 3D - Flickies' Island (Japan) - [Special Stage Edition v1.0 by bbayles] (Track 25).bin" size="529200" crc="92a18440" md5="1d479b2f01ff096f729486321207710c" sha1="603abd2799c2333117b62098abb2f74d5b25e246" status="none" />
+		<rom name="Sonic 3D - Flickies' Island (Japan) - [Special Stage Edition v1.0 by bbayles].cue" size="4282" crc="4e6b8add" md5="be3fe60b90874904e331cc0499f373ab" sha1="5a798a21bac52072938a51ceace7ef9c9d7d3d38" status="none" />
+	</machine>
 	<machine name="Sonic Jam (USA) - [Tails World v1.0.1 by privateye]">
 		<description>Sonic Jam (USA) - [Tails World v1.0.1 by privateye]</description>
 		<rom name="Sonic Jam (USA) - [Tails World v1.0.1 by privateye] (Track 1).bin" size="631297968" crc="8bd8e1c5" md5="c990dbd17572ec9d53bfaa167cc32066" sha1="e7f4bda88d1dd181183a565bc4e629758c220450" status="none" />
@@ -1490,6 +1565,11 @@
 		<rom name="Steep Slope Sliders (USA) - [Easier Minigame Entry v2024-03-11 by bbayles] (Track 11).bin" size="35270592" crc="6e7604be" md5="e58a5271a436fee1287b18208ff18e1c" sha1="0f1a151648879a0f20e55d42bcd0dddf7b7d9132" status="none" />
 		<rom name="Steep Slope Sliders (USA) - [Easier Minigame Entry v2024-03-11 by bbayles] (Track 12).bin" size="36818208" crc="4b15b218" md5="6a0388b2f6228a1eb8f310857289a1c1" sha1="cfd157b27e868b4139dde6f8f7b5bbc93f7f3641" status="none" />
 		<rom name="Steep Slope Sliders (USA) - [Easier Minigame Entry v2024-03-11 by bbayles].cue" size="2010" crc="efd66455" md5="2ce9b51ce009881b0a5c25bfa4c223ae" sha1="86c9873861e1191ec67e0ee1e700067cb52a22d0" status="none" />
+	</machine>
+	<machine name="Story of Thor 2, The (Europe) - [4 in 1 Hack NTSC v1.5 by paul_met]">
+		<description>Story of Thor 2, The (Europe) - [4 in 1 Hack NTSC v1.5 by paul_met]</description>
+		<rom name="Story of Thor 2, The (Europe) - [4 in 1 Hack NTSC v1.5 by paul_met].bin" size="83053824" crc="7b5b5db9" md5="923917c05bacf54892bf54bd748d5565" sha1="d2ed7845b31f5aea9e0b9ed304f23f0c88ac8ff0" status="none" />
+		<rom name="Story of Thor 2, The (Europe) - [4 in 1 Hack NTSC v1.5 by paul_met].cue" size="197" crc="08c89e2c" md5="8aabc79daa2438b4a72aa076de63a1c2" sha1="57c3064a5ce916bbb8cd33d3c5fab4ebea622156" status="none" />
 	</machine>
 	<machine name="Street Fighter - The Movie (USA) - [Sprite Test Menu v2024.04.21-01 by bbayles]">
 		<description>Street Fighter - The Movie (USA) - [Sprite Test Menu v2024.04.21-01 by bbayles]</description>
