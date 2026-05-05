@@ -5,8 +5,8 @@
 		<name>Sega - Saturn [HackSet] Collection</name>
 		<description>HackSet Sega Saturn Collection</description>
 		<category> </category>
-		<version>20260503-141158</version>
-		<date>2026-05-03</date>
+		<version>20260505-155613</version>
+		<date>2026-05-05</date>
 		<author>GlitchedIris</author>
 		<url>https://github.com/GlitchedIris/HackSet</url>
 		<comment>A collection of romhacks for the Sega Saturn</comment>
@@ -28,6 +28,7 @@
 		<rom name="Battle Garegga (Japan) - [Battle Garegga Remix 2016 Soundtrack v1 by KoolFiller].txt" size="1231" crc="4a2fe871" md5="266055fdf332587d85fb0f3a9ce848b7" sha1="e0f7f003aac6385939488c3bfef309d719b38471" status="none" />
 		<rom name="Battle Garegga (Japan) - [Battle Garegga Rev.2016 Perfect Edition Soundtrack v1 by KoolFiller].txt" size="1197" crc="317fa30d" md5="5cdc53966469810391ebfaea412a94fe" sha1="5a9f4084f3705d8235f6f81f5b6f133e7f8fd0a2" status="none" />
 		<rom name="Burning Rangers (USA) - [Restored Co-op Mode v2024-06-07.01 by bbayles].txt" size="1262" crc="bff34d95" md5="36feebbe7550ea041637cb19b185e475" sha1="0d2a1e3e656188d0640bb05f0d759d14991b51e8" status="none" />
+		<rom name="Chaos Control Remix (Japan) - [Flash Removal Patch v1.0 by privateye].txt" size="2339" crc="3bb6fa38" md5="2369d569064512b6bb88a10d2007939a" sha1="f18aa260024a6918ef771ece1823a94f504866ff" status="none" />
 		<rom name="Christmas Nights into Dreams... (USA) - [Sonic Into Dreams Remix v2024-11-26.01 by bbayles].txt" size="716" crc="c7eecba1" md5="b738275e677940f127648cf2e235fb9f" sha1="dba827b32e7741c07e110e8eb126dffc2aa41a1a" status="none" />
 		<rom name="Cleopatra Fortune (Japan) - [Music Volume Fix and Theme Extension v1 by Riggles].txt" size="2535" crc="8f9776bf" md5="960dbf4eebc4c563708c650047425391" sha1="99fc9f9e53a5ad96c2eb85bd935f2238c2c3a1fa" status="none" />
 		<rom name="Clockwork Knight - Pepperouchau no Daibouken Gekan (Japan) - [Play as Pepper in the Barobaro Stages v2024.03.16-01 by bbayles].txt" size="1003" crc="01c42eb0" md5="5b743f860ffd4d271fc0ea6f838d4133" sha1="920041a72fca78c46fd9ba050760932be0ccfc84" status="none" />
@@ -38,6 +39,7 @@
 		<rom name="Daytona USA (USA) - [Arcade Music v1.0 by TheHulkingMenace].txt" size="346" crc="ab6fc6b4" md5="5df6bb3deffca0edc6f9af444a64f33b" sha1="4a90136181db869b005e15933d4aabade4e9dcc7" status="none" />
 		<rom name="Dezaemon 2 (Japan) - [Special Edition v2025-05-06 by KoolFiller].txt" size="1019" crc="d371442a" md5="a29bafc7a7a625a791db9cf7e62725ca" sha1="2327f7fd5db4b3113e935d3d58bcc331e39403bc" status="none" />
 		<rom name="Die Hard Arcade (USA) - [240p Patch and Language Fix v1.0 by privateye].txt" size="5272" crc="943ddb87" md5="5304430a693ee6787e7db612608418d9" sha1="1958b1650c7b7cb11dc878477877aa23fb968cd3" status="none" />
+		<rom name="Die Hard Trilogy (USA) - [Quality of Life Improvements v1.0 by privateye].txt" size="2506" crc="1466a012" md5="830ad9a45f8b74183cf05c6283fc59a5" sha1="75fd6931bb903bd82fac01e433c4d7029dbcc81b" status="none" />
 		<rom name="Doom (Japan) - [Fix Patch v0.2.1 by fafling].txt" size="14725" crc="eb6878c8" md5="dccd67e4511faff872bd90c433584208" sha1="da9f18357c5dff3a2c0e1f9a7261c7457ea4a941" status="none" />
 		<rom name="Dungeons &amp; Dragons Collection (Tower of Doom) (Japan) - [Arcade Music v1.0 by Qurt] [T-En v1.0 by Lirinica] (Disc 1).txt" size="4462" crc="e0b9f8cb" md5="c30d31899c5ced3a2d07f47bbf1cccc2" sha1="ed0b7b237aab689ba9f7f2b307a7278354a54faa" status="none" />
 		<rom name="Elevator Action^2 - Returns (Japan) - [Debug v2024-12-04.02 by bbayles].txt" size="797" crc="ea98214d" md5="8897babae0e2b582c09a2ccb07bb1bae" sha1="910b0a4812bf8732b48c8bae12c3beccd0d8bcb5" status="none" />
@@ -427,11 +429,25 @@
 		<rom name="Battle Garegga (Japan) - [Battle Garegga Rev.2016 Perfect Edition Soundtrack v1 by KoolFiller] (Track 33).bin" size="8290800" crc="87caa733" md5="292477c7e39260e85fc050c1567f3387" sha1="c14987fed4c6d2b8931747dc0ae4f94c6ece718e" status="none" />
 		<rom name="Battle Garegga (Japan) - [Battle Garegga Rev.2016 Perfect Edition Soundtrack v1 by KoolFiller].cue" size="6242" crc="a784d501" md5="18313e48c8d35dc24c1b84918b06e43d" sha1="1eb4bf89d038e682a23c582663607aaf02907f44" status="none" />
 	</machine>
+	<machine name="Burning Rangers (USA) - [Japanese BGM v1.0 by Billkwando]">
+		<description>Burning Rangers (USA) - [Japanese BGM v1.0 by Billkwando]</description>
+		<rom name="Burning Rangers (USA) - [Japanese BGM v1.0 by Billkwando].bin" size="375082848" crc="744bda09" md5="ae8aaed66b2c8b56b7d434b107d22d7e" sha1="05e3637b741f7874a688cefdcd0d68a7273f498e" status="none" />
+		<rom name="Burning Rangers (USA) - [Japanese BGM v1.0 by Billkwando].cue" size="123" crc="b7c2fe95" md5="c47bb391a5e194b94fa586c39ce79ee9" sha1="9fe58e97aefefa41c71a47a58d42f156c2511a0c" status="none" />
+	</machine>
 	<machine name="Burning Rangers (USA) - [Restored Co-op Mode v2024-06-07.01 by bbayles]">
 		<description>Burning Rangers (USA) - [Restored Co-op Mode v2024-06-07.01 by bbayles]</description>
 		<rom name="Burning Rangers (USA) - [Restored Co-op Mode v2024-06-07.01 by bbayles] (Track 1).bin" size="373121280" crc="3e882626" md5="e3be8ac1ec34fb23001a92666a87e3af" sha1="006a234b46fbd38a11e19038fd565628ce219779" status="none" />
 		<rom name="Burning Rangers (USA) - [Restored Co-op Mode v2024-06-07.01 by bbayles] (Track 2).bin" size="2267328" crc="8cb8b559" md5="60f322c80faa1a2303a0e7e66fbf6119" sha1="1cd3d6182685fb38b771ec88631dd382f102a0f4" status="none" />
 		<rom name="Burning Rangers (USA) - [Restored Co-op Mode v2024-06-07.01 by bbayles].cue" size="312" crc="44c4c0c8" md5="1012a9b231dc86acaeea90d7a75fd6d6" sha1="415ae9c9ff7f0742aadb08800505cb00b4c6ed48" status="none" />
+	</machine>
+	<machine name="Chaos Control Remix (Japan) - [Flash Removal Patch v1.0 by privateye]">
+		<description>Chaos Control Remix (Japan) - [Flash Removal Patch v1.0 by privateye]</description>
+		<rom name="Chaos Control Remix (Japan) - [Flash Removal Patch v1.0 by privateye] (Track 1).bin" size="398367648" crc="4f11a214" md5="16dbd8683cd725a903ebbca4d2b80bf8" sha1="85b5bcf679eea940e35966dd9bbeb8a7a8cd8a88" status="none" />
+		<rom name="Chaos Control Remix (Japan) - [Flash Removal Patch v1.0 by privateye] (Track 2).bin" size="26457648" crc="c80c10cc" md5="34cc93b98153fad8445177d06e28072e" sha1="1122e197cfdbc3dcc4ad9644925604d1bd576a3a" status="none" />
+		<rom name="Chaos Control Remix (Japan) - [Flash Removal Patch v1.0 by privateye] (Track 3).bin" size="3565632" crc="e9da6458" md5="d61d1e361f63127b381ba58122664311" sha1="4c9a7f6ac2b1e879b01edb5c7d162f651004a590" status="none" />
+		<rom name="Chaos Control Remix (Japan) - [Flash Removal Patch v1.0 by privateye] (Track 4).bin" size="5362560" crc="902ff06a" md5="b01900ac4e68b419e448b95c5ac8ff54" sha1="8e104abe1b665a59de9c2f4fd458feb06d116746" status="none" />
+		<rom name="Chaos Control Remix (Japan) - [Flash Removal Patch v1.0 by privateye] (Track 5).bin" size="5694192" crc="2df94101" md5="986b87608193f71c650aefd7709fa903" sha1="591228fb4b4bdf30938e3213d7adf1fe63544700" status="none" />
+		<rom name="Chaos Control Remix (Japan) - [Flash Removal Patch v1.0 by privateye].cue" size="820" crc="ba72b317" md5="e0cfbeb99abf95541d49af265e46a72a" sha1="1bb51e9f083b46eca8498e56958e636322d5a252" status="none" />
 	</machine>
 	<machine name="Christmas Nights into Dreams... (USA) - [Sonic Into Dreams Remix v2024-11-26.01 by bbayles]">
 		<description>Christmas Nights into Dreams... (USA) - [Sonic Into Dreams Remix v2024-11-26.01 by bbayles]</description>
@@ -626,6 +642,68 @@
 		<rom name="Die Hard Arcade (USA) - [240p Patch and Language Fix v1.0 by privateye] (Track 42).bin" size="13462848" crc="a74d0dc8" md5="520459bda4d9c8ca6eea1cd4829da56d" sha1="9d2523e8f740f1c5557344bae7eef9f3e8be0817" status="none" />
 		<rom name="Die Hard Arcade (USA) - [240p Patch and Language Fix v1.0 by privateye] (Track 43).bin" size="1952160" crc="62f23d87" md5="5ca41784e1b12e5eeea18664c4798920" sha1="ba2a87ea00fd6db45ecda8ad8953b3e7f867c58f" status="none" />
 		<rom name="Die Hard Arcade (USA) - [240p Patch and Language Fix v1.0 by privateye].cue" size="7143" crc="74f1ac0e" md5="44fdf7cc6ad8dd3e0bacdffd5da17f2a" sha1="92fca20228deda3e2818bb2b93aca991bec10ee6" status="none" />
+	</machine>
+	<machine name="Die Hard Trilogy (USA) - [QoL and Flash Removal Patch and Widescreen v1.0 by privateye]">
+		<description>Die Hard Trilogy (USA) - [QoL and Flash Removal Patch and Widescreen v1.0 by privateye]</description>
+		<rom name="Die Hard Trilogy (USA) - [QoL and Flash Removal Patch and Widescreen v1.0 by privateye] (Track 01).bin" size="96982368" crc="8efcc59b" md5="4cefa009644b07e7ffa7dcbb1a5bf97f" sha1="80256cbbab7c6432afbae393df99ae4ad57e7d9f" status="none" />
+		<rom name="Die Hard Trilogy (USA) - [QoL and Flash Removal Patch and Widescreen v1.0 by privateye] (Track 02).bin" size="21520800" crc="98da049d" md5="45d1873c992e5c11585f52cb5f7bf7e6" sha1="21d1e4ba87919248b34d464d83679415bc984a29" status="none" />
+		<rom name="Die Hard Trilogy (USA) - [QoL and Flash Removal Patch and Widescreen v1.0 by privateye] (Track 03).bin" size="21572544" crc="4025b8a0" md5="a5da6df7c21c65be80cb0d19fa192e43" sha1="3f7809d1972dcedd070017cd76fd5754d258532b" status="none" />
+		<rom name="Die Hard Trilogy (USA) - [QoL and Flash Removal Patch and Widescreen v1.0 by privateye] (Track 04).bin" size="22579200" crc="cb8474da" md5="a64c8e0e85b4125b91bb5e5cf4d73725" sha1="fe7ca797006d2dedb87eaccd921d6e52fd17af89" status="none" />
+		<rom name="Die Hard Trilogy (USA) - [QoL and Flash Removal Patch and Widescreen v1.0 by privateye] (Track 05).bin" size="21687792" crc="3441ac36" md5="44573bffb810ac8694877924d634bb51" sha1="ba2712edc3f5520d9ff460d2c563cf62ccc81241" status="none" />
+		<rom name="Die Hard Trilogy (USA) - [QoL and Flash Removal Patch and Widescreen v1.0 by privateye] (Track 06).bin" size="21581952" crc="d409d2f5" md5="67f3f638ad8a33c88096ed6cfd8c64f2" sha1="1173312833ac79c61cb8022842fc8efe0d8be512" status="none" />
+		<rom name="Die Hard Trilogy (USA) - [QoL and Flash Removal Patch and Widescreen v1.0 by privateye] (Track 07).bin" size="21981792" crc="3efded52" md5="a58fa4c50eb3a53112f6046f39121bce" sha1="00eb6c0aa110a093051421abee3addc0ba81ee72" status="none" />
+		<rom name="Die Hard Trilogy (USA) - [QoL and Flash Removal Patch and Widescreen v1.0 by privateye] (Track 08).bin" size="22148784" crc="7c5c3dcf" md5="4906f34976a920179315f8d50184f661" sha1="1ae24da2ed95593dce695c5cac8dea5aaabb7fc2" status="none" />
+		<rom name="Die Hard Trilogy (USA) - [QoL and Flash Removal Patch and Widescreen v1.0 by privateye] (Track 09).bin" size="21864192" crc="0eca89f9" md5="f078c98960ad2eca2ff70417ad6a19e8" sha1="2f49cbfe9cc0a72578d53fced72256375c444612" status="none" />
+		<rom name="Die Hard Trilogy (USA) - [QoL and Flash Removal Patch and Widescreen v1.0 by privateye] (Track 10).bin" size="22071168" crc="fe6a6d55" md5="3482203e1ccba1a924230699a4fafc5b" sha1="89e0dcbbdf313a6bb88979527943486114bf7fb1" status="none" />
+		<rom name="Die Hard Trilogy (USA) - [QoL and Flash Removal Patch and Widescreen v1.0 by privateye] (Track 11).bin" size="21645456" crc="1959d204" md5="d4afcfd23adc526e4882cd0aeca3aca4" sha1="1b6fe7a5a37da155fecd1e60f2fd9a34fd75b3d5" status="none" />
+		<rom name="Die Hard Trilogy (USA) - [QoL and Flash Removal Patch and Widescreen v1.0 by privateye] (Track 12).bin" size="22642704" crc="af4f1b3d" md5="10155f82a665fec62553a605f6655e5b" sha1="d354cfcb65b90ce80c8ef382517d73d1dd9bd80e" status="none" />
+		<rom name="Die Hard Trilogy (USA) - [QoL and Flash Removal Patch and Widescreen v1.0 by privateye] (Track 13).bin" size="22021776" crc="963573a6" md5="47ab2a433dcb44ad0e9445eded91ae30" sha1="df45624a11b8ff8efbec31310c2f3a452cca58ca" status="none" />
+		<rom name="Die Hard Trilogy (USA) - [QoL and Flash Removal Patch and Widescreen v1.0 by privateye] (Track 14).bin" size="24185616" crc="73efc7a4" md5="d1cb8c9b79d9eb076e2a9db9ba086005" sha1="6484862943c2bf8747b227d1dcf089c230404db5" status="none" />
+		<rom name="Die Hard Trilogy (USA) - [QoL and Flash Removal Patch and Widescreen v1.0 by privateye] (Track 15).bin" size="24517248" crc="6f3d5f22" md5="6f8fd1b95f345356b4e48e035cd9788e" sha1="42c42b77a5cbb96ca229a094770f95cf9674823b" status="none" />
+		<rom name="Die Hard Trilogy (USA) - [QoL and Flash Removal Patch and Widescreen v1.0 by privateye] (Track 16).bin" size="23971584" crc="91f9d60c" md5="c6465325aefc835d8d7220163b6619df" sha1="765781761e96b3f60940bf0693c35af751b8d5cd" status="none" />
+		<rom name="Die Hard Trilogy (USA) - [QoL and Flash Removal Patch and Widescreen v1.0 by privateye] (Track 17).bin" size="32464656" crc="f4f9d9ad" md5="b7bbea2507e3a3311ada2ec584591dd7" sha1="3d4e6a913ccca52ebbf051075d10db4827e7ff06" status="none" />
+		<rom name="Die Hard Trilogy (USA) - [QoL and Flash Removal Patch and Widescreen v1.0 by privateye] (Track 18).bin" size="33304320" crc="77df550b" md5="e39dd98664c53ccadd79ece96925051a" sha1="32fe6f44235330c71e42e3c82b5f6add29efe864" status="none" />
+		<rom name="Die Hard Trilogy (USA) - [QoL and Flash Removal Patch and Widescreen v1.0 by privateye] (Track 19).bin" size="33532464" crc="4b40cbd5" md5="c47cd3763998ce5ab996cd05a31c8a66" sha1="0f9552f2b8a1a108940e5341ac3569e2a50ff5cd" status="none" />
+		<rom name="Die Hard Trilogy (USA) - [QoL and Flash Removal Patch and Widescreen v1.0 by privateye] (Track 20).bin" size="5451936" crc="2d60e6cd" md5="d98f43a5abbdfb79f13f48bdc5a8a9ea" sha1="d66c78525f23b7c9fd25e2f5607690dc60c17a5a" status="none" />
+		<rom name="Die Hard Trilogy (USA) - [QoL and Flash Removal Patch and Widescreen v1.0 by privateye] (Track 21).bin" size="5456640" crc="9a7fe661" md5="85b055dd728ea3aa49000e234366d22a" sha1="3933513cf51c3325cdc2f6f2400e55e8ef5b8ed7" status="none" />
+		<rom name="Die Hard Trilogy (USA) - [QoL and Flash Removal Patch and Widescreen v1.0 by privateye] (Track 22).bin" size="1058400" crc="fa59e9af" md5="c16d20743ba02ab6979b351d5cf49ab9" sha1="187ace90aafe9ea5f2515a96b332dd6351dba402" status="none" />
+		<rom name="Die Hard Trilogy (USA) - [QoL and Flash Removal Patch and Widescreen v1.0 by privateye] (Track 23).bin" size="1058400" crc="f9ee7f68" md5="d7fa630326daa1fb69d874e23a805280" sha1="82a328f52fe8c236a8cdf2c9e22073dc66fce92b" status="none" />
+		<rom name="Die Hard Trilogy (USA) - [QoL and Flash Removal Patch and Widescreen v1.0 by privateye] (Track 24).bin" size="1117200" crc="00a0b298" md5="64a5013e0f00920f11a48941979ada01" sha1="4dc2f3786c24aecd036b50ef5b4bdd2e100e8cd4" status="none" />
+		<rom name="Die Hard Trilogy (USA) - [QoL and Flash Removal Patch and Widescreen v1.0 by privateye] (Track 25).bin" size="1058400" crc="74f5fd17" md5="c117ef9812df472a8faa929e44471c3a" sha1="742e0b9faac3009074bad41903b1654bc5fab4ec" status="none" />
+		<rom name="Die Hard Trilogy (USA) - [QoL and Flash Removal Patch and Widescreen v1.0 by privateye] (Track 26).bin" size="1058400" crc="3ecc5444" md5="8df1aec73ac31528b37de4a111ee0853" sha1="b62d785869289e3fc834219ac32207dcf4d36ce1" status="none" />
+		<rom name="Die Hard Trilogy (USA) - [QoL and Flash Removal Patch and Widescreen v1.0 by privateye] (Track 27).bin" size="1060752" crc="a028e4ac" md5="20f4865d32333fd89a08548c1aa31dd9" sha1="4b5e9c19a5643790c8399d471405765461063647" status="none" />
+		<rom name="Die Hard Trilogy (USA) - [QoL and Flash Removal Patch and Widescreen v1.0 by privateye].cue" size="4919" crc="d5becfa5" md5="0c92f681a9f4712c7330337d6686d0c4" sha1="e0b24c97b21ce17b2b60dedca802e83ad83f8d44" status="none" />
+	</machine>
+	<machine name="Die Hard Trilogy (USA) - [QoL and Flash Removal Patch v1.0 by privateye]">
+		<description>Die Hard Trilogy (USA) - [QoL and Flash Removal Patch v1.0 by privateye]</description>
+		<rom name="Die Hard Trilogy (USA) - [QoL and Flash Removal Patch v1.0 by privateye] (Track 01).bin" size="96982368" crc="fb72f7b4" md5="e621ab3271e224b4fdcfc5486bacb5fc" sha1="33f40b3249abca73a7fe6c9d36177ef9bcc35707" status="none" />
+		<rom name="Die Hard Trilogy (USA) - [QoL and Flash Removal Patch v1.0 by privateye] (Track 02).bin" size="21520800" crc="98da049d" md5="45d1873c992e5c11585f52cb5f7bf7e6" sha1="21d1e4ba87919248b34d464d83679415bc984a29" status="none" />
+		<rom name="Die Hard Trilogy (USA) - [QoL and Flash Removal Patch v1.0 by privateye] (Track 03).bin" size="21572544" crc="4025b8a0" md5="a5da6df7c21c65be80cb0d19fa192e43" sha1="3f7809d1972dcedd070017cd76fd5754d258532b" status="none" />
+		<rom name="Die Hard Trilogy (USA) - [QoL and Flash Removal Patch v1.0 by privateye] (Track 04).bin" size="22579200" crc="cb8474da" md5="a64c8e0e85b4125b91bb5e5cf4d73725" sha1="fe7ca797006d2dedb87eaccd921d6e52fd17af89" status="none" />
+		<rom name="Die Hard Trilogy (USA) - [QoL and Flash Removal Patch v1.0 by privateye] (Track 05).bin" size="21687792" crc="3441ac36" md5="44573bffb810ac8694877924d634bb51" sha1="ba2712edc3f5520d9ff460d2c563cf62ccc81241" status="none" />
+		<rom name="Die Hard Trilogy (USA) - [QoL and Flash Removal Patch v1.0 by privateye] (Track 06).bin" size="21581952" crc="d409d2f5" md5="67f3f638ad8a33c88096ed6cfd8c64f2" sha1="1173312833ac79c61cb8022842fc8efe0d8be512" status="none" />
+		<rom name="Die Hard Trilogy (USA) - [QoL and Flash Removal Patch v1.0 by privateye] (Track 07).bin" size="21981792" crc="3efded52" md5="a58fa4c50eb3a53112f6046f39121bce" sha1="00eb6c0aa110a093051421abee3addc0ba81ee72" status="none" />
+		<rom name="Die Hard Trilogy (USA) - [QoL and Flash Removal Patch v1.0 by privateye] (Track 08).bin" size="22148784" crc="7c5c3dcf" md5="4906f34976a920179315f8d50184f661" sha1="1ae24da2ed95593dce695c5cac8dea5aaabb7fc2" status="none" />
+		<rom name="Die Hard Trilogy (USA) - [QoL and Flash Removal Patch v1.0 by privateye] (Track 09).bin" size="21864192" crc="0eca89f9" md5="f078c98960ad2eca2ff70417ad6a19e8" sha1="2f49cbfe9cc0a72578d53fced72256375c444612" status="none" />
+		<rom name="Die Hard Trilogy (USA) - [QoL and Flash Removal Patch v1.0 by privateye] (Track 10).bin" size="22071168" crc="fe6a6d55" md5="3482203e1ccba1a924230699a4fafc5b" sha1="89e0dcbbdf313a6bb88979527943486114bf7fb1" status="none" />
+		<rom name="Die Hard Trilogy (USA) - [QoL and Flash Removal Patch v1.0 by privateye] (Track 11).bin" size="21645456" crc="1959d204" md5="d4afcfd23adc526e4882cd0aeca3aca4" sha1="1b6fe7a5a37da155fecd1e60f2fd9a34fd75b3d5" status="none" />
+		<rom name="Die Hard Trilogy (USA) - [QoL and Flash Removal Patch v1.0 by privateye] (Track 12).bin" size="22642704" crc="af4f1b3d" md5="10155f82a665fec62553a605f6655e5b" sha1="d354cfcb65b90ce80c8ef382517d73d1dd9bd80e" status="none" />
+		<rom name="Die Hard Trilogy (USA) - [QoL and Flash Removal Patch v1.0 by privateye] (Track 13).bin" size="22021776" crc="963573a6" md5="47ab2a433dcb44ad0e9445eded91ae30" sha1="df45624a11b8ff8efbec31310c2f3a452cca58ca" status="none" />
+		<rom name="Die Hard Trilogy (USA) - [QoL and Flash Removal Patch v1.0 by privateye] (Track 14).bin" size="24185616" crc="73efc7a4" md5="d1cb8c9b79d9eb076e2a9db9ba086005" sha1="6484862943c2bf8747b227d1dcf089c230404db5" status="none" />
+		<rom name="Die Hard Trilogy (USA) - [QoL and Flash Removal Patch v1.0 by privateye] (Track 15).bin" size="24517248" crc="6f3d5f22" md5="6f8fd1b95f345356b4e48e035cd9788e" sha1="42c42b77a5cbb96ca229a094770f95cf9674823b" status="none" />
+		<rom name="Die Hard Trilogy (USA) - [QoL and Flash Removal Patch v1.0 by privateye] (Track 16).bin" size="23971584" crc="91f9d60c" md5="c6465325aefc835d8d7220163b6619df" sha1="765781761e96b3f60940bf0693c35af751b8d5cd" status="none" />
+		<rom name="Die Hard Trilogy (USA) - [QoL and Flash Removal Patch v1.0 by privateye] (Track 17).bin" size="32464656" crc="f4f9d9ad" md5="b7bbea2507e3a3311ada2ec584591dd7" sha1="3d4e6a913ccca52ebbf051075d10db4827e7ff06" status="none" />
+		<rom name="Die Hard Trilogy (USA) - [QoL and Flash Removal Patch v1.0 by privateye] (Track 18).bin" size="33304320" crc="77df550b" md5="e39dd98664c53ccadd79ece96925051a" sha1="32fe6f44235330c71e42e3c82b5f6add29efe864" status="none" />
+		<rom name="Die Hard Trilogy (USA) - [QoL and Flash Removal Patch v1.0 by privateye] (Track 19).bin" size="33532464" crc="4b40cbd5" md5="c47cd3763998ce5ab996cd05a31c8a66" sha1="0f9552f2b8a1a108940e5341ac3569e2a50ff5cd" status="none" />
+		<rom name="Die Hard Trilogy (USA) - [QoL and Flash Removal Patch v1.0 by privateye] (Track 20).bin" size="5451936" crc="2d60e6cd" md5="d98f43a5abbdfb79f13f48bdc5a8a9ea" sha1="d66c78525f23b7c9fd25e2f5607690dc60c17a5a" status="none" />
+		<rom name="Die Hard Trilogy (USA) - [QoL and Flash Removal Patch v1.0 by privateye] (Track 21).bin" size="5456640" crc="9a7fe661" md5="85b055dd728ea3aa49000e234366d22a" sha1="3933513cf51c3325cdc2f6f2400e55e8ef5b8ed7" status="none" />
+		<rom name="Die Hard Trilogy (USA) - [QoL and Flash Removal Patch v1.0 by privateye] (Track 22).bin" size="1058400" crc="fa59e9af" md5="c16d20743ba02ab6979b351d5cf49ab9" sha1="187ace90aafe9ea5f2515a96b332dd6351dba402" status="none" />
+		<rom name="Die Hard Trilogy (USA) - [QoL and Flash Removal Patch v1.0 by privateye] (Track 23).bin" size="1058400" crc="f9ee7f68" md5="d7fa630326daa1fb69d874e23a805280" sha1="82a328f52fe8c236a8cdf2c9e22073dc66fce92b" status="none" />
+		<rom name="Die Hard Trilogy (USA) - [QoL and Flash Removal Patch v1.0 by privateye] (Track 24).bin" size="1117200" crc="00a0b298" md5="64a5013e0f00920f11a48941979ada01" sha1="4dc2f3786c24aecd036b50ef5b4bdd2e100e8cd4" status="none" />
+		<rom name="Die Hard Trilogy (USA) - [QoL and Flash Removal Patch v1.0 by privateye] (Track 25).bin" size="1058400" crc="74f5fd17" md5="c117ef9812df472a8faa929e44471c3a" sha1="742e0b9faac3009074bad41903b1654bc5fab4ec" status="none" />
+		<rom name="Die Hard Trilogy (USA) - [QoL and Flash Removal Patch v1.0 by privateye] (Track 26).bin" size="1058400" crc="3ecc5444" md5="8df1aec73ac31528b37de4a111ee0853" sha1="b62d785869289e3fc834219ac32207dcf4d36ce1" status="none" />
+		<rom name="Die Hard Trilogy (USA) - [QoL and Flash Removal Patch v1.0 by privateye] (Track 27).bin" size="1060752" crc="a028e4ac" md5="20f4865d32333fd89a08548c1aa31dd9" sha1="4b5e9c19a5643790c8399d471405765461063647" status="none" />
+		<rom name="Die Hard Trilogy (USA) - [QoL and Flash Removal Patch v1.0 by privateye].cue" size="4514" crc="692c5a14" md5="80c7e490f1624656bf0b47123d46e6c0" sha1="404fc4cf1c0d120763304a7976a6a0223a83332f" status="none" />
 	</machine>
 	<machine name="Doom (Japan) - [Fix Patch v0.2.1 by fafling]">
 		<description>Doom (Japan) - [Fix Patch v0.2.1 by fafling]</description>
