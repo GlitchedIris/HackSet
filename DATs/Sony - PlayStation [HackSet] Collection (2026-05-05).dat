@@ -5,14 +5,15 @@
 		<name>Sony - PlayStation [HackSet] Collection</name>
 		<description>HackSet Sony PlayStation Collection</description>
 		<category> </category>
-		<version>20260427-051215</version>
-		<date>2026-04-27</date>
+		<version>20260505-020005</version>
+		<date>2026-05-05</date>
 		<author>GlitchedIris</author>
 		<url>https://github.com/GlitchedIris/HackSet</url>
 		<comment>A collection of romhacks for the Sony PlayStation</comment>
 	</header>
 	<machine name="_docs">
 		<description>_docs</description>
+		<rom name="AirRace Championship (Japan) - [Alternate Edition v1.0 by AreBeAre].txt" size="287" crc="25bafdd8" md5="b7c6ed325f1b810a4d4cc91c7424c520" sha1="8539bae761cfcabe2b80211add8f9d516c7da68b" status="none" />
 		<rom name="Alundra (USA) - [Un-Worked Designs v1 by Supper].txt" size="5496" crc="ab3f6ec1" md5="fbfcfe2f70681b1d8c17b3cbdd1666e5" sha1="eb3ab083f21d4b4437f1cd94ed700735ceacb8cc" status="none" />
 		<rom name="Arc the Lad Collection - Arc the Lad (USA) - [Arc the Lad - Rebuild v1.1 by Shadow501].txt" size="383" crc="0ae9ad69" md5="83b8c08040313183b6e9cf058d998672" sha1="299ba72608408e8227f00459859f4464c7f2cbaa" status="none" />
 		<rom name="ASCII Zanmai (Japan) - [Galerians Demo Unlocker v1.0.1 by descawed].txt" size="17301" crc="7d598138" md5="d54a1161660c48ae472308909c7331e8" sha1="17f36a746ded3b06099cfe63982f7959ccec4fe3" status="none" />
@@ -38,6 +39,7 @@
 		<rom name="Clock Tower II - The Struggle Within (USA) - [Ghost Head ~Yokubari~ v1.0 by FlamePurge].txt" size="11202" crc="5fdfa338" md5="d5d272f7c9b4c4d3dc6b9ae45116d354" sha1="4e4edf7750893af7b04ec435f3ccc79dc3529936" status="none" />
 		<rom name="Codemasters Demo Disk (Europe) - [Micro Maniacs Extended Prototype Demo v20260423 by bbayles].md" size="702" crc="7dc322b7" md5="9af35a2cde76618e423b2ea35fa65c31" sha1="049d943a28ea0714fcc2758101c7be84dd7aaaeb" status="none" />
 		<rom name="Colin McRae Rally 2.0 (USA) - [Colin McRae Rally 2.1 v1.0 by Lupus Erectus].txt" size="635" crc="985f7d77" md5="31d52c5eb6ee064a98e1b9901d555f04" sha1="861cadc45da28bad175778768fed1757a5236b96" status="none" />
+		<rom name="Colin McRae Rally 2.0 (USA) - [Real Driver Names v1.0 by Demory].txt" size="502" crc="ca1e3764" md5="8889ec869475304afd51fdd1683516e7" sha1="c3e0914211cbc3510b77b45f50c6707f1c2840bd" status="none" />
 		<rom name="Crash Bandicoot (USA) - [Quality of Life v1.1 by TechieSaru].txt" size="166" crc="7ea09752" md5="90e98d731cac0a6cf22c7e26446c6f2d" sha1="828d15341cac2daab7ddc7f33d6000912a226a3a" status="none" />
 		<rom name="CTR - Crash Team Racing (USA) - [Retro-fueled v1.0 by TheRedhotbr].txt" size="619" crc="d3d11d78" md5="1f9ad314b47dd69819ef39d756dd0d36" sha1="d9156ac879df54cd8b4787fb8a4a3af49ba32149" status="none" />
 		<rom name="Darkstalkers 3 (USA) [Uncensored v1.1 by Ortew].txt" size="1619" crc="95b2ebe6" md5="4a6cb28c236bc44032f23cb180848ac4" sha1="09d0f8a24c29354c569b65621276a259f35d37ca" status="none" />
@@ -82,6 +84,7 @@
 		<rom name="Gran Turismo 2 (USA) - [Gran Turismo 2 Plus Beta 7 by pez2k] changelog_complete.txt" size="18753" crc="03af6813" md5="9945e54e357be803813a46eb3b197213" sha1="8a3f74e25e86b2f50d51043f61e8765aeb60f6d4" status="none" />
 		<rom name="Gran Turismo 2 (USA) - [Gran Turismo 2 Plus Beta 7 by pez2k] changelog_light.txt" size="42102" crc="d5efd2dc" md5="01d8121ce549daeb16973e165a4431da" sha1="543863428c972ead28c23eba47f78c5105c11c6b" status="none" />
 		<rom name="Gran Turismo 2 (USA) - [Gran Turismo 2 Plus Beta 7 by pez2k].txt" size="5437" crc="2b07f4be" md5="8b9ec93dfd7cb739db85802cb4141aa3" sha1="f84e8cfdc5dfbd745f02d6ef34e361786fbb6bfd" status="none" />
+		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (USA) - [Standalone Patch v2.0 by MrMario2011].txt" size="1254" crc="c35cb807" md5="138c96eab5f9589908a5f01ea87e3632" sha1="df19b91d692d00d30804f5dc1becf0058c209641" status="none" />
 		<rom name="Grandia (USA) [ReDux 3.1 by Dunal] GrandiaRedux3.0EnemyInfo.txt" size="75556" crc="83d7204a" md5="3e06ad8eb4e7cede4e4b0e1ce676916e" sha1="14f3df7a0eade72cd532bab4b782c75e05548e0e" status="none" />
 		<rom name="Grandia (USA) [ReDux 3.1 by Dunal] GrandiaRedux3.0PatchNotes.txt" size="26699" crc="e833433a" md5="f0e49047d4a45ea4b355f4bdf010189d" sha1="6a748ccdf1463eb8f7d0219a81f5e476d44b34ab" status="none" />
 		<rom name="Grandia (USA) [ReDux 3.1 by Dunal] SkillDifferences.txt" size="2727" crc="56423463" md5="202d462d9b7f5cb3dabefa2cedd9474b" sha1="70d165d522e891b2df8dbeb1c02df6365acaa084" status="none" />
@@ -122,11 +125,12 @@
 		<rom name="NBA Jam - Tournament Edition (Japan) - [Double Z Mod (J) v1.18 by eskayelle].txt" size="12330" crc="e14714f6" md5="cba90b934bde046e95c46963db46ea6d" sha1="a64936f76311d2864c9b2b892bf0204a361c53b1" status="none" />
 		<rom name="NBA Jam - Tournament Edition (USA) - [NBA Jam 22 v1.4 by ponlork].txt" size="1782" crc="a38efb0c" md5="353736071fe29ccceb788c5c0a4acf2d" sha1="6a34f037927b64619f2491250bc10ca70f4737af" status="none" />
 		<rom name="NBA Jam - Tournament Edition (USA) - [NBA Jam 50 v0.99 by eskayelle and Wake].txt" size="13307" crc="dff3aa9b" md5="f05d0bf385ee3e8215619ff398f1cfe1" sha1="b8ce4b8a00cea146225ee9df19c2f63be23e7e14" status="none" />
-		<rom name="Need for Speed - High Stakes (USA) - [Complete Edition v3 by Hypercycle] changelog_en.txt" size="5760" crc="f7e8d2cf" md5="ce3823694481252a47ee0c28645c1c69" sha1="ad50034b8ffc043d7958b550d725f8a4513e2833" status="none" />
-		<rom name="Need for Speed - High Stakes (USA) - [Complete Edition v3 by Hypercycle] readme_en.txt" size="7973" crc="7054d59d" md5="f827ee1277c106c7608e44d31b7a725c" sha1="bb15945609229ba3190865d37087ccd97c7e65d2" status="none" />
+		<rom name="Need for Speed - High Stakes (USA) - [Complete Edition v3a by Hypercycle] changelog_en.txt" size="7534" crc="2dbcdaf0" md5="7b03965dcfe2138ae76a8c09e8fd94f6" sha1="c7a74dc613bd72b7af53dd44a1c3453eb53b9ddf" status="none" />
+		<rom name="Need for Speed - High Stakes (USA) - [Complete Edition v3a by Hypercycle] readme_en.txt" size="8671" crc="b089d944" md5="5db1a1d881db509a297f660bc32f5928" sha1="bf1e12be352253e0a9baadf02c1f95c40df4092b" status="none" />
 		<rom name="Note, The (Europe) - [60hz and Undub v1.0 by swosho].txt" size="310" crc="b6a1caaf" md5="18d98a8dc439e779f3ee0d2932c5dcac" sha1="c5f6475961c6bb74934ab89700fa5d8e67ddee45" status="none" />
 		<rom name="Official U.S. PlayStation Magazine Demo Disc 03 (USA) - [Vs Extended Prototype Demo v20260402 by bbayles].txt" size="1005" crc="3a1d1c0e" md5="83a4c4f9159a03acbc95857dc1495684" sha1="71bcae0285639b9d329cd36815cc9978deee3206" status="none" />
 		<rom name="Official U.S. PlayStation Magazine Demo Disc 13 (USA) - [Test Drive 5 Extended Prototype Demo v20260409 by bbayles].txt" size="1030" crc="a0289276" md5="c332ff3b64966552797fff41d007aedd" sha1="cbc35d90e185f667be8d97ce150fb5c5f367bcec" status="none" />
+		<rom name="Official U.S. PlayStation Magazine Demo Disc 36 (USA) - [Dave Mirra BMX Extended Protoype Demo v1.0 by bbayles].txt" size="684" crc="dfc11238" md5="f05a56f4b3e2149c2b3b9be4a44bbc0f" sha1="3d852cfe30d8021093d8a13ad22bdd2a1a9dded7" status="none" />
 		<rom name="Persona 2 - Eternal Punishment (USA) - [Debug Menu v by Revenant].txt" size="1818" crc="b470c123" md5="3b2f3ad35245119983ddebe54a67c47f" sha1="2163f1845d78636845b539c73d457d8428562a9d" status="none" />
 		<rom name="PlayStation Picks (USA) - [Destruction Derby Demo Playable v20260301 by bbayles].txt" size="543" crc="e1441d17" md5="96432df0dc1fc9379443be7d82f9394d" sha1="ccf809136a35066841c98fe74d1a605366d5d620" status="none" />
 		<rom name="Rayman (USA) - [Reverse Endsigns v1.1 by EightSixThree].txt" size="1386" crc="ec9b9f78" md5="46faca754f0e4365d95a2d2e0a75116e" sha1="c6569312f599e416eaac65e0a3faccdc4a81b5d4" status="none" />
@@ -173,6 +177,12 @@
 		<rom name="Yu-Gi-Oh! Forbidden Memories (USA) - [Arrange v1.0 by ZetaPhoenix] TUTORIAL - Fusing in Yu-Gi-Oh! FMA.docx" size="9114" crc="7d52f29e" md5="3ceb58380d721695a8eb202838eb756f" sha1="8f96b3b6a81070641ffba6d7de3d383f84a3ec58" status="none" />
 		<rom name="Yu-Gi-Oh! Forbidden Memories (USA) - [Arrange v1.0 by ZetaPhoenix] Yu-Gi-Oh! FMA Game Data.xlsx" size="131797" crc="9de7888b" md5="a61dad4f0028082333fa1c9efb1ae85b" sha1="53b22d11eb65e36aa09c8f8d30bd23c3e8e3318f" status="none" />
 		<rom name="Yu-Gi-Oh! Forbidden Memories (USA) - [Arrange v1.0 by ZetaPhoenix].txt" size="1358" crc="229f4846" md5="dea966dda6a136e531be329f1b3f7506" sha1="5b4824e65afaa790329e2a481745448ae58cc69c" status="none" />
+	</machine>
+	<machine name="AirRace Championship (Japan) - [Alternate Edition v1.0 by AreBeAre]">
+		<description>AirRace Championship (Japan) - [Alternate Edition v1.0 by AreBeAre]</description>
+		<rom name="AirRace Championship (Japan) - [Alternate Edition v1.0 by AreBeAre] (Track 1).bin" size="582985536" crc="018d681b" md5="5fc7013a6b677d1ac73d8780ad96ae69" sha1="33fa2404a68272d0d0b25474fb22321658363e29" status="none" />
+		<rom name="AirRace Championship (Japan) - [Alternate Edition v1.0 by AreBeAre] (Track 2).bin" size="2020368" crc="2896211e" md5="291ded87e676b1217d72ecd41334b1c7" sha1="ba97d343824bf559953d1fc0a6c868aedcbe29d4" status="none" />
+		<rom name="AirRace Championship (Japan) - [Alternate Edition v1.0 by AreBeAre].cue" size="304" crc="0894c43b" md5="3bad13ac70f0206be8ac14e259a31f99" sha1="8694f6b77f454ed91f4aff3a96288d419795c678" status="none" />
 	</machine>
 	<machine name="Alundra (USA) - [Un-Worked Designs v1 by Supper]">
 		<description>Alundra (USA) - [Un-Worked Designs v1 by Supper]</description>
@@ -428,6 +438,12 @@
 		<description>Colin McRae Rally 2.0 (USA) - [Colin McRae Rally 2.1 v1.0 by Lupus Erectus]</description>
 		<rom name="Colin McRae Rally 2.0 (USA) - [Colin McRae Rally 2.1 v1.0 by Lupus Erectus].bin" size="488317536" crc="ab6c48d9" md5="a0ab9ec007f3152ad0240d650bd620ca" sha1="4734ed9fdc5c1ca3c31341687d160e995d898149" status="none" />
 		<rom name="Colin McRae Rally 2.0 (USA) - [Colin McRae Rally 2.1 v1.0 by Lupus Erectus].cue" size="205" crc="83fb857f" md5="31a1d0aa1deed63af5661c9491628f95" sha1="2048e2fb23753026527c2179f83489b29f24ecac" status="none" />
+	</machine>
+	<machine name="Colin McRae Rally 2.0 (USA) - [Real Driver Names v1.0 by Demory]">
+		<description>Colin McRae Rally 2.0 (USA) - [Real Driver Names v1.0 by Demory]</description>
+		<rom name="Colin McRae Rally 2.0 (USA) - [Real Driver Names v1.0 by Demory] (Track 1).bin" size="454448736" crc="dee6b0de" md5="c925097843818fcdbd9f6200c8ebe355" sha1="3bd4b9e2e17a049473c04a9adf3cdf2dda9ea110" status="none" />
+		<rom name="Colin McRae Rally 2.0 (USA) - [Real Driver Names v1.0 by Demory] (Track 2).bin" size="33868800" crc="3f9896b3" md5="441eeb4204aafc104bf1863b743a13a2" sha1="a55870eae893408b85b4274d19e349a7a447b84b" status="none" />
+		<rom name="Colin McRae Rally 2.0 (USA) - [Real Driver Names v1.0 by Demory].cue" size="298" crc="02550e9b" md5="a900fcc7b8acefe726bed38bc4adf12c" sha1="2831fedab1e5e72cf297f9a9b53e88e5261fcbba" status="none" />
 	</machine>
 	<machine name="Crash Bandicoot (USA) - [Quality of Life v1.1 by TechieSaru]">
 		<description>Crash Bandicoot (USA) - [Quality of Life v1.1 by TechieSaru]</description>
@@ -830,8 +846,8 @@
 	</machine>
 	<machine name="Final Fantasy VII (USA) - [Platinum v1.2 by Dr. Dimension] (Disc 2)">
 		<description>Final Fantasy VII (USA) - [Platinum v1.2 by Dr. Dimension] (Disc 2)</description>
-		<rom name="Final Fantasy VII (USA) (Disc 2).bin" size="732657408" crc="c5a3a598" md5="36ae678199ab94f63dd2d81fce320fa1" sha1="a6bd986a9d3f32731f7af40f16d2c00855ff6f72" status="none" />
-		<rom name="Final Fantasy VII (USA) (Disc 2).cue" size="133" crc="37174745" md5="3177bbb61fef1ed82eba461c5b223a98" sha1="217254a0ff04c442e096ef18e2a2441299efee76" status="none" />
+		<rom name="Final Fantasy VII (USA) - [Platinum v1.2 by Dr. Dimension] (Disc 2).bin" size="732657408" crc="c5a3a598" md5="36ae678199ab94f63dd2d81fce320fa1" sha1="a6bd986a9d3f32731f7af40f16d2c00855ff6f72" status="none" />
+		<rom name="Final Fantasy VII (USA) - [Platinum v1.2 by Dr. Dimension] (Disc 2).cue" size="133" crc="37174745" md5="3177bbb61fef1ed82eba461c5b223a98" sha1="217254a0ff04c442e096ef18e2a2441299efee76" status="none" />
 	</machine>
 	<machine name="Final Fantasy VII (USA) - [Platinum v1.2 by Dr. Dimension] (Disc 3)">
 		<description>Final Fantasy VII (USA) - [Platinum v1.2 by Dr. Dimension] (Disc 3)</description>
@@ -1017,6 +1033,26 @@
 		<description>Gran Turismo 2 (USA) - [Gran Turismo 2 Plus Light Beta 7 by pez2k] (Simulation Disc)</description>
 		<rom name="Gran Turismo 2 (USA) - [Gran Turismo 2 Plus Light Beta 7 by pez2k] (Simulation Disc).bin" size="638941968" crc="10b72509" md5="7ccad05a0355a39ff1f68c0611e11076" sha1="ec5c6ed4a04dd470609130d69f220cb840ac43ab" status="none" />
 		<rom name="Gran Turismo 2 (USA) - [Gran Turismo 2 Plus Light Beta 7 by pez2k] (Simulation Disc).cue" size="150" crc="dc1e724e" md5="c0630ecc3052fde3deab4f8b7496abe3" sha1="04f0da3da50296e85ead9ee4bb9bb3ff0ed3f934" status="none" />
+	</machine>
+	<machine name="Grand Theft Auto - Mission Pack 1 - London 1969 (USA) - [Standalone Patch v2.0 by MrMario2011]">
+		<description>Grand Theft Auto - Mission Pack 1 - London 1969 (USA) - [Standalone Patch v2.0 by MrMario2011]</description>
+		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (USA) - [Standalone Patch v2.0 by MrMario2011] (Track 01).bin" size="42949872" crc="bce8ed24" md5="23eae1871023d9556033d13d48d2a779" sha1="75f053f5687a492de3339dd79b6cd9c1b0333a41" status="none" />
+		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (USA) - [Standalone Patch v2.0 by MrMario2011] (Track 02).bin" size="16057104" crc="98f0c9b2" md5="36cb3c257d28f1d1d55e6bcd15c6d83f" sha1="8454bdeff232006c7248f110668928f330883131" status="none" />
+		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (USA) - [Standalone Patch v2.0 by MrMario2011] (Track 03).bin" size="49883568" crc="7936bd90" md5="3dbdd6b8bfec299eff35abf82c3eeb19" sha1="5cb1805feecd02e419aba343d1ab9505fb5dfc67" status="none" />
+		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (USA) - [Standalone Patch v2.0 by MrMario2011] (Track 04).bin" size="60970896" crc="885dc11e" md5="b2b08ad49046cb062cbb723e3754f4a6" sha1="3055234fdcf092bb461fb68228f3bd1e54e54799" status="none" />
+		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (USA) - [Standalone Patch v2.0 by MrMario2011] (Track 05).bin" size="20281296" crc="ce11304a" md5="4c75e24786287c47ad1cef43f4e9310b" sha1="405080ce67be831ab94b2ca1572897673d6887b0" status="none" />
+		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (USA) - [Standalone Patch v2.0 by MrMario2011] (Track 06).bin" size="33929952" crc="3728b7b0" md5="cc77e322397668896dcbd16df18b68fc" sha1="9a777a2a841f02be6e3fe6f298744dfcf1cc0428" status="none" />
+		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (USA) - [Standalone Patch v2.0 by MrMario2011] (Track 07).bin" size="52981152" crc="265bd0e7" md5="feb58ee99c3a36319cac79c7b70a2012" sha1="a4cbbecd7d49bdc483057d4565ce8da1d085625c" status="none" />
+		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (USA) - [Standalone Patch v2.0 by MrMario2011] (Track 08).bin" size="74215008" crc="ac9b3c66" md5="c76eb77c634df7faf27353c218c4831c" sha1="8eec6f1ad5fcd3437e757ec33bc5d628d844fc1d" status="none" />
+		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (USA) - [Standalone Patch v2.0 by MrMario2011] (Track 09).bin" size="25117008" crc="417443a0" md5="83b085b652b82a7186996804fd99f034" sha1="7a673de89a4b8089141f2acd519513f51a184ed8" status="none" />
+		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (USA) - [Standalone Patch v2.0 by MrMario2011] (Track 10).bin" size="77305536" crc="a050f3df" md5="3d5f8d5b9b4b4e5e16b567e3a0507492" sha1="5b786dd436334ba8ed5a213d5da18fb2e1392639" status="none" />
+		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (USA) - [Standalone Patch v2.0 by MrMario2011] (Track 11).bin" size="61443648" crc="8cf586df" md5="09b36f5ecc6767793c5b6b1bc653d837" sha1="e36219cd309343cbf7d493010bd62a3e5aa69559" status="none" />
+		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (USA) - [Standalone Patch v2.0 by MrMario2011] (Track 12).bin" size="33447792" crc="c0d26483" md5="c37910c01847be6f80b17cc25e88fc38" sha1="ce379e2bf03a983e4bb82741959145be01fac3c3" status="none" />
+		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (USA) - [Standalone Patch v2.0 by MrMario2011] (Track 13).bin" size="29315328" crc="b9d43b25" md5="3eada846c5d4999658aeba8de3491889" sha1="9b4fd36c79b564a4c7a58011480aee38fa0b57e9" status="none" />
+		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (USA) - [Standalone Patch v2.0 by MrMario2011] (Track 14).bin" size="31780224" crc="2d1664ef" md5="3bf779a9dd71cab706fcbc5b59373620" sha1="3b850eec1ca5647d9a2b6bb30a623c3cf4ccf347" status="none" />
+		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (USA) - [Standalone Patch v2.0 by MrMario2011] (Track 15).bin" size="12486768" crc="7d1654eb" md5="9d23951a5152a00ba315284074da23b6" sha1="dc6f792618d0d68d11a3a2bc41b80bf12d313ca1" status="none" />
+		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (USA) - [Standalone Patch v2.0 by MrMario2011] (Track 16).bin" size="34151040" crc="a730f80f" md5="b43d731606990e040b6d52fcc733aecf" sha1="e59017e8aa04a00678bacaecdae0423c3a1817ad" status="none" />
+		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (USA) - [Standalone Patch v2.0 by MrMario2011].cue" size="3006" crc="59708a1a" md5="ccd572868eff5c04d2d870396e914aed" sha1="524aedd781554d466907aafafe5c1cfa3bafb59c" status="none" />
 	</machine>
 	<machine name="Grandia (USA) - [ReDux 3.0 by Dunal] (Disc 2)">
 		<description>Grandia (USA) - [ReDux 3.0 by Dunal] (Disc 2)</description>
@@ -1571,10 +1607,10 @@
 		<rom name="NBA Jam - Tournament Edition (USA) - [NBA Jam 50 v0.99 by eskayelle and Wake].bin" size="435962016" crc="497c7445" md5="a23634dcffd109bc425dcc7f6a78b910" sha1="c6316309341eb8a1a411090f23802596285b8f7e" status="none" />
 		<rom name="NBA Jam - Tournament Edition (USA) - [NBA Jam 50 v0.99 by eskayelle and Wake].cue" size="655" crc="6f30ec1d" md5="29564b776f520f58c9669289a8e1c99c" sha1="8e53f2f684c7334411afeea4ff0fbc49c759ccea" status="none" />
 	</machine>
-	<machine name="Need for Speed - High Stakes (USA) - [Complete Edition v3 by Hypercycle]">
-		<description>Need for Speed - High Stakes (USA) - [Complete Edition v3 by Hypercycle]</description>
-		<rom name="Need for Speed - High Stakes (USA) - [Complete Edition v3 by Hypercycle].bin" size="737526048" crc="7be56065" md5="60b9f91a6c63b635a648bc43e8228847" sha1="9b1bdee538c94fe4acef79fb3e9ee2d47b655816" status="none" />
-		<rom name="Need for Speed - High Stakes (USA) - [Complete Edition v3 by Hypercycle].cue" size="138" crc="043a7049" md5="23c6dd1bc19a65b3557527206c46a9da" sha1="593a5f9fa452f8ed9cdd0c57e51d1df79529f092" status="none" />
+	<machine name="Need for Speed - High Stakes (USA) - [Complete Edition v3a by Hypercycle]">
+		<description>Need for Speed - High Stakes (USA) - [Complete Edition v3a by Hypercycle]</description>
+		<rom name="Need for Speed - High Stakes (USA) - [Complete Edition v3a by Hypercycle].bin" size="738090528" crc="231030aa" md5="339242c7fd8b2851fdbb3626510b43b4" sha1="cfab2f154dbbb02a4c4c5658ff580a6d6e87a641" status="none" />
+		<rom name="Need for Speed - High Stakes (USA) - [Complete Edition v3a by Hypercycle].cue" size="139" crc="c88a5617" md5="7f9db511fbcfd60b5852d3d2dc1b5b6c" sha1="b1e206caa9912461f8d1ea7ec34be4170ab6c193" status="none" />
 	</machine>
 	<machine name="Note, The (Europe) - [60hz and Undub v1.0 by swosho]">
 		<description>Note, The (Europe) - [60hz and Undub v1.0 by swosho]</description>
@@ -1603,6 +1639,14 @@
 		<rom name="Official U.S. PlayStation Magazine Demo Disc 13 (USA) - [Test Drive 5 Extended Prototype Demo v20260409 by bbayles] (Track 5).bin" size="26622288" crc="5b590460" md5="cbd2c75cb422b770cde928aa7aa72231" sha1="4789475cb0e0b529c1719e11525be48e90878122" status="none" />
 		<rom name="Official U.S. PlayStation Magazine Demo Disc 13 (USA) - [Test Drive 5 Extended Prototype Demo v20260409 by bbayles] (Track 6).bin" size="1401792" crc="780b1fc7" md5="54734d3fe6f75e0d6cf73fa0d3b63c83" sha1="d11089e8cd3f7d9fc4dfd1156e1a02f2f992897a" status="none" />
 		<rom name="Official U.S. PlayStation Magazine Demo Disc 13 (USA) - [Test Drive 5 Extended Prototype Demo v20260409 by bbayles].cue" size="1236" crc="4e53d265" md5="2bb3eec9f6ff758780df459566c48389" sha1="6335cf3f4bd6c756adaa8082cef37931df815224" status="none" />
+	</machine>
+	<machine name="Official U.S. PlayStation Magazine Demo Disc 36 (USA) - [Dave Mirra BMX Extended Protoype Demo v1.0 by bbayles]">
+		<description>Official U.S. PlayStation Magazine Demo Disc 36 (USA) - [Dave Mirra BMX Extended Protoype Demo v1.0 by bbayles]</description>
+		<rom name="Official U.S. PlayStation Magazine Demo Disc 36 (USA) - [Dave Mirra BMX Extended Protoype Demo v1.0 by bbayles] (Track 1).bin" size="299125008" crc="236ae5d0" md5="ee7d65abba5f9f49f716482ce6778d72" sha1="a01c6e6737cb17f1f93e33d31080cff58da9685b" status="none" />
+		<rom name="Official U.S. PlayStation Magazine Demo Disc 36 (USA) - [Dave Mirra BMX Extended Protoype Demo v1.0 by bbayles] (Track 2).bin" size="18945360" crc="42cf3530" md5="fdfcaabf9f1c9500e323a5b30d1a028f" sha1="64786447893513063820526d99b7878f648db4cc" status="none" />
+		<rom name="Official U.S. PlayStation Magazine Demo Disc 36 (USA) - [Dave Mirra BMX Extended Protoype Demo v1.0 by bbayles] (Track 3).bin" size="23430624" crc="de2a8f43" md5="d46a7122dc0dab341dbccb6ea950ba41" sha1="6546333d098ee18a1c561ec9054dcc35e5081cc1" status="none" />
+		<rom name="Official U.S. PlayStation Magazine Demo Disc 36 (USA) - [Dave Mirra BMX Extended Protoype Demo v1.0 by bbayles] (Track 4).bin" size="1401792" crc="780b1fc7" md5="54734d3fe6f75e0d6cf73fa0d3b63c83" sha1="d11089e8cd3f7d9fc4dfd1156e1a02f2f992897a" status="none" />
+		<rom name="Official U.S. PlayStation Magazine Demo Disc 36 (USA) - [Dave Mirra BMX Extended Protoype Demo v1.0 by bbayles].cue" size="802" crc="7e8cae00" md5="6def8ec5007173adcbdb2b8fabea78d5" sha1="92d1db063819eb0c6e8c3646cb5231ee932a5a36" status="none" />
 	</machine>
 	<machine name="Panzer Bandit (Japan) - [All Heroes v1.2 by Shadow501]">
 		<description>Panzer Bandit (Japan) - [All Heroes v1.2 by Shadow501]</description>
