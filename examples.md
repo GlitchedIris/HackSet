@@ -1,6 +1,6 @@
 # HackSet inclusion/exclusion examples
 
-### Examples of included hacks
+### **Examples of included hacks**
 
 Suikoden (USA) - \[BugFix v1.00.002 by Pyriel\]\
 *This hack is included because it is complete and fulfills its purpose without causing problems.*
@@ -11,17 +11,17 @@ Earthworm Jim 2 (Europe) - \[PAL to NTSC v1.3 by Sakitoshi\]\
 Mizzurna Falls (Japan) - \[T-En v05092022 by Cirosan\] \[The Chilling Cut v20241125 by Darkanioid1997\]\
 *This combination of hacks is included despite being a translation because The Chilling Cut is meant to be applied over the translation patch.*
 
-### Examples of excluded hacks
+### **Examples of excluded hacks**
 
 Armored Core - Master of Arena (USA) - \[Undub v1.1b by swosho\]\
 *This undub patch is excluded because it causes significant audio issues. Per the hack author:*
 
 > Undubbed completely. Unfortunately, there's an issue with a significant amount of XA-type voice clips cutting out prematurely, and I've no clue how to backport the Japanese textbox timings it yet.
 
-Mortal Kombat Mythologies - Sub-Zero (USA) - \[\Control modification v0.1 by Mr2\[\
-*Despite being complete, this hack is very slight and simply remaps four buttons.*
+Mortal Kombat Mythologies - Sub-Zero (USA) - \[Control modification v0.1 by Mr2\]\
+*Despite being complete, this hack is very slight and simply remaps four buttons. This criterion is likely to be revisited in the future.*
 
-### A (slightly) more complicated example
+### **A (slightly) more complicated example**
 
 Xenogears (USA) - \[Perfect Works Build v0.9.3 by PWB Team\]
 
