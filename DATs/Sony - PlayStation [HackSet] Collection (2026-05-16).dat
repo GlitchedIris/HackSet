@@ -5,8 +5,8 @@
 		<name>Sony - PlayStation [HackSet] Collection</name>
 		<description>HackSet Sony PlayStation Collection</description>
 		<category> </category>
-		<version>20260505-020005</version>
-		<date>2026-05-05</date>
+		<version>20260516-100147</version>
+		<date>2026-05-16</date>
 		<author>GlitchedIris</author>
 		<url>https://github.com/GlitchedIris/HackSet</url>
 		<comment>A collection of romhacks for the Sony PlayStation</comment>
@@ -133,6 +133,7 @@
 		<rom name="Official U.S. PlayStation Magazine Demo Disc 36 (USA) - [Dave Mirra BMX Extended Protoype Demo v1.0 by bbayles].txt" size="684" crc="dfc11238" md5="f05a56f4b3e2149c2b3b9be4a44bbc0f" sha1="3d852cfe30d8021093d8a13ad22bdd2a1a9dded7" status="none" />
 		<rom name="Persona 2 - Eternal Punishment (USA) - [Debug Menu v by Revenant].txt" size="1818" crc="b470c123" md5="3b2f3ad35245119983ddebe54a67c47f" sha1="2163f1845d78636845b539c73d457d8428562a9d" status="none" />
 		<rom name="PlayStation Picks (USA) - [Destruction Derby Demo Playable v20260301 by bbayles].txt" size="543" crc="e1441d17" md5="96432df0dc1fc9379443be7d82f9394d" sha1="ccf809136a35066841c98fe74d1a605366d5d620" status="none" />
+		<rom name="Psybadek (Demo) (Europe) - [Extended Prototype Demo v1.0 by bbayles].txt" size="844" crc="18d729c7" md5="e30bf2c39a6fb6a9e6519e664801e474" sha1="c3731e0f5d1e5307f3e3466d468eb3b466b11ff3" status="none" />
 		<rom name="Rayman (USA) - [Reverse Endsigns v1.1 by EightSixThree].txt" size="1386" crc="ec9b9f78" md5="46faca754f0e4365d95a2d2e0a75116e" sha1="c6569312f599e416eaac65e0a3faccdc4a81b5d4" status="none" />
 		<rom name="Resident Evil 2 - Dual Shock Ver. (USA) - [Sorry About That, Babe Edition v1.5 by Dacaskos].txt" size="11052" crc="cf1e905e" md5="cd9d707dbd38d803165418973364d323" sha1="a4d4cd5ee0edcb1ffa1c4c106867cff3c97f7a11" status="none" />
 		<rom name="Resident Evil 3 - Nemesis (USA, Canada) - [I'll give you STARS edition v1.4.2 by Dacaskos].txt" size="14516" crc="9fcf3753" md5="ded63a2921a8b8265b3a4f5cdd806926" sha1="355e0d4ddaab8c0bc974d4ef5bb50f9beb557993" status="none" />
@@ -794,10 +795,10 @@
 		<rom name="Final Fantasy Tactics (USA) - [Prime v6.1 Convenience by wakkoswami].bin" size="541315152" crc="b438e090" md5="2c39fc04e0e356b994ff1bf4a33456a3" sha1="9d9edc2be78e82d8513097ea4c7e51ca89fb65ff" status="none" />
 		<rom name="Final Fantasy Tactics (USA) - [Prime v6.1 Convenience by wakkoswami].cue" size="134" crc="38c44353" md5="81cb3c1135844f7fad280657036f8ae3" sha1="0e2cc8dd487e721721542f2fdf88af98814b8c62" status="none" />
 	</machine>
-	<machine name="Final Fantasy Tactics (USA) - [The Lion War ReMixed Beta v1.2.60.1 by Nyzer]">
-		<description>Final Fantasy Tactics (USA) - [The Lion War ReMixed Beta v1.2.60.1 by Nyzer]</description>
-		<rom name="Final Fantasy Tactics (USA) - [The Lion War ReMixed Beta v1.2.60.1 by Nyzer].bin" size="541315152" crc="1639d5f5" md5="2ebb7d2a35de20b8d7d7d86d7f27352d" sha1="315c538ef8246e6fb8d177ed1e0aab2303a4e2e1" status="none" />
-		<rom name="Final Fantasy Tactics (USA) - [The Lion War ReMixed Beta v1.2.60.1 by Nyzer].cue" size="142" crc="622c2435" md5="ed85e8fb30c687848e4a2c7c0815f593" sha1="41c4dd7c14a330bff6807e35cffc69720c213037" status="none" />
+	<machine name="Final Fantasy Tactics (USA) - [The Lion War ReMixed Beta v1.2.61.1 by Nyzer]">
+		<description>Final Fantasy Tactics (USA) - [The Lion War ReMixed Beta v1.2.61.1 by Nyzer]</description>
+		<rom name="Final Fantasy Tactics (USA) - [The Lion War ReMixed Beta v1.2.61.1 by Nyzer].bin" size="541315152" crc="98fc4cc6" md5="2970e5b72028c8a5f31d4e9766c59d55" sha1="3aa152ce5689106bcd0357073f9c46d26c032b26" status="none" />
+		<rom name="Final Fantasy Tactics (USA) - [The Lion War ReMixed Beta v1.2.61.1 by Nyzer].cue" size="142" crc="95e0783b" md5="177651a1bd44a7ec7ffd51a2d89ce121" sha1="d8e6f97c84c047df93b3ddb96bba2d7f8fdb99ba" status="none" />
 	</machine>
 	<machine name="Final Fantasy Tactics (USA) - [The Lion War ReMixed Stable v1.1.11 by Nyzer]">
 		<description>Final Fantasy Tactics (USA) - [The Lion War ReMixed Stable v1.1.11 by Nyzer]</description>
@@ -1694,6 +1695,13 @@
 		<rom name="PlayStation Picks (SCUS-94952) (USA) - [Destruction Derby Demo Playable v20260301 by bbayles] (Track 11).bin" size="29381184" crc="ffd4a182" md5="8d711d4214d5b4cc5ebebd8722870de5" sha1="2b9d91bfbbcbe63d7562507cefcbbb4dbaf9db1f" status="none" />
 		<rom name="PlayStation Picks (SCUS-94952) (USA) - [Destruction Derby Demo Playable v20260301 by bbayles] (Track 12).bin" size="9005808" crc="ff880b4e" md5="722781c229b17f92457b8c571e31447d" sha1="6b6dc1e9d8631644ad4f9b1da0aea9b4e80f8789" status="none" />
 		<rom name="PlayStation Picks (SCUS-94952) (USA) - [Destruction Derby Demo Playable v20260301 by bbayles].cue" size="2238" crc="ba1ec863" md5="73d105791a90c01efbfcf32922353676" sha1="ad8cde409715be13eeb34c950f970dd4689e77e9" status="none" />
+	</machine>
+	<machine name="Psybadek (Demo) (Europe) - [Extended Prototype Demo v1.0 by bbayles]">
+		<description>Psybadek (Demo) (Europe) - [Extended Prototype Demo v1.0 by bbayles]</description>
+		<rom name="Psybadek (Demo) (Europe) - [Extended Prototype Demo v1.0 by bbayles] (Track 1).bin" size="67866960" crc="7a80b560" md5="4153ef57825427a908a7821f421d405d" sha1="f1a786d49db07e423ad29ddc57c336be8fa0c9a2" status="none" />
+		<rom name="Psybadek (Demo) (Europe) - [Extended Prototype Demo v1.0 by bbayles] (Track 2).bin" size="37093392" crc="2ebc0ceb" md5="7da5711391aea8330b132a6cc0b4aa54" sha1="976778a062a54fffe287a9b6e9e0609250d0a1b7" status="none" />
+		<rom name="Psybadek (Demo) (Europe) - [Extended Prototype Demo v1.0 by bbayles] (Track 3).bin" size="57304128" crc="f63e25ea" md5="ef3752f91299602e702fc005b15becc7" sha1="c216c0c3b57558bc23537755da3ea32460eb16ee" status="none" />
+		<rom name="Psybadek (Demo) (Europe) - [Extended Prototype Demo v1.0 by bbayles].cue" size="468" crc="3042c370" md5="cdff164e0eb3c6a6a4c8f9aebfc29d59" sha1="28de262a9a4d7a0e4a5b5bcba2f773a69b3c2989" status="none" />
 	</machine>
 	<machine name="Rayman (USA) - [Reverse Endsigns v1.1 by EightSixThree]">
 		<description>Rayman (USA) - [Reverse Endsigns v1.1 by EightSixThree]</description>

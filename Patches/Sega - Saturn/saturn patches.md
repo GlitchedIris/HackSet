@@ -13,10 +13,10 @@ Alternative Patch: [Dezaemon 2 (Japan) - [Special Edition v2025-05-06 by KoolFil
 
 Instructions: Apply xdelta patch to a clean track 1 bin file.
 
-**Doom (Japan) - \[Fix Patch v0.2.1 by fafling\]**
+**Doom (Japan) - \[Fix Patch v0.3.0 by fafling\]**
 
 Original Patch: [Doom fix patch](https://segaxtreme.net/resources/doom-fix-patch.287/)\
-Alternative Patch: [Doom (Japan) - [Fix Patch v0.2.1 by fafling] (Track 01).xdelta](Doom%20(Japan)%20-%20%5BFix%20Patch%20v0.2.1%20by%20fafling%5D%20(Track%2001).xdelta?raw=true)
+Alternative Patch: [Doom (Japan) - [Fix Patch v0.3.0 by fafling] (Track 01).xdelta](Doom%20(Japan)%20-%20[Fix%20Patch%20v0.3.0%20by%20fafling]%20(Track%2001).xdelta?raw=true)
 
 Instructions:\
 Apply xdelta patch to a clean track 1 bin and set the patched bin file aside.\

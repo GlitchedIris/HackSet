@@ -5,8 +5,8 @@
 		<name>Sega - Saturn [HackSet] Collection</name>
 		<description>HackSet Sega Saturn Collection</description>
 		<category> </category>
-		<version>20260505-155613</version>
-		<date>2026-05-05</date>
+		<version>20260516-150237</version>
+		<date>2026-05-16</date>
 		<author>GlitchedIris</author>
 		<url>https://github.com/GlitchedIris/HackSet</url>
 		<comment>A collection of romhacks for the Sega Saturn</comment>
@@ -40,7 +40,7 @@
 		<rom name="Dezaemon 2 (Japan) - [Special Edition v2025-05-06 by KoolFiller].txt" size="1019" crc="d371442a" md5="a29bafc7a7a625a791db9cf7e62725ca" sha1="2327f7fd5db4b3113e935d3d58bcc331e39403bc" status="none" />
 		<rom name="Die Hard Arcade (USA) - [240p Patch and Language Fix v1.0 by privateye].txt" size="5272" crc="943ddb87" md5="5304430a693ee6787e7db612608418d9" sha1="1958b1650c7b7cb11dc878477877aa23fb968cd3" status="none" />
 		<rom name="Die Hard Trilogy (USA) - [Quality of Life Improvements v1.0 by privateye].txt" size="2506" crc="1466a012" md5="830ad9a45f8b74183cf05c6283fc59a5" sha1="75fd6931bb903bd82fac01e433c4d7029dbcc81b" status="none" />
-		<rom name="Doom (Japan) - [Fix Patch v0.2.1 by fafling].txt" size="14725" crc="eb6878c8" md5="dccd67e4511faff872bd90c433584208" sha1="da9f18357c5dff3a2c0e1f9a7261c7457ea4a941" status="none" />
+		<rom name="Doom (Japan) - [Fix Patch v0.3.0 by fafling].txt" size="27724" crc="e2ad90bf" md5="832c201db73b999dab1c94e6866096fd" sha1="fe59ffbf9fbb8162907db5eaa92c6f86e0160089" status="none" />
 		<rom name="Dungeons &amp; Dragons Collection (Tower of Doom) (Japan) - [Arcade Music v1.0 by Qurt] [T-En v1.0 by Lirinica] (Disc 1).txt" size="4462" crc="e0b9f8cb" md5="c30d31899c5ced3a2d07f47bbf1cccc2" sha1="ed0b7b237aab689ba9f7f2b307a7278354a54faa" status="none" />
 		<rom name="Elevator Action^2 - Returns (Japan) - [Debug v2024-12-04.02 by bbayles].txt" size="797" crc="ea98214d" md5="8897babae0e2b582c09a2ccb07bb1bae" sha1="910b0a4812bf8732b48c8bae12c3beccd0d8bcb5" status="none" />
 		<rom name="Fighting Vipers (Demo) (Japan) - [Extended Prototype Demo v2025-05-14.01 by bbayles].txt" size="798" crc="ad8925e5" md5="9f3ff54ae44a6ba9577bd2bf9b77e832" sha1="38d8ab438b692c17c364e7dcca7caa91bee742cd" status="none" />
@@ -705,27 +705,27 @@
 		<rom name="Die Hard Trilogy (USA) - [QoL and Flash Removal Patch v1.0 by privateye] (Track 27).bin" size="1060752" crc="a028e4ac" md5="20f4865d32333fd89a08548c1aa31dd9" sha1="4b5e9c19a5643790c8399d471405765461063647" status="none" />
 		<rom name="Die Hard Trilogy (USA) - [QoL and Flash Removal Patch v1.0 by privateye].cue" size="4514" crc="692c5a14" md5="80c7e490f1624656bf0b47123d46e6c0" sha1="404fc4cf1c0d120763304a7976a6a0223a83332f" status="none" />
 	</machine>
-	<machine name="Doom (Japan) - [Fix Patch v0.2.1 by fafling]">
-		<description>Doom (Japan) - [Fix Patch v0.2.1 by fafling]</description>
-		<rom name="Doom (Japan) - [Fix Patch v0.2.1 by fafling] (Track 01).bin" size="68640768" crc="e40fd23e" md5="86d46b347bca6223c9875f608bbccbfb" sha1="cbd7c954a5755ff223bb7c144d2fc0639d59181b" status="none" />
-		<rom name="Doom (Japan) - [Fix Patch v0.2.1 by fafling] (Track 02).bin" size="34445040" crc="c14d11e9" md5="01caf888bd1545c709d7383dbda21e19" sha1="52934c4cdc98e7cf64ec1d4f5683906025d5d876" status="none" />
-		<rom name="Doom (Japan) - [Fix Patch v0.2.1 by fafling] (Track 03).bin" size="21509040" crc="1543d3c9" md5="39d14c8e0ebafc1b8a3e91acda6a702e" sha1="2d940a2371eb3d02eafa04c37f934ed101cff998" status="none" />
-		<rom name="Doom (Japan) - [Fix Patch v0.2.1 by fafling] (Track 04).bin" size="42347760" crc="d2298432" md5="059b878dad3ee7ea9df983c52c8a0657" sha1="9fc2ed3f36464001a2a7aebd109d11423bfc79ed" status="none" />
-		<rom name="Doom (Japan) - [Fix Patch v0.2.1 by fafling] (Track 05).bin" size="37072224" crc="2ad357d8" md5="aab9a48d9dcc56b317fb483b79ce04b8" sha1="e17215c0861fb46293a083e2831069da76bd54c4" status="none" />
-		<rom name="Doom (Japan) - [Fix Patch v0.2.1 by fafling] (Track 06).bin" size="23644656" crc="d010467f" md5="27d264d3c2df51182bacb8df718fe306" sha1="e2440ab0530c0e8cdf920fb9c1f44cd5db10e9a1" status="none" />
-		<rom name="Doom (Japan) - [Fix Patch v0.2.1 by fafling] (Track 07).bin" size="10555776" crc="fcdf4ea9" md5="2327856154295a76a77f5a665182a3a5" sha1="95e5de2c63420db1ea7f29b224221d52dff42b74" status="none" />
-		<rom name="Doom (Japan) - [Fix Patch v0.2.1 by fafling] (Track 08).bin" size="40562592" crc="152ab864" md5="44016aae5e5f0034309aed3f2f6ac56b" sha1="b8c1e973fb42a4b24ee659028f006f7b31b36144" status="none" />
-		<rom name="Doom (Japan) - [Fix Patch v0.2.1 by fafling] (Track 09).bin" size="81146352" crc="e0ce9e03" md5="20a93f9bef7b2865fc7c70b308a1b988" sha1="ce1ea1df0b16a3b8f527f29d9eda94f19cab7e4b" status="none" />
-		<rom name="Doom (Japan) - [Fix Patch v0.2.1 by fafling] (Track 10).bin" size="47197584" crc="580f7c20" md5="3a929cc03b9583c33df8713600b82076" sha1="eb9e411841ec0ae1d2c31414d177912e8d20ee97" status="none" />
-		<rom name="Doom (Japan) - [Fix Patch v0.2.1 by fafling] (Track 11).bin" size="29590512" crc="d15c191c" md5="3d759960b525667ad79898176b2f24ef" sha1="6fe32e573885d91bbd9a2c626e56abd962880072" status="none" />
-		<rom name="Doom (Japan) - [Fix Patch v0.2.1 by fafling] (Track 12).bin" size="58331952" crc="15e1e8bd" md5="69baafef01bde5b514aa84971847b68c" sha1="e8a39941c98ec14380e8ad3457c02a40996ba54c" status="none" />
-		<rom name="Doom (Japan) - [Fix Patch v0.2.1 by fafling] (Track 13).bin" size="33497184" crc="448029fe" md5="8a0d2b45171349b8949f930b42bfba67" sha1="f4803eeacb437ed0937ac20bb9a491f0db54a4cd" status="none" />
-		<rom name="Doom (Japan) - [Fix Patch v0.2.1 by fafling] (Track 14).bin" size="18016320" crc="a9b8101d" md5="4ba988fc2aebfef7e01f9a66e60a4b2b" sha1="9073be632d1051c0d6d163f42ff246a36bb1ef5c" status="none" />
-		<rom name="Doom (Japan) - [Fix Patch v0.2.1 by fafling] (Track 15).bin" size="27810048" crc="d317d03d" md5="bdd93837928257356480faee8ce810df" sha1="4bdb912b9ad43704b165ede7375e9742f18ef821" status="none" />
-		<rom name="Doom (Japan) - [Fix Patch v0.2.1 by fafling] (Track 16).bin" size="18496128" crc="474a1725" md5="078a346b60ee9331e1300ff4bf8edbbc" sha1="7841e149b870466e3f8a76a46173246d3bb7cf2f" status="none" />
-		<rom name="Doom (Japan) - [Fix Patch v0.2.1 by fafling] (Track 17).bin" size="33882912" crc="2385c135" md5="b85347dcba75ee25e475e2d673518089" sha1="9ce012c01bd57e2ce21fad03213fc406576c3bce" status="none" />
-		<rom name="Doom (Japan) - [Fix Patch v0.2.1 by fafling] (Track 18).bin" size="9725520" crc="687ad6f1" md5="493d900ffab0c78d139f6e177f8dfe13" sha1="0beea69f15fca02355cbdd590b219e9b67b45768" status="none" />
-		<rom name="Doom (Japan) - [Fix Patch v0.2.1 by fafling].cue" size="2484" crc="5be739d4" md5="950644a84cb981234562264ab7b3287b" sha1="2be8ce9c25e621b9080bb39411c616c316c68db1" status="none" />
+	<machine name="Doom (Japan) - [Fix Patch v0.3.0 by fafling]">
+		<description>Doom (Japan) - [Fix Patch v0.3.0 by fafling]</description>
+		<rom name="Doom (Japan) - [Fix Patch v0.3.0 by fafling] (Track 01).bin" size="68647824" crc="01c8ae31" md5="1d203fd3d6a3ca585f011e1112e955cf" sha1="15ec2a7ae8b770e58b6a3e54e2000086c289b905" status="none" />
+		<rom name="Doom (Japan) - [Fix Patch v0.3.0 by fafling] (Track 02).bin" size="34445040" crc="8bf20ecf" md5="a63acc60ff39e5bccd7a02ab127bf6c7" sha1="76901a432faf92d3484e6d1b2b8bdea0d4a410bc" status="none" />
+		<rom name="Doom (Japan) - [Fix Patch v0.3.0 by fafling] (Track 03).bin" size="21509040" crc="34d87c03" md5="0001ebfb4bb9fd665f056e0d899da72b" sha1="27cdc383c58cd37ec29c17b43b227bffb1f23a39" status="none" />
+		<rom name="Doom (Japan) - [Fix Patch v0.3.0 by fafling] (Track 04).bin" size="42347760" crc="d2298432" md5="059b878dad3ee7ea9df983c52c8a0657" sha1="9fc2ed3f36464001a2a7aebd109d11423bfc79ed" status="none" />
+		<rom name="Doom (Japan) - [Fix Patch v0.3.0 by fafling] (Track 05).bin" size="37072224" crc="0aa3eb88" md5="f88cf5bd73d4ae1784435aec7cfb7a30" sha1="ead43ae364e204435d75a6a1f2040ada1087006d" status="none" />
+		<rom name="Doom (Japan) - [Fix Patch v0.3.0 by fafling] (Track 06).bin" size="23644656" crc="4ec817e8" md5="35ea14eaedca0fb6de97b3f4a7e0929b" sha1="385e5f590143c9e4707176ddb97ea6b1d5b6322a" status="none" />
+		<rom name="Doom (Japan) - [Fix Patch v0.3.0 by fafling] (Track 07).bin" size="10555776" crc="fcdf4ea9" md5="2327856154295a76a77f5a665182a3a5" sha1="95e5de2c63420db1ea7f29b224221d52dff42b74" status="none" />
+		<rom name="Doom (Japan) - [Fix Patch v0.3.0 by fafling] (Track 08).bin" size="40562592" crc="152ab864" md5="44016aae5e5f0034309aed3f2f6ac56b" sha1="b8c1e973fb42a4b24ee659028f006f7b31b36144" status="none" />
+		<rom name="Doom (Japan) - [Fix Patch v0.3.0 by fafling] (Track 09).bin" size="81146352" crc="66538313" md5="0fb96927cdf7caa1457d7fe2d3cffcee" sha1="57afc165cfb9feef61c37a450577e936c8936ed9" status="none" />
+		<rom name="Doom (Japan) - [Fix Patch v0.3.0 by fafling] (Track 10).bin" size="47197584" crc="580f7c20" md5="3a929cc03b9583c33df8713600b82076" sha1="eb9e411841ec0ae1d2c31414d177912e8d20ee97" status="none" />
+		<rom name="Doom (Japan) - [Fix Patch v0.3.0 by fafling] (Track 11).bin" size="29590512" crc="7df29104" md5="2fcd494a2e2dd3a077eb9e2f9fcab1bd" sha1="490277af9ad645f8eaa1f221f94b463679a2dbe3" status="none" />
+		<rom name="Doom (Japan) - [Fix Patch v0.3.0 by fafling] (Track 12).bin" size="58331952" crc="a3ea29d6" md5="40a471f432ea67eaf3b78806bde13aba" sha1="dc837e4de74334b9f4fad91523fb0a0ea6baa86f" status="none" />
+		<rom name="Doom (Japan) - [Fix Patch v0.3.0 by fafling] (Track 13).bin" size="33497184" crc="448029fe" md5="8a0d2b45171349b8949f930b42bfba67" sha1="f4803eeacb437ed0937ac20bb9a491f0db54a4cd" status="none" />
+		<rom name="Doom (Japan) - [Fix Patch v0.3.0 by fafling] (Track 14).bin" size="18016320" crc="af9bf2b8" md5="ba8e0e181c31533ad1a31e6fc780c931" sha1="f5d24c62422abbd7ca373c4dbd6d8c61a4bbe616" status="none" />
+		<rom name="Doom (Japan) - [Fix Patch v0.3.0 by fafling] (Track 15).bin" size="27810048" crc="141d71aa" md5="acbefcdc0c80460cc80f2529140eccb3" sha1="ebd660626a5562e78878a044430cc684cb40299b" status="none" />
+		<rom name="Doom (Japan) - [Fix Patch v0.3.0 by fafling] (Track 16).bin" size="18496128" crc="a09189bf" md5="ff248141f3a785d43fcac13f9857c5a1" sha1="fd05c26a64386d6147b1c2d0a51553f7d3800396" status="none" />
+		<rom name="Doom (Japan) - [Fix Patch v0.3.0 by fafling] (Track 17).bin" size="33882912" crc="108c342d" md5="bf90cc54fea18fd923f3dd7af5298cfd" sha1="1451b510f4bb0b40891248e324dda679f71732b7" status="none" />
+		<rom name="Doom (Japan) - [Fix Patch v0.3.0 by fafling] (Track 18).bin" size="9725520" crc="687ad6f1" md5="493d900ffab0c78d139f6e177f8dfe13" sha1="0beea69f15fca02355cbdd590b219e9b67b45768" status="none" />
+		<rom name="Doom (Japan) - [Fix Patch v0.3.0 by fafling].cue" size="2484" crc="ff4484e5" md5="e585a73289e24753f94a344c573d603f" sha1="894487d1917be6e20cdbc6be7425daa3260dc7e6" status="none" />
 	</machine>
 	<machine name="Doom (USA) - [Sound Canvas Version by unknown]">
 		<description>Doom (USA) - [Sound Canvas Version by unknown]</description>
