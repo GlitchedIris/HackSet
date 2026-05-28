@@ -5,8 +5,8 @@
 		<name>Sony - PlayStation [HackSet] Collection</name>
 		<description>HackSet Sony PlayStation Collection</description>
 		<category> </category>
-		<version>20260516-100147</version>
-		<date>2026-05-16</date>
+		<version>20260527-194536</version>
+		<date>2026-05-27</date>
 		<author>GlitchedIris</author>
 		<url>https://github.com/GlitchedIris/HackSet</url>
 		<comment>A collection of romhacks for the Sony PlayStation</comment>
@@ -161,6 +161,7 @@
 		<rom name="Suikoden II (USA) - [Hardcore v1.5 by Choirboy] drops.txt" size="2273" crc="fbd902f7" md5="80fbc85fec796ff7632c57e28f0ae7c5" sha1="65b2faec3012a7e55af840dc1d57b367ba1b3180" status="none" />
 		<rom name="Suikoden II (USA) - [Hardcore v1.5 by Choirboy] Info 1.5.txt" size="1677" crc="eced16ee" md5="a6db4fdf96e69449046e37d998f216b6" sha1="1f166605e52f2fc6451c4b912567fa9a99030025" status="none" />
 		<rom name="Tail Concerto (USA) - [Undub v2 by rari-teh].txt" size="9353" crc="6151ebc3" md5="903a9ef66d4fc2da7dabc2effac0bc59" sha1="324221994c42fa73bafef87ffb62b07bd276c284" status="none" />
+		<rom name="Tales of Destiny (Demo) (Japan) - [Extended Prototype Demo v20260527 by bbayles].txt" size="605" crc="898f63d4" md5="b6b506b674a77f8b8bb436766bdd1e8d" sha1="f68c5e09333e601dac476b93ddd0a54e9dab30c9" status="none" />
 		<rom name="Tales of Destiny (USA) - [Reforged Japanese Names v1.01 by mteam].txt" size="7034" crc="31e8b234" md5="6949db1e37a94b3fbc23689f3f1baabc" sha1="4a0fdc587b7f48d076cd33f53d31c1acdf71bae9" status="none" />
 		<rom name="Tales of Destiny (USA) - [Reforged v1.01 by mteam].txt" size="6556" crc="ad686f3d" md5="6b581a9362323e35dd9c16dbdbccf677" sha1="738b86d94fb9f1812f16b67542a73edc3c838e62" status="none" />
 		<rom name="Tales of Destiny II (USA) - [Title Screen Restoration v1.0 by FlamePurge].txt" size="4898" crc="60e3a4af" md5="5fcac430d2e966994dd745feca04a270" sha1="13a0a523c8b50e50f307e7cde0dcfcb0408a93ff" status="none" />
@@ -173,7 +174,7 @@
 		<rom name="WWF SmackDown! 2 - Know Your Role (USA) - [Inspired Patch v1.4 by Inspired].txt" size="393" crc="af55ae27" md5="4c7bc1891a6dcdfcc368bff1d9f3c795" sha1="74b9f6a9e2114f6924743065fbd79a0dba5eb201" status="none" />
 		<rom name="X-Men - Children of the Atom (USA) - [Secret Character Hack v2 by by BillyTime! Games].txt" size="742" crc="a71088d2" md5="2c4a987cd2d04f094cc8f3eca9b9fecb" sha1="c7bb890c8903542fc80b98ce08a2a5cf7c55cff0" status="none" />
 		<rom name="X-Men - Mutant Academy (USA) - [Costume Mod v1.0 by BalinDMK].txt" size="488" crc="a39dba9e" md5="d03fa05e35f78c94a7e4d1066785ce7d" sha1="d546f019ead1bb2b253bdcffd9d6fb00e432431e" status="none" />
-		<rom name="Xenogears (USA) - [Perfect Works Build v0.10.1 by PWB Team].md" size="7672" crc="a1daa336" md5="cbaed8f60909f851a3a09bccdff07e26" sha1="9942599217704edd95cc7fc74963fc24799cae10" status="none" />
+		<rom name="Xenogears (USA) - [Perfect Works Build v0.10.2 by PWB Team].md" size="9451" crc="755a4c7c" md5="cb1a6a24dafecee34cbb1a4027abf4a3" sha1="cc0636fe8fd30a0b1d6f68f876a686e0fc02759b" status="none" />
 		<rom name="Xenogears (USA) - [Undub v1.01 by RyleFury].txt" size="2656" crc="b7d5932a" md5="ae2087ece4f6959faeef88d569b0f3fa" sha1="98dc235cd92efc2e9fdb2a63c55f6030dec842ba" status="none" />
 		<rom name="Yu-Gi-Oh! Forbidden Memories (USA) - [Arrange v1.0 by ZetaPhoenix] TUTORIAL - Fusing in Yu-Gi-Oh! FMA.docx" size="9114" crc="7d52f29e" md5="3ceb58380d721695a8eb202838eb756f" sha1="8f96b3b6a81070641ffba6d7de3d383f84a3ec58" status="none" />
 		<rom name="Yu-Gi-Oh! Forbidden Memories (USA) - [Arrange v1.0 by ZetaPhoenix] Yu-Gi-Oh! FMA Game Data.xlsx" size="131797" crc="9de7888b" md5="a61dad4f0028082333fa1c9efb1ae85b" sha1="53b22d11eb65e36aa09c8f8d30bd23c3e8e3318f" status="none" />
@@ -1922,6 +1923,25 @@
 		<rom name="Tail Concerto (USA) - [Undub v2 by rari-teh] (Track 2).bin" size="32104800" crc="9b94ea54" md5="65aea234c174ee35fb574d981fe3fc4f" sha1="bd1fde88c2b79e3cf8821c969373460d51f3155a" status="none" />
 		<rom name="Tail Concerto (USA) - [Undub v2 by rari-teh].cue" size="258" crc="7ca19110" md5="3fd2d1ad6c7893a4e8f8de6c6677d640" sha1="7aa8e30b3190a4d8383a530b320a336bc00fa50c" status="none" />
 	</machine>
+	<machine name="Tales of Destiny (Famitsuu Demo) (Japan)  - [Extended Prototype Demo v20260527 by bbayles]">
+		<description>Tales of Destiny (Famitsuu Demo) (Japan)  - [Extended Prototype Demo v20260527 by bbayles]</description>
+		<rom name="Tales of Destiny (Famitsuu Demo) (Japan)  - [Extended Prototype Demo v20260527 by bbayles] (Track 1).bin" size="466227552" crc="1737c6a2" md5="262b892685f504c1fb2f5a3a9c655880" sha1="13be6604e07844ccdc3453ede03bfe331ebb6bb8" status="none" />
+		<rom name="Tales of Destiny (Famitsuu Demo) (Japan)  - [Extended Prototype Demo v20260527 by bbayles] (Track 2).bin" size="21793632" crc="cb3c1f7b" md5="2f66a33ddec70889d853ee7630876357" sha1="164657bfdf107c59ec2c7cc8a2f1801e5a31677b" status="none" />
+		<rom name="Tales of Destiny (Famitsuu Demo) (Japan)  - [Extended Prototype Demo v20260527 by bbayles] (Track 3).bin" size="16887360" crc="9281c00d" md5="47f954186678ddd31ae8649ff6b399a3" sha1="1959527654d3f801eed378240b2735c524d770e9" status="none" />
+		<rom name="Tales of Destiny (Famitsuu Demo) (Japan)  - [Extended Prototype Demo v20260527 by bbayles] (Track 4).bin" size="20274240" crc="c6dd44d2" md5="fae508b00690fe3189e029643a67395a" sha1="762a1879eb63b6123f78378abb6d8bd701ab839c" status="none" />
+		<rom name="Tales of Destiny (Famitsuu Demo) (Japan)  - [Extended Prototype Demo v20260527 by bbayles] (Track 5).bin" size="23430624" crc="59a81b51" md5="5fc8e49095835ad2147ebea8f0281997" sha1="0dca46615b89542a92395d55f5dc91dfe4662aa0" status="none" />
+		<rom name="Tales of Destiny (Famitsuu Demo) (Japan)  - [Extended Prototype Demo v20260527 by bbayles] (Track 6).bin" size="42789936" crc="a2cc3bd5" md5="26d92549b65c142e1f9dfcf9cb50d188" sha1="3db2ed0464ac53c6f1da35bdcc0c08694d91788a" status="none" />
+		<rom name="Tales of Destiny (Famitsuu Demo) (Japan)  - [Extended Prototype Demo v20260527 by bbayles].cue" size="1086" crc="ee700019" md5="e764dc53f0a37e5316da23663d7ba093" sha1="df9136cbfcacaf2d3797451265185e7658d20c55" status="none" />
+	</machine>
+	<machine name="Tales of Destiny (Namco Demo) (Japan) - [Extended Prototype Demo v20260527 by bbayles]">
+		<description>Tales of Destiny (Namco Demo) (Japan) - [Extended Prototype Demo v20260527 by bbayles]</description>
+		<rom name="Tales of Destiny (Namco Demo) (Japan) - [Extended Prototype Demo v20260527 by bbayles] (Track 1).bin" size="327991104" crc="0fc7408a" md5="164170f88acf306070cc36614f2a6e85" sha1="eaf43adc891b7182d8ef6e5f0eb17036bf55a096" status="none" />
+		<rom name="Tales of Destiny (Namco Demo) (Japan) - [Extended Prototype Demo v20260527 by bbayles] (Track 2).bin" size="21793632" crc="cb3c1f7b" md5="2f66a33ddec70889d853ee7630876357" sha1="164657bfdf107c59ec2c7cc8a2f1801e5a31677b" status="none" />
+		<rom name="Tales of Destiny (Namco Demo) (Japan) - [Extended Prototype Demo v20260527 by bbayles] (Track 3).bin" size="16887360" crc="9281c00d" md5="47f954186678ddd31ae8649ff6b399a3" sha1="1959527654d3f801eed378240b2735c524d770e9" status="none" />
+		<rom name="Tales of Destiny (Namco Demo) (Japan) - [Extended Prototype Demo v20260527 by bbayles] (Track 4).bin" size="20274240" crc="c6dd44d2" md5="fae508b00690fe3189e029643a67395a" sha1="762a1879eb63b6123f78378abb6d8bd701ab839c" status="none" />
+		<rom name="Tales of Destiny (Namco Demo) (Japan) - [Extended Prototype Demo v20260527 by bbayles] (Track 5).bin" size="23430624" crc="59a81b51" md5="5fc8e49095835ad2147ebea8f0281997" sha1="0dca46615b89542a92395d55f5dc91dfe4662aa0" status="none" />
+		<rom name="Tales of Destiny (Namco Demo) (Japan) - [Extended Prototype Demo v20260527 by bbayles].cue" size="882" crc="44673a14" md5="4d21d92f0d91c7d182ead7c6c89e6af9" sha1="39f8829c999c655b5ac25301495326d4d9f90555" status="none" />
+	</machine>
 	<machine name="Tales of Destiny (USA) - [Reforged Japanese Names v1.01 by mteam]">
 		<description>Tales of Destiny (USA) - [Reforged Japanese Names v1.01 by mteam]</description>
 		<rom name="Tales of Destiny (USA) - [Reforged Japanese Names v1.01 by mteam] (Track 1).bin" size="558127248" crc="a9b16f9c" md5="8550a56c48c9960dbb1f61b7f0e238fb" sha1="8e6ce088449566bd3ea0d7d8f45a6dd897f2dfe6" status="none" />
@@ -2085,45 +2105,45 @@
 		<rom name="X-Men - Mutant Academy (USA) - [Costume Mod v1.0 by BalinDMK] (Track 12).bin" size="32104800" crc="9b94ea54" md5="65aea234c174ee35fb574d981fe3fc4f" sha1="bd1fde88c2b79e3cf8821c969373460d51f3155a" status="none" />
 		<rom name="X-Men - Mutant Academy (USA) - [Costume Mod v1.0 by BalinDMK].cue" size="1854" crc="b57f2f1d" md5="656634b05cac2c43abd41f221c752dee" sha1="c471a6e9bd24bff9fc9dc7c4af3287c09f0f51e5" status="none" />
 	</machine>
-	<machine name="Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance and 2x Gold-Exp and Half Encounters v0.10.1 by PWB Team] (Disc 1)">
-		<description>Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance and 2x Gold-Exp and Half Encounters v0.10.1 by PWB Team] (Disc 1)</description>
-		<rom name="Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance and 2x Gold-Exp and Half Encounters v0.10.1 by PWB Team] (Disc 1).bin" size="718648896" crc="627b3147" md5="1d81921742829339d05a425e0581afd6" sha1="182f9f31b5cb04756e354f31949323c0f791cff9" status="none" />
-		<rom name="Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance and 2x Gold-Exp and Half Encounters v0.10.1 by PWB Team] (Disc 1).cue" size="200" crc="09acabf4" md5="75be93bb2561ccc21b17818cae8f9414" sha1="09545bc2d2aad721abf3650e28086bd0d8eb6213" status="none" />
+	<machine name="Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance and 2x Gold-Exp and Half Encounters v0.10.2 by PWB Team] (Disc 1)">
+		<description>Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance and 2x Gold-Exp and Half Encounters v0.10.2 by PWB Team] (Disc 1)</description>
+		<rom name="Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance and 2x Gold-Exp and Half Encounters v0.10.2 by PWB Team] (Disc 1).bin" size="718648896" crc="81c044c2" md5="c750a16b261ca34342c1bd317d0ca478" sha1="b631404a5c2cec83787e4eaf335751f8209da42e" status="none" />
+		<rom name="Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance and 2x Gold-Exp and Half Encounters v0.10.2 by PWB Team] (Disc 1).cue" size="200" crc="032cd6f6" md5="caaf3f611a861a88f947554e2852714b" sha1="36e29ce5155b876a6cba6978181a6509df405f10" status="none" />
 	</machine>
-	<machine name="Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance and 2x Gold-Exp and Half Encounters v0.10.1 by PWB Team] (Disc 2)">
-		<description>Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance and 2x Gold-Exp and Half Encounters v0.10.1 by PWB Team] (Disc 2)</description>
-		<rom name="Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance and 2x Gold-Exp and Half Encounters v0.10.1 by PWB Team] (Disc 2).bin" size="688729104" crc="d6b20b42" md5="c4ccab033df06baf266b84703433cb0e" sha1="24d67ac34a676bc130be6f3d358a0ff549807ba8" status="none" />
-		<rom name="Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance and 2x Gold-Exp and Half Encounters v0.10.1 by PWB Team] (Disc 2).cue" size="200" crc="08f18d25" md5="bee32161db5d57ae386f11ba0b489d1c" sha1="460a8c00d2e27549f63ebb1ee8922f699975216d" status="none" />
+	<machine name="Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance and 2x Gold-Exp and Half Encounters v0.10.2 by PWB Team] (Disc 2)">
+		<description>Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance and 2x Gold-Exp and Half Encounters v0.10.2 by PWB Team] (Disc 2)</description>
+		<rom name="Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance and 2x Gold-Exp and Half Encounters v0.10.2 by PWB Team] (Disc 2).bin" size="688729104" crc="4afe6ab5" md5="59e29f6c7a102e08212ca6645ddeb392" sha1="ae9cb3dd57259196996215bfa5688ce053d70027" status="none" />
+		<rom name="Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance and 2x Gold-Exp and Half Encounters v0.10.2 by PWB Team] (Disc 2).cue" size="200" crc="0271f027" md5="c62f8112d5bb2d54bb5307fae0cd0eac" sha1="8bddf76f7ea713239e1529eb573832d96f5e76ad" status="none" />
 	</machine>
-	<machine name="Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance v0.10.1 by PWB Team] (Disc 1)">
-		<description>Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance v0.10.1 by PWB Team] (Disc 1)</description>
-		<rom name="Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance v0.10.1 by PWB Team] (Disc 1).bin" size="718648896" crc="b1c88708" md5="801971e50301ca19244c2ffac0026a45" sha1="aca0c11006785a3d94b8c586682e86f038a75858" status="none" />
-		<rom name="Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance v0.10.1 by PWB Team] (Disc 1).cue" size="164" crc="3b0d4ad1" md5="7987a24bad254459d112c15a5136cc53" sha1="e12709f830c94dfd07a6ed715fd7a112c4a93a68" status="none" />
+	<machine name="Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance v0.10.2 by PWB Team] (Disc 1)">
+		<description>Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance v0.10.2 by PWB Team] (Disc 1)</description>
+		<rom name="Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance v0.10.2 by PWB Team] (Disc 1).bin" size="718648896" crc="d3326248" md5="c6bc4b98b611922c444076e8cbc9e09a" sha1="631fd02ff871c3445c15d45643b5fb054eb916f5" status="none" />
+		<rom name="Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance v0.10.2 by PWB Team] (Disc 1).cue" size="164" crc="318d37d3" md5="f1d98f46227498ac74597d6c57d044e6" sha1="25b19f58dd6a8a978d9f2e1862287ea83e2305c9" status="none" />
 	</machine>
-	<machine name="Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance v0.10.1 by PWB Team] (Disc 2)">
-		<description>Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance v0.10.1 by PWB Team] (Disc 2)</description>
-		<rom name="Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance v0.10.1 by PWB Team] (Disc 2).bin" size="688729104" crc="4b1ae368" md5="ab37f2e11b080f4c1d73d7b669b3ab2c" sha1="e56f791bb87a237d8ef3accae12da280836d9353" status="none" />
-		<rom name="Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance v0.10.1 by PWB Team] (Disc 2).cue" size="164" crc="3a506c00" md5="c5e63a077b7e203c37f57dd36545ad48" sha1="4d89c304d35322bb0e0e057e42e5fe8bdde96155" status="none" />
+	<machine name="Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance v0.10.2 by PWB Team] (Disc 2)">
+		<description>Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance v0.10.2 by PWB Team] (Disc 2)</description>
+		<rom name="Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance v0.10.2 by PWB Team] (Disc 2).bin" size="688729104" crc="4bf5ce63" md5="da7d8a71467e399c75ce90a1cabc7195" sha1="349542dc8473ea8dff9e8f144a16818202779061" status="none" />
+		<rom name="Xenogears (USA) - [Perfect Works Build Fixes and Undub and Rebalance v0.10.2 by PWB Team] (Disc 2).cue" size="164" crc="30d01102" md5="ff360854bc8dc8d7fe9c93208250b5d3" sha1="1e7ef1a5e75c1077e22c0969f16ab0a5deb5d6e7" status="none" />
 	</machine>
-	<machine name="Xenogears (USA) - [Perfect Works Build Fixes and Undub v0.10.1 by PWB Team] (Disc 1)">
-		<description>Xenogears (USA) - [Perfect Works Build Fixes and Undub v0.10.1 by PWB Team] (Disc 1)</description>
-		<rom name="Xenogears (USA) - [Perfect Works Build Fixes and Undub v0.10.1 by PWB Team] (Disc 1).bin" size="718641840" crc="9905a56f" md5="fc19f0c03576072b2b4670486fde2fe8" sha1="d4809f04d9602ea6b40492ff2f02c7944efca6ba" status="none" />
-		<rom name="Xenogears (USA) - [Perfect Works Build Fixes and Undub v0.10.1 by PWB Team] (Disc 1).cue" size="150" crc="56e72f49" md5="bdbcfd68d71311653e4bd3fc61095850" sha1="c1afd2348ce5f0862d001e1130c2eda68e90c77d" status="none" />
+	<machine name="Xenogears (USA) - [Perfect Works Build Fixes and Undub v0.10.2 by PWB Team] (Disc 1)">
+		<description>Xenogears (USA) - [Perfect Works Build Fixes and Undub v0.10.2 by PWB Team] (Disc 1)</description>
+		<rom name="Xenogears (USA) - [Perfect Works Build Fixes and Undub v0.10.2 by PWB Team] (Disc 1).bin" size="718641840" crc="cddcc5e3" md5="6f654928d6d19dcce884051312ebd6a5" sha1="489e8931c5cfa9bc51ba5d1e7d662ed6fbc48613" status="none" />
+		<rom name="Xenogears (USA) - [Perfect Works Build Fixes and Undub v0.10.2 by PWB Team] (Disc 1).cue" size="150" crc="5c67524b" md5="74ce5b06ab7632924685afc55b32a487" sha1="af02fe9e97f9677a7531363aa0a3ecd343ebbd59" status="none" />
 	</machine>
-	<machine name="Xenogears (USA) - [Perfect Works Build Fixes and Undub v0.10.1 by PWB Team] (Disc 2)">
-		<description>Xenogears (USA) - [Perfect Works Build Fixes and Undub v0.10.1 by PWB Team] (Disc 2)</description>
-		<rom name="Xenogears (USA) - [Perfect Works Build Fixes and Undub v0.10.1 by PWB Team] (Disc 2).bin" size="688517424" crc="bd552aff" md5="c58194c6b9b0cb7f0ab2a5dff5e4b379" sha1="00343376db1da60f3bc3ea80d82d40bcd4c6f644" status="none" />
-		<rom name="Xenogears (USA) - [Perfect Works Build Fixes and Undub v0.10.1 by PWB Team] (Disc 2).cue" size="150" crc="57ba0998" md5="311b91cf81570c0250acf8a3d3fb7f71" sha1="5973f757e2e3ef669cdfd17af198e378c2552fb2" status="none" />
+	<machine name="Xenogears (USA) - [Perfect Works Build Fixes and Undub v0.10.2 by PWB Team] (Disc 2)">
+		<description>Xenogears (USA) - [Perfect Works Build Fixes and Undub v0.10.2 by PWB Team] (Disc 2)</description>
+		<rom name="Xenogears (USA) - [Perfect Works Build Fixes and Undub v0.10.2 by PWB Team] (Disc 2).bin" size="688517424" crc="ab56749f" md5="a89b2451bc436295442be06642710be1" sha1="71be977dad47f6484deecada09c9c61ec0c92fd6" status="none" />
+		<rom name="Xenogears (USA) - [Perfect Works Build Fixes and Undub v0.10.2 by PWB Team] (Disc 2).cue" size="150" crc="5d3a749a" md5="0ae0f472110a82be2da1d6412e2a013d" sha1="ee601497e89de27b2c40cdfbaa4ad601a9d53c86" status="none" />
 	</machine>
-	<machine name="Xenogears (USA) - [Perfect Works Build Story Mode and Fixes and Undub v0.10.1 by PWB Team] (Disc 1)">
-		<description>Xenogears (USA) - [Perfect Works Build Story Mode and Fixes and Undub v0.10.1 by PWB Team] (Disc 1)</description>
-		<rom name="Xenogears (USA) - [Perfect Works Build Story Mode and Fixes and Undub v0.10.1 by PWB Team] (Disc 1).bin" size="718639488" crc="f3137c0c" md5="29c9c14b34719f39003b7337bde11bd9" sha1="686580087056229bb0a3d5998a2f6a11e5032980" status="none" />
-		<rom name="Xenogears (USA) - [Perfect Works Build Story Mode and Fixes and Undub v0.10.1 by PWB Team] (Disc 1).cue" size="165" crc="5e73f2cd" md5="ab4cc216846f58482f9ff25222468ac7" sha1="8834929b9d716b49851c3722aa8066410ace2ed8" status="none" />
+	<machine name="Xenogears (USA) - [Perfect Works Build Story Mode and Fixes and Undub v0.10.2 by PWB Team] (Disc 1)">
+		<description>Xenogears (USA) - [Perfect Works Build Story Mode and Fixes and Undub v0.10.2 by PWB Team] (Disc 1)</description>
+		<rom name="Xenogears (USA) - [Perfect Works Build Story Mode and Fixes and Undub v0.10.2 by PWB Team] (Disc 1).bin" size="718639488" crc="34f9a4ca" md5="bd2b13f602b642e9bb8c5f601fdfb382" sha1="e7149181fb9434ac220e57489304f2f1d6b45327" status="none" />
+		<rom name="Xenogears (USA) - [Perfect Works Build Story Mode and Fixes and Undub v0.10.2 by PWB Team] (Disc 1).cue" size="165" crc="54f38fcf" md5="f1e74ee45a32f8c38093cc280a4a6153" sha1="adb9ffc836443a7afff76f22a5ae211d647a41a0" status="none" />
 	</machine>
-	<machine name="Xenogears (USA) - [Perfect Works Build Story Mode and Fixes and Undub v0.10.1 by PWB Team] (Disc 2)">
-		<description>Xenogears (USA) - [Perfect Works Build Story Mode and Fixes and Undub v0.10.1 by PWB Team] (Disc 2)</description>
-		<rom name="Xenogears (USA) - [Perfect Works Build Story Mode and Fixes and Undub v0.10.1 by PWB Team] (Disc 2).bin" size="688515072" crc="4351bc75" md5="7cce6b2a8c193f2561e004198a7c8d7c" sha1="50eedc62070a93d3fd66e632376bc677c080eb73" status="none" />
-		<rom name="Xenogears (USA) - [Perfect Works Build Story Mode and Fixes and Undub v0.10.1 by PWB Team] (Disc 2).cue" size="165" crc="5f2ed41c" md5="cf5d222f621effbd73b079f2e01568cb" sha1="2af1ba62f0119483ab925df54ea145123afdcf0e" status="none" />
+	<machine name="Xenogears (USA) - [Perfect Works Build Story Mode and Fixes and Undub v0.10.2 by PWB Team] (Disc 2)">
+		<description>Xenogears (USA) - [Perfect Works Build Story Mode and Fixes and Undub v0.10.2 by PWB Team] (Disc 2)</description>
+		<rom name="Xenogears (USA) - [Perfect Works Build Story Mode and Fixes and Undub v0.10.2 by PWB Team] (Disc 2).bin" size="688515072" crc="db330912" md5="6337ce0f48bcf1dc908dd5bf7529d04a" sha1="44c11efa3ce0cb9c3827c65fa16a07d420d86558" status="none" />
+		<rom name="Xenogears (USA) - [Perfect Works Build Story Mode and Fixes and Undub v0.10.2 by PWB Team] (Disc 2).cue" size="165" crc="55aea91e" md5="315e502758a608b3db181cd1dc70394f" sha1="4a3870cb90304f0b082c0c4ba1ffdda39964e58d" status="none" />
 	</machine>
 	<machine name="Xenogears (USA) - [Undub v1.01 by RyleFury] (Disc 1)">
 		<description>Xenogears (USA) - [Undub v1.01 by RyleFury] (Disc 1)</description>

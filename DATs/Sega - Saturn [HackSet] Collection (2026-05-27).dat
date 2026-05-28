@@ -5,8 +5,8 @@
 		<name>Sega - Saturn [HackSet] Collection</name>
 		<description>HackSet Sega Saturn Collection</description>
 		<category> </category>
-		<version>20260516-150237</version>
-		<date>2026-05-16</date>
+		<version>20260527-221803</version>
+		<date>2026-05-27</date>
 		<author>GlitchedIris</author>
 		<url>https://github.com/GlitchedIris/HackSet</url>
 		<comment>A collection of romhacks for the Sega Saturn</comment>
@@ -27,6 +27,7 @@
 		<rom name="Battle Garegga (Japan) - [Battle Garegga Anthology Soundtrack v1 by KoolFiller].txt" size="1109" crc="52fcb8ff" md5="2709a65f13defd42232de49a7cd2f323" sha1="ca0b6cca6236c67450f9d2e8372ef0b2c2aa0953" status="none" />
 		<rom name="Battle Garegga (Japan) - [Battle Garegga Remix 2016 Soundtrack v1 by KoolFiller].txt" size="1231" crc="4a2fe871" md5="266055fdf332587d85fb0f3a9ce848b7" sha1="e0f7f003aac6385939488c3bfef309d719b38471" status="none" />
 		<rom name="Battle Garegga (Japan) - [Battle Garegga Rev.2016 Perfect Edition Soundtrack v1 by KoolFiller].txt" size="1197" crc="317fa30d" md5="5cdc53966469810391ebfaea412a94fe" sha1="5a9f4084f3705d8235f6f81f5b6f133e7f8fd0a2" status="none" />
+		<rom name="Bubble Symphony (Japan) - [Secret Menu Activation and English Localization v1.2 by KoolFiller].txt" size="1104" crc="ab2c4705" md5="f2f38b6fe7fbaf98329a147463ed4727" sha1="fba7c92336af3bcd46f411f152fb3f58fb21673d" status="none" />
 		<rom name="Burning Rangers (USA) - [Restored Co-op Mode v2024-06-07.01 by bbayles].txt" size="1262" crc="bff34d95" md5="36feebbe7550ea041637cb19b185e475" sha1="0d2a1e3e656188d0640bb05f0d759d14991b51e8" status="none" />
 		<rom name="Chaos Control Remix (Japan) - [Flash Removal Patch v1.0 by privateye].txt" size="2339" crc="3bb6fa38" md5="2369d569064512b6bb88a10d2007939a" sha1="f18aa260024a6918ef771ece1823a94f504866ff" status="none" />
 		<rom name="Christmas Nights into Dreams... (USA) - [Sonic Into Dreams Remix v2024-11-26.01 by bbayles].txt" size="716" crc="c7eecba1" md5="b738275e677940f127648cf2e235fb9f" sha1="dba827b32e7741c07e110e8eb126dffc2aa41a1a" status="none" />
@@ -68,6 +69,7 @@
 		<rom name="Maximum Force (USA) - [Flash Removal v1.0 by privateye].txt" size="2263" crc="68a4db6d" md5="9df62328fa0b19023362a8f5eb13eee2" sha1="51918570cc426133bdf8ff005c178c39fce34f71" status="none" />
 		<rom name="Mechanical Violator Hakaider - Last Judgement (Japan) - [Flash Removal v1.0 by privateye].txt" size="2068" crc="63760174" md5="ed6601d7717b8b4ab4836c7489eb226c" sha1="2f38ab58ef2c2080f8b1c58dfbbf3b23d23893e1" status="none" />
 		<rom name="Metal Black (Japan) - [Debug Mode v2024-08-15 by bbayles].txt" size="752" crc="2ab52815" md5="9a59fbd6b5b136681df3be611f431762" sha1="27030d86f2f6d390e0a1e910ac5b62afadede84c" status="none" />
+		<rom name="Mizubaku Daibouken (Japan) - [English Localization and Improvement v1.0 by KoolFiller].txt" size="2537" crc="42b2a096" md5="96262467a39c69f7f4f8d0a68b374f54" sha1="7fcf77f21817411eaf10396ed2b323c722c6dd00" status="none" />
 		<rom name="Mortal Kombat Trilogy (USA) - [Quality Hack v1.1 by paul_met].txt" size="1287" crc="65429f73" md5="5f50499944b887c87ae4cb12160c2202" sha1="723835eb5a2378c2515554a466568e285310616c" status="none" />
 		<rom name="Mystaria - The Realms of Lore (USA) - [Debug and Cheat Menus v2024-10-07.01 by bbayles].txt" size="889" crc="9cfcb400" md5="34d9251ad1a4b3edc327db5761f25ef5" sha1="2c05163305e3368b5af1c5414a00a18bea568d55" status="none" />
 		<rom name="Nights into Dreams... (USA) - [Pedestrian Challenge v2024-07-06.01 by bbayles].txt" size="1471" crc="dd085491" md5="ad7525cc33a62c70a84ff37fbca6bbf8" sha1="5698b9cb7c6e5ce5e4a673dd5725d05fcd39a486" status="none" />
@@ -83,12 +85,14 @@
 		<rom name="Saturn Super Vol. 10 Furoku CD-ROM (Japan) - [VATLVA Prototype Demo Extension v2024-07-11.01 by bbayles].txt" size="1090" crc="1e1b2ca4" md5="8264b652988e599b9dd88be3c984d3c9" sha1="8e1d7223e3bb3e5a6550e4cd133116c10bf58911" status="none" />
 		<rom name="Scud - The Disposable Assassin (USA) - [Flash Removal v1.0 by privateye].txt" size="1767" crc="e529c981" md5="8905338c576aae91ad72cbc72dc81228" sha1="964ac4a460e6e6a6bd69d3e6f84f668e0b84b54d" status="none" />
 		<rom name="Sega Ages - OutRun (Japan) - [Extra Music Tracks v1.1 by OlivusPrime].txt" size="2171" crc="8fa8b275" md5="3b7a3dd5abdce6d4aa6988278c29a7b0" sha1="706250084dd07fd81872c72c14bc5f2292deecfa" status="none" />
+		<rom name="Sega Ages - OutRun (Japan) - [Improved Arcade Soundtrack 1.0 by BaraFapper69].txt" size="656" crc="90de5170" md5="e277dc7f37a7307c71efb1447104c299" sha1="f7686bb039790f708e1fb59f5cc5886300582a73" status="none" />
 		<rom name="Sengoku Blade - Sengoku Ace Episode II (Japan) - [Enable Test Mode v2024-07-25.01 by bbayles].txt" size="613" crc="41ae991c" md5="a639df60bee3eac6d21bacee0d9d67a0" sha1="3f4d7466e5f1b6e9a7cc62a218fed849e3f1a597" status="none" />
 		<rom name="Shining Force III (USA) - [Extended v1.0 by Meduza Team].pdf" size="497930" crc="25597070" md5="762c0db349f0e376da11eb2a4c822df7" sha1="700095202cbc01d10488fce9b137691bb915ff9c" status="none" />
 		<rom name="Shining the Holy Ark (Japan) - [Rhythm Challenge v2025-06-18 by bbayles].txt" size="1109" crc="28dda0e7" md5="23b717bf076e4f1c5dc57b223f3e4c48" sha1="8525ff6a7ed8cfe7a0d9d5336ed2bb2430357dda" status="none" />
 		<rom name="Shinobi Legions (USA) - [Debug Mode v2024.03.21-02 by bbayles].txt" size="1176" crc="9a1d5a9d" md5="c433ed221afe4d9c995643b48ec44773" sha1="dc7ff0deca603adc0395c9d592a283d6e5f7bef7" status="none" />
 		<rom name="Shinobi-X - Shin Shinobi Den (Europe) - [60Hz Patch and Debug Mode v1.0 by privateye].txt" size="6064" crc="1f6d68a8" md5="4af3a12feabd89b1c64b62c4614f44bb" sha1="96dc6b26f39353a4c7d0f54b37952eee49d47910" status="none" />
 		<rom name="Shinsetsu Samurai Spirits - Bushidou Retsuden (Japan) - [Debug Menu v2025-01-04.01 by bbayles].txt" size="707" crc="b400b07e" md5="05e89b003df96db6dcc18e8e58a4223a" sha1="6843f32b10d0d4719c21e504e2fdd0db24f9a2d7" status="none" />
+		<rom name="Shinsetsu Samurai Spirits - Bushidou Retsuden (Japan) - [PlayStation Omake v2026-05-24.01 by bbayles].txt" size="817" crc="8ec007e2" md5="61c77f7c9acbd774da09f842f547c9fb" sha1="2dc0524a28b5d25d02dfeabef49dd6bfb13677bc" status="none" />
 		<rom name="Silhouette Mirage (Demo) (Japan) - [Extended Prototype v2024-01-26 by bbayles].txt" size="1142" crc="1fdf9d69" md5="baafb38792404d32559210d4d249b256" sha1="e4ed30a40e810540149f3bde2f4b3599533ccae6" status="none" />
 		<rom name="Solar Eclipse (USA) - [Enable Debug Menu v2024.04.11-01 by bbayles].txt" size="520" crc="6194d407" md5="250029437c4fdfe40961c61d0b8aa1a5" sha1="261228b20320ef0268990acd95d6d7f82a35afd5" status="none" />
 		<rom name="Sonic 3D - Flickies' Island (Japan) - [Special Stage Edition v1.0 by bbayles].txt" size="9617" crc="204c261e" md5="4caae86aa3ebee2b68e7d0da6a4f3c93" sha1="5abc664a039301b17aff048a8489a3518d0bab47" status="none" />
@@ -428,6 +432,12 @@
 		<rom name="Battle Garegga (Japan) - [Battle Garegga Rev.2016 Perfect Edition Soundtrack v1 by KoolFiller] (Track 32).bin" size="13935600" crc="3a2bfffa" md5="7b5fbb8186933548edf0603be23e5566" sha1="c5fdd2810953ad0424875cb6cfd9d383da3b3c58" status="none" />
 		<rom name="Battle Garegga (Japan) - [Battle Garegga Rev.2016 Perfect Edition Soundtrack v1 by KoolFiller] (Track 33).bin" size="8290800" crc="87caa733" md5="292477c7e39260e85fc050c1567f3387" sha1="c14987fed4c6d2b8931747dc0ae4f94c6ece718e" status="none" />
 		<rom name="Battle Garegga (Japan) - [Battle Garegga Rev.2016 Perfect Edition Soundtrack v1 by KoolFiller].cue" size="6242" crc="a784d501" md5="18313e48c8d35dc24c1b84918b06e43d" sha1="1eb4bf89d038e682a23c582663607aaf02907f44" status="none" />
+	</machine>
+	<machine name="Bubble Symphony (Japan) - [Secret Menu Activation and English Localization v1.2 by KoolFiller]">
+		<description>Bubble Symphony (Japan) - [Secret Menu Activation and English Localization v1.2 by KoolFiller]</description>
+		<rom name="Bubble Symphony (Japan) - [Secret Menu Activation and English Localization v1.2 by KoolFiller] (Japan) (Track 1).bin" size="522101664" crc="1a5aef85" md5="d1d900442f9ec55a552c2bacd759b048" sha1="7493f98d81a23eb96f993fa2c443dd26b0bfb20a" status="none" />
+		<rom name="Bubble Symphony (Japan) - [Secret Menu Activation and English Localization v1.2 by KoolFiller] (Track 2).bin" size="1764000" crc="d0f87957" md5="eef11c6c9b70d43e5389643ba1dad8a0" sha1="457d898a3ee6d55d740d7ba72f8822764722345d" status="none" />
+		<rom name="Bubble Symphony (Japan) - [Secret Menu Activation and English Localization v1.2 by KoolFiller].cue" size="381" crc="ab048ec9" md5="3bf21b2135fbe8a41076fb6914178deb" sha1="fdbe42f5e09c6d3370955f64720534b54add4057" status="none" />
 	</machine>
 	<machine name="Burning Rangers (USA) - [Japanese BGM v1.0 by Billkwando]">
 		<description>Burning Rangers (USA) - [Japanese BGM v1.0 by Billkwando]</description>
@@ -1213,6 +1223,31 @@
 		<rom name="Metal Black (Japan) - [Debug Mode v2024-08-15 by bbayles] (Track 22).bin" size="10936800" crc="79bf8fd0" md5="78477ed4efda381cdf48f3528f7c4bf5" sha1="af330dcf65974c1422603540af8944b758079cec" status="none" />
 		<rom name="Metal Black (Japan) - [Debug Mode v2024-08-15 by bbayles].cue" size="3349" crc="26eefd48" md5="f673961e661ef2192e1200821e206a46" sha1="b57d74e8c78e907d046756958c8a2ac1646cf980" status="none" />
 	</machine>
+	<machine name="Mizubaku Daibouken (Japan) - [English Localization and Improvement v1.0 by KoolFiller]">
+		<description>Mizubaku Daibouken (Japan) - [English Localization and Improvement v1.0 by KoolFiller]</description>
+		<rom name="Mizubaku Daibouken (Japan) - [English Localization and Improvement v1.0 by KoolFiller] (Track 01).bin" size="3598560" crc="e6aa1a30" md5="b6aa3d2ecf9cc1ecbdd6bdef66bfcd37" sha1="04f719e0233649d2b168e5a39bf71744c2fae16a" status="none" />
+		<rom name="Mizubaku Daibouken (Japan) - [English Localization and Improvement v1.0 by KoolFiller] (Track 02).bin" size="1676976" crc="a5df8cba" md5="a3dde384c1535691c48b44e6f24bd064" sha1="9ba7bfa95c4a1f71f72a065bec943f5337bf30fa" status="none" />
+		<rom name="Mizubaku Daibouken (Japan) - [English Localization and Improvement v1.0 by KoolFiller] (Track 03).bin" size="3344544" crc="d93e52f3" md5="745e94876f6e075bb8762aa331a01e45" sha1="fc5d6107ebae2779656165962c12fc48acf401a3" status="none" />
+		<rom name="Mizubaku Daibouken (Japan) - [English Localization and Improvement v1.0 by KoolFiller] (Track 04).bin" size="1627584" crc="b7733639" md5="1f7f1c9b61eb5f87d72ec94bd09635dc" sha1="3c32ed47857b0395d8e06234a1fe7f56c79394f4" status="none" />
+		<rom name="Mizubaku Daibouken (Japan) - [English Localization and Improvement v1.0 by KoolFiller] (Track 05).bin" size="32147136" crc="d80730b2" md5="872ce53b63f4f971828d24eb1822ac54" sha1="a1923ac71552b5a3907e617b166090049c748372" status="none" />
+		<rom name="Mizubaku Daibouken (Japan) - [English Localization and Improvement v1.0 by KoolFiller] (Track 06).bin" size="77773584" crc="0a18a0d0" md5="d3b74ee7f249a21227f29ed7f1fa7ea0" sha1="bb317e889004e88a819e8a30a217aa1b605b7d40" status="none" />
+		<rom name="Mizubaku Daibouken (Japan) - [English Localization and Improvement v1.0 by KoolFiller] (Track 07).bin" size="51417072" crc="e821755c" md5="b4e525c22ebd9c66d53a40cc70451d79" sha1="4c8423803ef6ddd62c20024fa14f53a963b83fa4" status="none" />
+		<rom name="Mizubaku Daibouken (Japan) - [English Localization and Improvement v1.0 by KoolFiller] (Track 08).bin" size="31220448" crc="bba4e9f5" md5="fb5f96fcf7ea017042e5dc851da239ab" sha1="9e5d2f8c0c97849a4593aef0dd07256bbdcd5cb5" status="none" />
+		<rom name="Mizubaku Daibouken (Japan) - [English Localization and Improvement v1.0 by KoolFiller] (Track 09).bin" size="2288496" crc="cb439e76" md5="4b71fe55110d46a383bfc0f11fc3a2c5" sha1="54c74faca4732d752a11f17fa50b2cca68043a82" status="none" />
+		<rom name="Mizubaku Daibouken (Japan) - [English Localization and Improvement v1.0 by KoolFiller] (Track 10).bin" size="10927392" crc="394d0630" md5="9bf2b1895f0c022f28ef91a0ccbcbd57" sha1="d602669cb9bcef9b5bb37409bf1c0ec95d25f67b" status="none" />
+		<rom name="Mizubaku Daibouken (Japan) - [English Localization and Improvement v1.0 by KoolFiller] (Track 11).bin" size="1366512" crc="93baf33c" md5="edfe5e754b83fe865eeee78f4200e906" sha1="f4ee2f9b8b9c6c4262a297089fbba3d15e30b136" status="none" />
+		<rom name="Mizubaku Daibouken (Japan) - [English Localization and Improvement v1.0 by KoolFiller] (Track 12).bin" size="2516640" crc="1657cd2e" md5="f1eca154c4654d4303992cb2df1214ec" sha1="a8a80313e341fea8115ef48cfe950706535488c5" status="none" />
+		<rom name="Mizubaku Daibouken (Japan) - [English Localization and Improvement v1.0 by KoolFiller] (Track 13).bin" size="42077280" crc="0fa64af7" md5="0f58a40f6026c4ed63e73c71ef56273b" sha1="f0443bf89ab40237c4ecb55e13d18654032d4a82" status="none" />
+		<rom name="Mizubaku Daibouken (Japan) - [English Localization and Improvement v1.0 by KoolFiller] (Track 14).bin" size="54201840" crc="fab45a62" md5="97574f68da343ed65fe799b0f191ee86" sha1="d402f90c4b67df747ce403d6c0175ab4bb3d5631" status="none" />
+		<rom name="Mizubaku Daibouken (Japan) - [English Localization and Improvement v1.0 by KoolFiller] (Track 15).bin" size="48239520" crc="c0f6a70c" md5="f0acfd479749937b661fe2d047dc9160" sha1="711dbdefec0d26e5959bad529475153bd0b3cf55" status="none" />
+		<rom name="Mizubaku Daibouken (Japan) - [English Localization and Improvement v1.0 by KoolFiller] (Track 16).bin" size="37072224" crc="aaa0bbea" md5="79e1af61eb6761cbfcbe67890249632f" sha1="9bdb37738773b2a3a936075aa6fd905813d99420" status="none" />
+		<rom name="Mizubaku Daibouken (Japan) - [English Localization and Improvement v1.0 by KoolFiller] (Track 17).bin" size="41084736" crc="dbd1f244" md5="4406b26ced3b083823a5e7b50ee2223b" sha1="59de23b0bb4849ba387eb3d89258c3c1b0945b51" status="none" />
+		<rom name="Mizubaku Daibouken (Japan) - [English Localization and Improvement v1.0 by KoolFiller] (Track 18).bin" size="16050048" crc="0161a6c4" md5="6cc9cc29f83dc569a185a3b7f026c8db" sha1="29f9e7fd42b028c0c1d4b15533cddc2608e83b18" status="none" />
+		<rom name="Mizubaku Daibouken (Japan) - [English Localization and Improvement v1.0 by KoolFiller] (Track 19).bin" size="1058400" crc="88e2f200" md5="100bfc2dc10aca2b38210284f3cc684d" sha1="1c88008742d90b1a60d6fcff710820a2591ca7a2" status="none" />
+		<rom name="Mizubaku Daibouken (Japan) - [English Localization and Improvement v1.0 by KoolFiller] (Track 20).bin" size="13258224" crc="520811dd" md5="e5dc3975bee7305536dbe8b5a2fbe61f" sha1="d65038d814f1567ffa5b4320d99d54a4888070fd" status="none" />
+		<rom name="Mizubaku Daibouken (Japan) - [English Localization and Improvement v1.0 by KoolFiller] (Track 21).bin" size="2006256" crc="a3112274" md5="432f1e5458a79024bdaa1831e853978e" sha1="1b2848191894577af6e15028ae42b19c76f8fb4e" status="none" />
+		<rom name="Mizubaku Daibouken (Japan) - [English Localization and Improvement v1.0 by KoolFiller].cue" size="3783" crc="78e352bb" md5="a86bcf508395a8c9acb36cf400ee2d7c" sha1="7aeb2354e5a1c1fa2ca34db5907c972fb3c41539" status="none" />
+	</machine>
 	<machine name="Mortal Kombat II (USA) - [Music Sequence Fix v1.0 by Wesker]">
 		<description>Mortal Kombat II (USA) - [Music Sequence Fix v1.0 by Wesker]</description>
 		<rom name="Mortal Kombat II (USA) - [Music Sequence Fix v1.0 by Wesker] (Track 1).bin" size="30780624" crc="b8314d75" md5="1338e2a685c77115797706360daf70de" sha1="909715e60a68d74f70af85ddaf5731c3cae61b07" status="none" />
@@ -1457,6 +1492,19 @@
 		<rom name="Sega Ages - OutRun (Japan) - [Extra Music Tracks Mega Drive Step on Beat v1.1 by OlivusPrime] (Track 9).bin" size="51557028" crc="33f1d516" md5="80ac96111785ee9e153a2d16aa552f3e" sha1="5d49c20bebd6beb1ab2bdf3ec5584730e6c4f2eb" status="none" />
 		<rom name="Sega Ages - OutRun (Japan) - [Extra Music Tracks Mega Drive Step on Beat v1.1 by OlivusPrime].cue" size="1688" crc="befe9cd1" md5="e6945be08f1cd99cfbc301ea06bfdc5f" sha1="fbc23017ec8e16aefbf09f3e2a83d8f09a6f8165" status="none" />
 	</machine>
+	<machine name="Sega Ages - OutRun (Japan) - [Improved Arcade Soundtrack 1.0 by BaraFapper69]">
+		<description>Sega Ages - OutRun (Japan) - [Improved Arcade Soundtrack 1.0 by BaraFapper69]</description>
+		<rom name="Sega Ages - OutRun (Japan) - [Improved Arcade Soundtrack 1.0 by BaraFapper69] (Track 1).bin" size="3184608" crc="1ac2f796" md5="8bb74b7936d12481f099ff583f9169f9" sha1="6adcf360174b0719a796ee2b6e5961998c7816c8" status="none" />
+		<rom name="Sega Ages - OutRun (Japan) - [Improved Arcade Soundtrack 1.0 by BaraFapper69] (Track 2).bin" size="76161662" crc="d0447f76" md5="b48e3297765d46763e49f50676057d75" sha1="45a4726f9f099a1faf228d164aff70ec667ba3aa" status="none" />
+		<rom name="Sega Ages - OutRun (Japan) - [Improved Arcade Soundtrack 1.0 by BaraFapper69] (Track 3).bin" size="79345590" crc="6491d013" md5="e704fb4ec7acd619ae11a315da461385" sha1="9544bcc70a0856657d0da6f5103ce7e123f20a6b" status="none" />
+		<rom name="Sega Ages - OutRun (Japan) - [Improved Arcade Soundtrack 1.0 by BaraFapper69] (Track 4).bin" size="74091222" crc="907a9a6c" md5="2fc15977a5ce9f1a94f6197c9dd800bc" sha1="c959d6de53ccf51da15b7adefb47b2a4a0a602e1" status="none" />
+		<rom name="Sega Ages - OutRun (Japan) - [Improved Arcade Soundtrack 1.0 by BaraFapper69] (Track 5).bin" size="15919206" crc="d238f75f" md5="4b9f308baac530dccfadeddc917308c8" sha1="b6d50d1b90d2e8187b30d02d3b1c5a4f07a01249" status="none" />
+		<rom name="Sega Ages - OutRun (Japan) - [Improved Arcade Soundtrack 1.0 by BaraFapper69] (Track 6).bin" size="68617248" crc="96560ae4" md5="ece15597129422e981df94e74036ade6" sha1="62675a52a30e073211177a0f80423baad3a87452" status="none" />
+		<rom name="Sega Ages - OutRun (Japan) - [Improved Arcade Soundtrack 1.0 by BaraFapper69] (Track 7).bin" size="74546640" crc="83704a61" md5="3d52e6d0e096ac9365295f907cd35012" sha1="acbf10a357e5ab489916bc84819972a5fd2a9470" status="none" />
+		<rom name="Sega Ages - OutRun (Japan) - [Improved Arcade Soundtrack 1.0 by BaraFapper69] (Track 8).bin" size="83844096" crc="5d190603" md5="a7b1ebddbb760cd240df0423abb3eaf8" sha1="44eeb56f971e9c92d9d00ccbee3d3260d5570724" status="none" />
+		<rom name="Sega Ages - OutRun (Japan) - [Improved Arcade Soundtrack 1.0 by BaraFapper69] (Track 9).bin" size="59884272" crc="b3507261" md5="8f25a8bcdec40bac3f2b1ff392859938" sha1="47086e232817fa40cd5d15353c505c73ecf826eb" status="none" />
+		<rom name="Sega Ages - OutRun (Japan) - [Improved Arcade Soundtrack 1.0 by BaraFapper69].cue" size="1544" crc="e9b5e170" md5="01af5d6b0819da68d53680cc12f4274e" sha1="dcbb936f8a46125ed3646b44cef211c31ee032f7" status="none" />
+	</machine>
 	<machine name="Sengoku Blade - Sengoku Ace Episode II (Japan) - [Enable Test Mode v2024-07-25.01 by bbayles]">
 		<description>Sengoku Blade - Sengoku Ace Episode II (Japan) - [Enable Test Mode v2024-07-25.01 by bbayles]</description>
 		<rom name="Sengoku Blade - Sengoku Ace Episode II (Japan) - [Enable Test Mode v2024-07-25.01 by bbayles] (Track 01).bin" size="446564832" crc="ba615b0f" md5="610cd422ed4eeb9375ce41283854adb1" sha1="9da094cefd7abbe86615598e104ed0b4d533f9db" status="none" />
@@ -1531,6 +1579,16 @@
 		<rom name="Shinsetsu Samurai Spirits - Bushidou Retsuden (Japan) - [Debug Menu v2025-01-04.01 by bbayles] (Track 5).bin" size="60488736" crc="960c0e41" md5="79c9f6e73e19c363703e1786fbef8e16" sha1="92d4eed721392c649dabdb9e537e7d4cb79538b0" status="none" />
 		<rom name="Shinsetsu Samurai Spirits - Bushidou Retsuden (Japan) - [Debug Menu v2025-01-04.01 by bbayles] (Track 6).bin" size="14869344" crc="d2d2e51c" md5="d879c3a13fec75d6ef5887783ccdbf48" sha1="b88526d2746c43c64dbddfc589bf032235fcb68e" status="none" />
 		<rom name="Shinsetsu Samurai Spirits - Bushidou Retsuden (Japan) - [Debug Menu v2025-01-04.01 by bbayles].cue" size="1138" crc="75aecaf6" md5="a9415478f1d8caab6ce585d2287b9ca3" sha1="734d39d3099a5fe25f179825681140c109464216" status="none" />
+	</machine>
+	<machine name="Shinsetsu Samurai Spirits - Bushidou Retsuden (Japan) - [PlayStation Omake v2026-05-24.01 by bbayles]">
+		<description>Shinsetsu Samurai Spirits - Bushidou Retsuden (Japan) - [PlayStation Omake v2026-05-24.01 by bbayles]</description>
+		<rom name="Shinsetsu Samurai Spirits - Bushidou Retsuden (Japan) - [PlayStation Omake v2026-05-24.01 by bbayles] (Track 1).bin" size="214135488" crc="d2f5fcee" md5="5dca4dd8a5105dd988fb3d91264e26ce" sha1="2e38dd1a1eda57c6af6cf71b44ea4823c5b26c3e" status="none" />
+		<rom name="Shinsetsu Samurai Spirits - Bushidou Retsuden (Japan) - [PlayStation Omake v2026-05-24.01 by bbayles] (Track 2).bin" size="224564256" crc="ee483c2a" md5="61eb2b61d673071d20f3c9de59cc0c10" sha1="360a1b86e9ccf74ec89e33640a5b02a9c41bb10d" status="none" />
+		<rom name="Shinsetsu Samurai Spirits - Bushidou Retsuden (Japan) - [PlayStation Omake v2026-05-24.01 by bbayles] (Track 3).bin" size="12338592" crc="ec9c13df" md5="e1462052ff38a26a303f45d32127b382" sha1="fd8c95c412769f5e8bd2af32fde3fc86aa319703" status="none" />
+		<rom name="Shinsetsu Samurai Spirits - Bushidou Retsuden (Japan) - [PlayStation Omake v2026-05-24.01 by bbayles] (Track 4).bin" size="8062656" crc="a7c4d775" md5="d29f70d9a578085686971c6c83a8a5a5" sha1="6ae8139d88bb58e38e6680d592809cf10af10a76" status="none" />
+		<rom name="Shinsetsu Samurai Spirits - Bushidou Retsuden (Japan) - [PlayStation Omake v2026-05-24.01 by bbayles] (Track 5).bin" size="60488736" crc="960c0e41" md5="79c9f6e73e19c363703e1786fbef8e16" sha1="92d4eed721392c649dabdb9e537e7d4cb79538b0" status="none" />
+		<rom name="Shinsetsu Samurai Spirits - Bushidou Retsuden (Japan) - [PlayStation Omake v2026-05-24.01 by bbayles] (Track 6).bin" size="14869344" crc="d2d2e51c" md5="d879c3a13fec75d6ef5887783ccdbf48" sha1="b88526d2746c43c64dbddfc589bf032235fcb68e" status="none" />
+		<rom name="Shinsetsu Samurai Spirits - Bushidou Retsuden (Japan) - [PlayStation Omake v2026-05-24.01 by bbayles].cue" size="1180" crc="c856ff37" md5="91b148df010bc34a182ccdf7f6344429" sha1="0a64cdd44d56603cdc8268e56272ad68ef239a87" status="none" />
 	</machine>
 	<machine name="Silhouette Mirage (Demo) (Japan) - [Extended Prototype v2024-01-26 by bbayles]">
 		<description>Silhouette Mirage (Demo) (Japan) - [Extended Prototype v2024-01-26 by bbayles]</description>
