@@ -30,3 +30,13 @@ Alternative Patch (track 1): [NBA Jam - Tournament Edition (USA) - [Walrus Editi
 Alternative Patch (track 2): [NBA Jam - Tournament Edition (USA) - [Walrus Edition v1.01 Public Beta by Malenko] (Track 2).xdelta](NBA%20Jam%20-%20Tournament%20Edition%20(USA)%20-%20%5BWalrus%20Edition%20v1.01%20Public%20Beta%20by%20Malenko%5D%20(Track%202).xdelta)
 
 Instructions: Apply xdelta patches to clean track 1 and 2 bin files.
+
+**Touge King the Spirits (Japan) - \[3D Pad Compatibility Fix Patch v1.0 by SEGA RPG FAN\] \[AI Used\]**
+
+Original Patch: [Touge King the Spirits 3D Pad Compatibility Fix Patch](https://segaxtreme.net/resources/touge-king-the-spirits-high-velocity-3d-pad-compatibility-fix-patch.543/)
+Alternative Patch: [Touge King the Spirits (Japan) - [3D Pad Compatibility Fix Patch v1.0 by SEGA RPG FAN] [AI Used] (Track 1).xdelta](Touge%20King%20the%20Spirits%20(Japan)%20-%20[3D%20Pad%20Compatibility%20Fix%20Patch%20v1.0%20by%20SEGA%20RPG%20FAN]%20[AI%20Used]%20(Track%201).xdelta)
+
+Instructions:\
+Apply xdelta patch to a clean track 1 bin and set the patched bin file aside.\
+Use the original SSP patch on a **clean** (not the patched bin file you just set aside) disc image.\
+Use the xdelta patched track 1 bin in place of the track 1 bin created by SSP. So you should have tracks 2-8 from the SSP output and track 1 from the xdelta patch.
