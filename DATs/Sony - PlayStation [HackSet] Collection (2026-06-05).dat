@@ -5,8 +5,8 @@
 		<name>Sony - PlayStation [HackSet] Collection</name>
 		<description>HackSet Sony PlayStation Collection</description>
 		<category> </category>
-		<version>20260527-194536</version>
-		<date>2026-05-27</date>
+		<version>20260605-233434</version>
+		<date>2026-06-05</date>
 		<author>GlitchedIris</author>
 		<url>https://github.com/GlitchedIris/HackSet</url>
 		<comment>A collection of romhacks for the Sony PlayStation</comment>
@@ -24,6 +24,7 @@
 		<rom name="Bloody Roar II (USA) - [Undub v1.0 by BloodRaynare].txt" size="523" crc="07de61d9" md5="ddd22c926070d0994ef90af75f8d67a4" sha1="3fc50745cc625fa8df8f7dfacf644a9a26a1c2d4" status="none" />
 		<rom name="Bomberman - Party Edition (USA) - [Intro Audio Restored With Subs v1 by rari_teh].txt" size="1451" crc="fe9829b8" md5="3f7d0e3a8f92d45464b10019b42abdab" sha1="4aeda3f17ea28a6e4657ea81eeca6eda341e18b8" status="none" />
 		<rom name="Breath of Fire III (USA) - [Better Descriptions v1.1.1 by Naro].txt" size="5691" crc="6e1538c4" md5="1dbed501ee30440420ff2305dc13f986" sha1="a148c9110e359c7febaedd815e011608cdde3e3b" status="none" />
+		<rom name="Breath of Fire III (USA) - [Easy and Hard Modes by Credge_1].txt" size="5017" crc="f5b0053d" md5="94fba5cc56654b2116eda507997ad40c" sha1="52ca34e0bcfc48e640fcffd1cc4a834c41e50f56" status="none" />
 		<rom name="Breath of Fire IV (USA) - [Better Descriptions v1.0.2 by Naro].txt" size="5540" crc="72b811e9" md5="acb4d8dd73a00b675e3ecc2972c62595" sha1="359f543b2590eb33586dd789ec5be86cd107008f" status="none" />
 		<rom name="Breath of Fire IV (USA) - [Dengeki Store Restoration v1.0 by Navarchos].txt" size="3986" crc="9090bfb8" md5="703eb2e6ae6bcb9320cf742a6182cdfe" sha1="c75a1657e9f92bcc557e69ceb3f977488af20bc7" status="none" />
 		<rom name="Breath of Fire IV (USA) - [Subtitled FMV v1.1 by swosho].txt" size="371" crc="7d356ae6" md5="9d1cbd311b134607755fbbeba5b44b63" sha1="4f53523c536225a8aadf0c388295b33a9df798ff" status="none" />
@@ -165,6 +166,8 @@
 		<rom name="Tales of Destiny (USA) - [Reforged Japanese Names v1.01 by mteam].txt" size="7034" crc="31e8b234" md5="6949db1e37a94b3fbc23689f3f1baabc" sha1="4a0fdc587b7f48d076cd33f53d31c1acdf71bae9" status="none" />
 		<rom name="Tales of Destiny (USA) - [Reforged v1.01 by mteam].txt" size="6556" crc="ad686f3d" md5="6b581a9362323e35dd9c16dbdbccf677" sha1="738b86d94fb9f1812f16b67542a73edc3c838e62" status="none" />
 		<rom name="Tales of Destiny II (USA) - [Title Screen Restoration v1.0 by FlamePurge].txt" size="4898" crc="60e3a4af" md5="5fcac430d2e966994dd745feca04a270" sha1="13a0a523c8b50e50f307e7cde0dcfcb0408a93ff" status="none" />
+		<rom name="Tales of Eternia (Demo) (Japan) - [Extended Prototype Demo v20260603 by bbayles].txt" size="502" crc="db54fbb0" md5="0927b686ed48ffbdce9461b2d51c3f95" sha1="4029353e4aaa92bc78d980c3ee29d86c781eda39" status="none" />
+		<rom name="Tales of Phantasia (Demo) (Japan) - [Extended Prototype Demo v20260603 by bbayles].txt" size="365" crc="71be707e" md5="8c1254faa1e58c5d5c72f2638738a31d" sha1="b69daebf097b2a9c63f3fb81100e249d06da3680" status="none" />
 		<rom name="Tenchu - Stealth Assassins (USA) - [Modern Controls v2.1 by Dacaskos].txt" size="6793" crc="678ffd96" md5="a2f80b9b98689d5bafd666cf4120a5d9" sha1="1aabcdedffb39c35f669d27793b2fa5b74d76431" status="none" />
 		<rom name="Vagrant Story (USA) - [Font Improvement v1.0 by Hilltop].txt" size="1291" crc="a54aa14c" md5="64f9d41e593f0c2f3c1e865f4a786ca8" sha1="56740a3d8e56492141f8811942385dc02cde8704" status="none" />
 		<rom name="Vagrant Story (USA) - [Remove Teleport Cost v1.0 by anna-is-cute].txt" size="320" crc="bbf0aa04" md5="1196601014b6478e8411df0345f97d62" sha1="532b57b0d735a4a8d2d982b7cb0499807a3cacc0" status="none" />
@@ -302,6 +305,18 @@
 		<rom name="Breath of Fire III (USA) - [Better Descriptions v1.1.1 by Naro] (Track 1).bin" size="442938048" crc="3f164202" md5="0b895ddc1555663be7f9b18d4b6a73d6" sha1="858dd3465a990ac004b6088f1c4714eee4c000de" status="none" />
 		<rom name="Breath of Fire III (USA) - [Better Descriptions v1.1.1 by Naro] (Track 2).bin" size="37396800" crc="7976083e" md5="2d7b5e8e94a91bf5423b2356f6a34863" sha1="d9f92af296360772e62caa4cb276de3fa74f5538" status="none" />
 		<rom name="Breath of Fire III (USA) - [Better Descriptions v1.1.1 by Naro].cue" size="296" crc="0bae90f4" md5="4642678ddb1b9e1a434dee758e37b405" sha1="d26f71048ecb1e4506544459c45316b923fa99b2" status="none" />
+	</machine>
+	<machine name="Breath of Fire III (USA) - [Easy Mode by Credge_1]">
+		<description>Breath of Fire III (USA) - [Easy Mode by Credge_1]</description>
+		<rom name="Breath of Fire III (USA) - [Easy Mode by Credge_1] (Track 1).bin" size="442938048" crc="9a30664c" md5="67fc1718de11d8b2de83ee80b8bfa140" sha1="c3a9f9c360608aa60188416bbedb6473aff78f66" status="none" />
+		<rom name="Breath of Fire III (USA) - [Easy Mode by Credge_1] (Track 2).bin" size="37396800" crc="7976083e" md5="2d7b5e8e94a91bf5423b2356f6a34863" sha1="d9f92af296360772e62caa4cb276de3fa74f5538" status="none" />
+		<rom name="Breath of Fire III (USA) - [Easy Mode by Credge_1].cue" size="270" crc="bdcd6fef" md5="7cb8bf7385c641ccc59c0ce90e4d829d" sha1="c8f5ce3ed9b0f349f411b86bc09c230ff2f6d9a8" status="none" />
+	</machine>
+	<machine name="Breath of Fire III (USA) - [Hard Mode by Credge_1]">
+		<description>Breath of Fire III (USA) - [Hard Mode by Credge_1]</description>
+		<rom name="Breath of Fire III (USA) - [Hard Mode by Credge_1] (Track 1).bin" size="442938048" crc="fee6a479" md5="11340fc2e6236365d09fb38ae04d15ff" sha1="61ed5df8b85a7e29cc2625a9c7ab3dc86222b5c4" status="none" />
+		<rom name="Breath of Fire III (USA) - [Hard Mode by Credge_1] (Track 2).bin" size="37396800" crc="7976083e" md5="2d7b5e8e94a91bf5423b2356f6a34863" sha1="d9f92af296360772e62caa4cb276de3fa74f5538" status="none" />
+		<rom name="Breath of Fire III (USA) - [Hard Mode by Credge_1].cue" size="270" crc="d4a3364e" md5="3b7b3dc58845b60b93c55f75a8fc2ee5" sha1="56640046edab8be9d48dd35d875020f48d9e3979" status="none" />
 	</machine>
 	<machine name="Breath of Fire IV (USA) - [Better Descriptions v1.0.2 by Naro]">
 		<description>Breath of Fire IV (USA) - [Better Descriptions v1.0.2 by Naro]</description>
@@ -1991,6 +2006,17 @@
 		<description>Tales of Destiny II (USA) - [Title Screen Restoration v1.0 by FlamePurge] (Disc 3)</description>
 		<rom name="Tales of Destiny II (USA) - [Title Screen Restoration v1.0 by FlamePurge] (Disc 3).bin" size="639981552" crc="0dc9a8d5" md5="6e1ee11c7bad97f8896c976d17b3b093" sha1="14fc62dc22eb715843dc8ca7beed93891baef198" status="none" />
 		<rom name="Tales of Destiny II (USA) - [Title Screen Restoration v1.0 by FlamePurge] (Disc 3).cue" size="212" crc="80748d08" md5="ad54b948762673d285e8fa93c4d14887" sha1="3ce082e1c1f8654ba19555dc768bece61277c683" status="none" />
+	</machine>
+	<machine name="Tales of Eternia (Demo) (Japan) - [Extended Prototype Demo v20260603 by bbayles]">
+		<description>Tales of Eternia (Demo) (Japan) - [Extended Prototype Demo v20260603 by bbayles]</description>
+		<rom name="Tales of Eternia (Demo) (Japan) - [Extended Prototype Demo v20260603 by bbayles] (Track 1).bin" size="590255568" crc="ba9b6b68" md5="d8869549b775a8b24e51e6f8cc5e7202" sha1="ce71651ec426aa95e418b95d5d0833cf6448838f" status="none" />
+		<rom name="Tales of Eternia (Demo) (Japan) - [Extended Prototype Demo v20260603 by bbayles] (Track 2).bin" size="32123616" crc="2120b2da" md5="f11b920d249bcbd76627f50135bea466" sha1="773a46c3e786999c4ede2b728b480f8c5e7765c6" status="none" />
+		<rom name="Tales of Eternia (Demo) (Japan) - [Extended Prototype Demo v20260603 by bbayles].cue" size="330" crc="a19df66f" md5="c68e7dc5143c5b2a3563daa5c596c89c" sha1="8a77a6f316a12f6106ce3dfd073fe82887acc086" status="none" />
+	</machine>
+	<machine name="Tales of Phantasia (Demo) (Japan) - [Extended Prototype Demo v20260603 by bbayles]">
+		<description>Tales of Phantasia (Demo) (Japan) - [Extended Prototype Demo v20260603 by bbayles]</description>
+		<rom name="Tales of Phantasia (Demo) (Japan) - [Extended Prototype Demo v20260603 by bbayles].bin" size="305261376" crc="807a593b" md5="1fdec63ab0698e97a0ebf3c30bdf4dc6" sha1="879855aeedd94c79db24086cfd5ed2ad5aafda15" status="none" />
+		<rom name="Tales of Phantasia (Demo) (Japan) - [Extended Prototype Demo v20260603 by bbayles].cue" size="148" crc="07b6eb19" md5="a1729f0b4b3467d5668afda8ba59ff68" sha1="dd2d52daab40c42b3ab4c9523bad7832431a8659" status="none" />
 	</machine>
 	<machine name="Tenchu - Stealth Assassins (USA) - [Modern Controls v2.1 by Dacaskos]">
 		<description>Tenchu - Stealth Assassins (USA) - [Modern Controls v2.1 by Dacaskos]</description>
