@@ -5,8 +5,8 @@
 		<name>Sony - PlayStation [HackSet] Collection</name>
 		<description>HackSet Sony PlayStation Collection</description>
 		<category> </category>
-		<version>20260605-233434</version>
-		<date>2026-06-05</date>
+		<version>20260618-020208</version>
+		<date>2026-06-18</date>
 		<author>GlitchedIris</author>
 		<url>https://github.com/GlitchedIris/HackSet</url>
 		<comment>A collection of romhacks for the Sony PlayStation</comment>
@@ -54,6 +54,7 @@
 		<rom name="Digimon World 2 (USA) - [Improvement v8 by Gledson999].txt" size="3828" crc="e3af96a5" md5="e410b5383b9ca5e93ad499770ccff74c" sha1="744ff19e4dbf8204ac8e8cd1513b12065f698c7e" status="none" />
 		<rom name="Digimon World 2003 (Europe) - [Fast Travel v1.1 by Flawe].txt" size="1307" crc="b83dc167" md5="4dc86aa6c771971eed28b965edb06e78" sha1="850d23f0ae080a6193d6f8aa3d07d32f7b83581c" status="none" />
 		<rom name="Digimon World 2003 (Europe) - [NTSC v1.0 by markisha64].txt" size="1234" crc="28753a54" md5="6e2c5f449a052bce638f0af8116b6f08" sha1="543bb5f3fea05ce298714514ff3a0d4654254a46" status="none" />
+		<rom name="Digimon World (USA) - [FixPack v1.03 by LoneGamer88 and Vicen04].txt" size="11710" crc="a3a62fb9" md5="a8bcb8a39061ddbe770273a323c7f689" sha1="1493958c7312d039398220d04e0c0a2f8fb02a76" status="none" />
 		<rom name="Digimon World (USA) - [Maeson Rebalance v1.09a by Maeson] Quick Data List.txt" size="109350" crc="cee647a4" md5="c6e898064d283b2c2a0f5b373c39e400" sha1="a9ee001506a069e31f5f6e83bb36011769460080" status="none" />
 		<rom name="Digimon World (USA) - [Maeson Rebalance v1.09a by Maeson].txt" size="289148" crc="4d3150a1" md5="85bbdccccc45a510c15c88ce5d58152d" sha1="cf4d49f1c95ea9dea2c75175b5829a6ac3427978" status="none" />
 		<rom name="Digimon World (USA) - [Vice v2.2 by Vice].txt" size="30931" crc="dc077793" md5="1e6c4fcc1aa4c6bf66b3444943455845" sha1="50f93d3558150f435ad0ceffb129532061af991b" status="none" />
@@ -369,6 +370,11 @@
 		<rom name="Brigandine - Grand Edition (Japan) - [Cross MOD v7.1 by Auro] [T-En v2 by John Osborne] (Disc 2).bin" size="751746240" crc="b3274f6d" md5="da6bea8c322c152efce3782a9711d433" sha1="1a393c4323ad96f44ec463d662dd1d811c0d8bb1" status="none" />
 		<rom name="Brigandine - Grand Edition (Japan) - [Cross MOD v7.1 by Auro] [T-En v2 by John Osborne] (Disc 2).cue" size="162" crc="6a4998e6" md5="4ca691ad66fd342a18cf8718a4146d83" sha1="d07ce6c247ae90076a92e4206fb466e8da9c1d68" status="none" />
 	</machine>
+	<machine name="Capcom vs. SNK Pro (USA) - [Uncensor v1.0 by LoneGamer88]">
+		<description>Capcom vs. SNK Pro (USA) - [Uncensor v1.0 by LoneGamer88]</description>
+		<rom name="Capcom vs. SNK Pro (USA) - [Uncensor v1.0 by LoneGamer88].bin" size="616609728" crc="2cebb4f5" md5="1588fb3070e2db1fbf760c91149e3b92" sha1="961997760d6038bf829992e80dfe1fcc60c23959" status="none" />
+		<rom name="Capcom vs. SNK Pro (USA) - [Uncensor v1.0 by LoneGamer88].cue" size="123" crc="d64a67af" md5="16f2caf62dd00733aefd9b8333a11805" sha1="5fcee92bec9e126f7bf491ca3049722c4ad3a846" status="none" />
+	</machine>
 	<machine name="Castlevania - Symphony of the Night (USA) - [Alternate Scarlet Symphony v1.3.2 by nukesheart]">
 		<description>Castlevania - Symphony of the Night (USA) - [Alternate Scarlet Symphony v1.3.2 by nukesheart]</description>
 		<rom name="Castlevania - Symphony of the Night (USA) - [Alternate Scarlet Symphony v1.3.2 by nukesheart].bin" size="538655040" crc="7f90c0d0" md5="3b764ee91d3fdf1a98c00acf2d665d78" sha1="4f886dd05f7ea935e2c2b2e9ee52fb3e3520c50c" status="none" />
@@ -552,6 +558,11 @@
 		<description>Digimon World 2003 (Europe) - [NTSC v1.0 by markisha64] [Fast Travel v1.1 by Flawe]</description>
 		<rom name="Digimon World 2003 (Europe) - [NTSC v1.0 by markisha64] [Fast Travel v1.1 by Flawe].bin" size="692146560" crc="c541a1fd" md5="32209998fa5d6c33012a1d279f3719d7" sha1="16eb0f6ce2cb28a21a1d6c832c602d64075d2fda" status="none" />
 		<rom name="Digimon World 2003 (Europe) - [NTSC v1.0 by markisha64] [Fast Travel v1.1 by Flawe].cue" size="149" crc="49ab4e64" md5="c834353c20273b031f54cb4cce477c68" sha1="5c7070eb7d2f1759fa33dafce605101003caadd1" status="none" />
+	</machine>
+	<machine name="Digimon World (USA) - [FixPack v1.03 by LoneGamer88 and Vicen04]">
+		<description>Digimon World (USA) - [FixPack v1.03 by LoneGamer88 and Vicen04]</description>
+		<rom name="Digimon World (USA) - [FixPack v1.03 by LoneGamer88 and Vicen04].bin" size="381771936" crc="c13328f5" md5="22c1fae55f5204f5d17b5d1d07142b02" sha1="6b5bb974381d3b0496180d4e27a7c6ba1f1960fc" status="none" />
+		<rom name="Digimon World (USA) - [FixPack v1.03 by LoneGamer88 and Vicen04].cue" size="130" crc="0e074e7e" md5="31096dcf192a2581160498dcfbe27fb5" sha1="01a8078a635ac986fa49f4cc98a4616667c4c23c" status="none" />
 	</machine>
 	<machine name="Digimon World (USA) - [Maeson Rebalance v1.09a by Maeson]">
 		<description>Digimon World (USA) - [Maeson Rebalance v1.09a by Maeson]</description>
@@ -811,10 +822,10 @@
 		<rom name="Final Fantasy Tactics (USA) - [Prime v6.1 Convenience by wakkoswami].bin" size="541315152" crc="b438e090" md5="2c39fc04e0e356b994ff1bf4a33456a3" sha1="9d9edc2be78e82d8513097ea4c7e51ca89fb65ff" status="none" />
 		<rom name="Final Fantasy Tactics (USA) - [Prime v6.1 Convenience by wakkoswami].cue" size="134" crc="38c44353" md5="81cb3c1135844f7fad280657036f8ae3" sha1="0e2cc8dd487e721721542f2fdf88af98814b8c62" status="none" />
 	</machine>
-	<machine name="Final Fantasy Tactics (USA) - [The Lion War ReMixed Beta v1.2.61.1 by Nyzer]">
-		<description>Final Fantasy Tactics (USA) - [The Lion War ReMixed Beta v1.2.61.1 by Nyzer]</description>
-		<rom name="Final Fantasy Tactics (USA) - [The Lion War ReMixed Beta v1.2.61.1 by Nyzer].bin" size="541315152" crc="98fc4cc6" md5="2970e5b72028c8a5f31d4e9766c59d55" sha1="3aa152ce5689106bcd0357073f9c46d26c032b26" status="none" />
-		<rom name="Final Fantasy Tactics (USA) - [The Lion War ReMixed Beta v1.2.61.1 by Nyzer].cue" size="142" crc="95e0783b" md5="177651a1bd44a7ec7ffd51a2d89ce121" sha1="d8e6f97c84c047df93b3ddb96bba2d7f8fdb99ba" status="none" />
+	<machine name="Final Fantasy Tactics (USA) - [The Lion War ReMixed Beta v1.2.62.3 by Nyzer]">
+		<description>Final Fantasy Tactics (USA) - [The Lion War ReMixed Beta v1.2.62.3 by Nyzer]</description>
+		<rom name="Final Fantasy Tactics (USA) - [The Lion War ReMixed Beta v1.2.62.3 by Nyzer].bin" size="541315152" crc="19b2e7a1" md5="9c7a866f2d87ba8bfa003837b749af37" sha1="39b469c0e7eb97f48b1475975f4c0d982e38ef3f" status="none" />
+		<rom name="Final Fantasy Tactics (USA) - [The Lion War ReMixed Beta v1.2.62.3 by Nyzer].cue" size="142" crc="39c721f9" md5="b9e5e435b1dfedcf003c3147c82eab6e" sha1="88cf3562e23497a2270d14761e3634808383b646" status="none" />
 	</machine>
 	<machine name="Final Fantasy Tactics (USA) - [The Lion War ReMixed Stable v1.1.11 by Nyzer]">
 		<description>Final Fantasy Tactics (USA) - [The Lion War ReMixed Stable v1.1.11 by Nyzer]</description>
@@ -1837,6 +1848,12 @@
 		<description>Soul Blade (USA) - [Uncut Intro v1.0 by DosBoss]</description>
 		<rom name="Soul Blade (USA) - [Uncut Intro v1.0 by DosBoss].bin" size="527412480" crc="9e170177" md5="abaece46b6017aa30a921f526f9c633d" sha1="d4277e3c50ad7e192550bd59c41c37d554734116" status="none" />
 		<rom name="Soul Blade (USA) - [Uncut Intro v1.0 by DosBoss].cue" size="114" crc="786e6ca7" md5="1a6f000dd543d8ce863bef0c87eda94d" sha1="cacc1ff57c486f0746d0d49068f79160382e56f9" status="none" />
+	</machine>
+	<machine name="South Park (USA) - [Unused Soundtrack Restoration v1.1 by Boswer]">
+		<description>South Park (USA) - [Unused Soundtrack Restoration v1.1 by Boswer]</description>
+		<rom name="South Park (USA) - [Unused Soundtrack Restoration v1.1 by Boswer] (Track 1).bin" size="345562896" crc="7b833ca7" md5="e2636db4fb1341d38d3eba66a5473e14" sha1="415f06afa35429dea059fe17fd9e4f061cb015e9" status="none" />
+		<rom name="South Park (USA) - [Unused Soundtrack Restoration v1.1 by Boswer] (Track 2).bin" size="32163600" crc="9eb22530" md5="88aa16698a904e9841f2279a4e9beb23" sha1="bea344b803475b463195df6fd60834069afe246e" status="none" />
+		<rom name="South Park (USA) - [Unused Soundtrack Restoration v1.1 by Boswer].cue" size="300" crc="a517da08" md5="0d828f0a0b11e096c436540e03459fb6" sha1="582ca281374a098146b5699ac60677f89d2c1d23" status="none" />
 	</machine>
 	<machine name="Space Debris (Europe) - [PAL2NTSC by unknown]">
 		<description>Space Debris (Europe) - [PAL2NTSC by unknown]</description>
