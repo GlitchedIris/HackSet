@@ -5,8 +5,8 @@
 		<name>Sony - PlayStation [HackSet] Collection</name>
 		<description>HackSet Sony PlayStation Collection</description>
 		<category> </category>
-		<version>20260618-020208</version>
-		<date>2026-06-18</date>
+		<version>20260619-211951</version>
+		<date>2026-06-19</date>
 		<author>GlitchedIris</author>
 		<url>https://github.com/GlitchedIris/HackSet</url>
 		<comment>A collection of romhacks for the Sony PlayStation</comment>
@@ -134,6 +134,7 @@
 		<rom name="Official U.S. PlayStation Magazine Demo Disc 13 (USA) - [Test Drive 5 Extended Prototype Demo v20260409 by bbayles].txt" size="1030" crc="a0289276" md5="c332ff3b64966552797fff41d007aedd" sha1="cbc35d90e185f667be8d97ce150fb5c5f367bcec" status="none" />
 		<rom name="Official U.S. PlayStation Magazine Demo Disc 36 (USA) - [Dave Mirra BMX Extended Protoype Demo v1.0 by bbayles].txt" size="684" crc="dfc11238" md5="f05a56f4b3e2149c2b3b9be4a44bbc0f" sha1="3d852cfe30d8021093d8a13ad22bdd2a1a9dded7" status="none" />
 		<rom name="Persona 2 - Eternal Punishment (USA) - [Debug Menu v by Revenant].txt" size="1818" crc="b470c123" md5="3b2f3ad35245119983ddebe54a67c47f" sha1="2163f1845d78636845b539c73d457d8428562a9d" status="none" />
+		<rom name="PlayStation Picks (SCUS-94960) (USA) - [Disruptor Extended Prototype Demo v20260618 by bbayles].txt" size="667" crc="4a8b6d5a" md5="f90e7ba8d04a4165c908eaced21a99f7" sha1="91c075939c4c303391611f0ad9ec5d3c33f32540" status="none" />
 		<rom name="PlayStation Picks (USA) - [Destruction Derby Demo Playable v20260301 by bbayles].txt" size="543" crc="e1441d17" md5="96432df0dc1fc9379443be7d82f9394d" sha1="ccf809136a35066841c98fe74d1a605366d5d620" status="none" />
 		<rom name="Psybadek (Demo) (Europe) - [Extended Prototype Demo v1.0 by bbayles].txt" size="844" crc="18d729c7" md5="e30bf2c39a6fb6a9e6519e664801e474" sha1="c3731e0f5d1e5307f3e3466d468eb3b466b11ff3" status="none" />
 		<rom name="Rayman (USA) - [Reverse Endsigns v1.1 by EightSixThree].txt" size="1386" crc="ec9b9f78" md5="46faca754f0e4365d95a2d2e0a75116e" sha1="c6569312f599e416eaac65e0a3faccdc4a81b5d4" status="none" />
@@ -1722,6 +1723,19 @@
 		<rom name="PlayStation Picks (SCUS-94952) (USA) - [Destruction Derby Demo Playable v20260301 by bbayles] (Track 11).bin" size="29381184" crc="ffd4a182" md5="8d711d4214d5b4cc5ebebd8722870de5" sha1="2b9d91bfbbcbe63d7562507cefcbbb4dbaf9db1f" status="none" />
 		<rom name="PlayStation Picks (SCUS-94952) (USA) - [Destruction Derby Demo Playable v20260301 by bbayles] (Track 12).bin" size="9005808" crc="ff880b4e" md5="722781c229b17f92457b8c571e31447d" sha1="6b6dc1e9d8631644ad4f9b1da0aea9b4e80f8789" status="none" />
 		<rom name="PlayStation Picks (SCUS-94952) (USA) - [Destruction Derby Demo Playable v20260301 by bbayles].cue" size="2238" crc="ba1ec863" md5="73d105791a90c01efbfcf32922353676" sha1="ad8cde409715be13eeb34c950f970dd4689e77e9" status="none" />
+	</machine>
+	<machine name="PlayStation Picks (SCUS-94960) (USA) - [Disruptor Extended Prototype Demo v20260618 by bbayles]">
+		<description>PlayStation Picks (SCUS-94960) (USA) - [Disruptor Extended Prototype Demo v20260618 by bbayles]</description>
+		<rom name="PlayStation Picks (SCUS-94960) (USA) - [Disruptor Extended Prototype Demo v20260618 by bbayles] (Track 1).bin" size="526372896" crc="e9acbee2" md5="ef67cb6b647fd3ab293ea24f86e38ded" sha1="098aea4f149920f64337e7573990443e08954889" status="none" />
+		<rom name="PlayStation Picks (SCUS-94960) (USA) - [Disruptor Extended Prototype Demo v20260618 by bbayles] (Track 2).bin" size="20086080" crc="48085ec7" md5="5ee1542bf415d7eaf38552bf0e81e96d" sha1="1bfadce914fb9fb4e0691e3193a6653403df3628" status="none" />
+		<rom name="PlayStation Picks (SCUS-94960) (USA) - [Disruptor Extended Prototype Demo v20260618 by bbayles] (Track 3).bin" size="20140176" crc="09134d47" md5="41d70d71270eb0618c0fef82d8e18f1b" sha1="e93f6f7c2c8c547efccdda7ecaba42d561a87d02" status="none" />
+		<rom name="PlayStation Picks (SCUS-94960) (USA) - [Disruptor Extended Prototype Demo v20260618 by bbayles] (Track 4).bin" size="11094384" crc="9177f8b9" md5="6dc72271728efc7871fa164fdc5a34b7" sha1="72879d8ac3ac5b780cf58078146e3533e7f76a2d" status="none" />
+		<rom name="PlayStation Picks (SCUS-94960) (USA) - [Disruptor Extended Prototype Demo v20260618 by bbayles] (Track 5).bin" size="4024272" crc="3236eaac" md5="f5d68cc7a7a2733e77f42a09469703ca" sha1="8448c22f989e910beaa6110c6700a86f28d53f9a" status="none" />
+		<rom name="PlayStation Picks (SCUS-94960) (USA) - [Disruptor Extended Prototype Demo v20260618 by bbayles] (Track 6).bin" size="2083872" crc="64fe6ab5" md5="e545119434c1588ce32ee9787b8bf590" sha1="525dbac001b67a3756c48b5bf51e6fa7ba54dad9" status="none" />
+		<rom name="PlayStation Picks (SCUS-94960) (USA) - [Disruptor Extended Prototype Demo v20260618 by bbayles] (Track 7).bin" size="1662864" crc="91dbda69" md5="7ef948ff27225584d63aeb2f95990339" sha1="c4efafbc2dcdd6fd79d753177acb334e83859466" status="none" />
+		<rom name="PlayStation Picks (SCUS-94960) (USA) - [Disruptor Extended Prototype Demo v20260618 by bbayles] (Track 8).bin" size="1902768" crc="569b40b9" md5="fa401de6b5ed8dca08b68f0444316f28" sha1="439f70f2f2851b3c21049c0c65fcd24a62761b4d" status="none" />
+		<rom name="PlayStation Picks (SCUS-94960) (USA) - [Disruptor Extended Prototype Demo v20260618 by bbayles] (Track 9).bin" size="12265680" crc="fe173bc2" md5="855339325dd4e394888ca347a4f8ddf9" sha1="5498fec3990ac8b690a2e207176406cb063c6593" status="none" />
+		<rom name="PlayStation Picks (SCUS-94960) (USA) - [Disruptor Extended Prototype Demo v20260618 by bbayles].cue" size="1683" crc="5aa821ba" md5="6c49cadfc5a5839fa0ecc3971b449461" sha1="7cd27dd662d55762c173bbd51ee99d6b3cece88d" status="none" />
 	</machine>
 	<machine name="Psybadek (Demo) (Europe) - [Extended Prototype Demo v1.0 by bbayles]">
 		<description>Psybadek (Demo) (Europe) - [Extended Prototype Demo v1.0 by bbayles]</description>
