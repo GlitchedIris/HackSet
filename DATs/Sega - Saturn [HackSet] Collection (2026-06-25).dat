@@ -5,8 +5,8 @@
 		<name>Sega - Saturn [HackSet] Collection</name>
 		<description>HackSet Sega Saturn Collection</description>
 		<category> </category>
-		<version>20260619-202941</version>
-		<date>2026-06-19</date>
+		<version>20260625-124140</version>
+		<date>2026-06-25</date>
 		<author>GlitchedIris</author>
 		<url>https://github.com/GlitchedIris/HackSet</url>
 		<comment>A collection of romhacks for the Sega Saturn</comment>
@@ -92,6 +92,7 @@
 		<rom name="Sega Ages - After Burner II (Japan) - [FM Towns Soundtrack Replacement v1.0 by BaraFapper69].txt" size="1156" crc="76975f50" md5="1a7d58160a9d1075ca7322ab1c34aa11" sha1="e04fa17863a0225dda5a3def64418bc1646cf80c" status="none" />
 		<rom name="Sega Ages - After Burner II (Japan) - [S.S.T. Band Replacement v1.0 by BaraFapper69].txt" size="1722" crc="390bb21e" md5="cc296e943e9545daefcccc4a881c8c06" sha1="166b03a5b02ab01e5ff21b847d89252f2351b96c" status="none" />
 		<rom name="Sega Ages - Galaxy Force II (Japan) - [FM Towns Soundtrack Replacement v0.9 by BaraFapper69].txt" size="643" crc="bf468b95" md5="b3e39b662bbd93f9b39ade7bb39dd105" sha1="c6fb7de53ab5df3241ad7748350ca4ea6407970c" status="none" />
+		<rom name="Sega Ages - Galaxy Force II (Japan) - [FM Towns Soundtrack Replacement v0.91 by BaraFapper69].txt" size="702" crc="790a8935" md5="89e17528ea317e0c01fd7bbe6c79dec5" sha1="73d371e0223a9075b9f1e7c4a199e3685eb66954" status="none" />
 		<rom name="Sega Ages - OutRun (Japan) - [Extra Music Tracks v1.1 by OlivusPrime].txt" size="2171" crc="8fa8b275" md5="3b7a3dd5abdce6d4aa6988278c29a7b0" sha1="706250084dd07fd81872c72c14bc5f2292deecfa" status="none" />
 		<rom name="Sega Ages - OutRun (Japan) - [Improved Arcade Soundtrack 1.1 by BaraFapper69].txt" size="656" crc="90de5170" md5="e277dc7f37a7307c71efb1447104c299" sha1="f7686bb039790f708e1fb59f5cc5886300582a73" status="none" />
 		<rom name="Sega Ages - OutRun (Japan) - [S.S.T. Band Soundtrack Replacement 1.0 by BaraFapper69].txt" size="1484" crc="82674d79" md5="4a0c6b42ff53f87c361c55464335478b" sha1="b05b415caf353c67a0590ab09ae9258cedc5e212" status="none" />
@@ -758,6 +759,50 @@
 		<rom name="Doom (Japan) - [Fix Patch v0.3.0 by fafling] (Track 17).bin" size="33882912" crc="108c342d" md5="bf90cc54fea18fd923f3dd7af5298cfd" sha1="1451b510f4bb0b40891248e324dda679f71732b7" status="none" />
 		<rom name="Doom (Japan) - [Fix Patch v0.3.0 by fafling] (Track 18).bin" size="9725520" crc="687ad6f1" md5="493d900ffab0c78d139f6e177f8dfe13" sha1="0beea69f15fca02355cbdd590b219e9b67b45768" status="none" />
 		<rom name="Doom (Japan) - [Fix Patch v0.3.0 by fafling].cue" size="2484" crc="ff4484e5" md5="e585a73289e24753f94a344c573d603f" sha1="894487d1917be6e20cdbc6be7425daa3260dc7e6" status="none" />
+	</machine>
+	<machine name="Doom (Japan) - [Fix Patch v0.3.0 by fafling] [3DO Music v0.3 by Shadowmask]">
+		<description>Doom (Japan) - [Fix Patch v0.3.0 by fafling] [3DO Music v0.3 by Shadowmask]</description>
+		<rom name="Doom (Japan) - [Fix Patch v0.3.0 by fafling] [3DO Music v0.3 by Shadowmask] (Track 01).bin" size="68647824" crc="92e65501" md5="d4faa0e7a5435f60a7fc626ba5f176eb" sha1="f57100f22461f610d3f2ca78e2b1cd69ab2228fe" status="none" />
+		<rom name="Doom (Japan) - [Fix Patch v0.3.0 by fafling] [3DO Music v0.3 by Shadowmask] (Track 02).bin" size="4487616" crc="33bcd821" md5="d2ff1e56bcfbc8f19800509c0f91c858" sha1="e6a4a40a287dba21143c6b8e293252ed6ef02fa8" status="none" />
+		<rom name="Doom (Japan) - [Fix Patch v0.3.0 by fafling] [3DO Music v0.3 by Shadowmask] (Track 03).bin" size="20834016" crc="ca232881" md5="3f1078240fad439f1a25b3274e10f6d7" sha1="e974f0cb44790e0dc09dbbf69028c4e589d702d6" status="none" />
+		<rom name="Doom (Japan) - [Fix Patch v0.3.0 by fafling] [3DO Music v0.3 by Shadowmask] (Track 04).bin" size="17846976" crc="00872a95" md5="170df93624e6a802e364585a06e8649f" sha1="96b94c65b6235adcb86f2315ac17a4b2719d705c" status="none" />
+		<rom name="Doom (Japan) - [Fix Patch v0.3.0 by fafling] [3DO Music v0.3 by Shadowmask] (Track 05).bin" size="22346352" crc="e9d7c269" md5="66461fe0067e2be1debf0ac5d8731c78" sha1="cb311f9c014b998b6c90f71976f6e49b7038f256" status="none" />
+		<rom name="Doom (Japan) - [Fix Patch v0.3.0 by fafling] [3DO Music v0.3 by Shadowmask] (Track 06).bin" size="26144832" crc="87457392" md5="cccb5683b4f9d3f6df5bc03a326899f6" sha1="a7d07dc161482b5b266f3d2565de5599c1329990" status="none" />
+		<rom name="Doom (Japan) - [Fix Patch v0.3.0 by fafling] [3DO Music v0.3 by Shadowmask] (Track 07).bin" size="11275488" crc="e4f61797" md5="809855ab1daf96e37d8f9519d3e352db" sha1="65903d523dc9e74ee22e634f6c4d3f292b343ca4" status="none" />
+		<rom name="Doom (Japan) - [Fix Patch v0.3.0 by fafling] [3DO Music v0.3 by Shadowmask] (Track 08).bin" size="40917744" crc="54c9e893" md5="18f2f1af612dc97f364cd8681d9ada63" sha1="ac81c16f91b1cf6b345d46139a4788289f38c0b8" status="none" />
+		<rom name="Doom (Japan) - [Fix Patch v0.3.0 by fafling] [3DO Music v0.3 by Shadowmask] (Track 09).bin" size="25792032" crc="e45a58e4" md5="aaaf075df75fd8f701ac6b76d34c1f5d" sha1="eb5e547da5c831bc45addec86071b2543192b63b" status="none" />
+		<rom name="Doom (Japan) - [Fix Patch v0.3.0 by fafling] [3DO Music v0.3 by Shadowmask] (Track 10).bin" size="22346352" crc="4f17dc4a" md5="9f29f3cb94b15b5d01f29562f2070b7a" sha1="0c922e0c801ff81f0790b264bb27ad4d65ecf52f" status="none" />
+		<rom name="Doom (Japan) - [Fix Patch v0.3.0 by fafling] [3DO Music v0.3 by Shadowmask] (Track 11).bin" size="30540720" crc="72c005c0" md5="e41f964bfe34804f771aaf5443916d67" sha1="b711c578c8fed9f849ab634f66c5656fcf121485" status="none" />
+		<rom name="Doom (Japan) - [Fix Patch v0.3.0 by fafling] [3DO Music v0.3 by Shadowmask] (Track 12).bin" size="27753600" crc="4864010c" md5="98a66b1a023cd4bf01d4df292bb1a50c" sha1="cdebae26f38dee1689a90350d9cef78b055db10a" status="none" />
+		<rom name="Doom (Japan) - [Fix Patch v0.3.0 by fafling] [3DO Music v0.3 by Shadowmask] (Track 13).bin" size="29672832" crc="93c061a4" md5="6d69ca2b605d6aa6528aaf31a9db910b" sha1="ef0ee4df76749e1d649253273c1a36642ecc7eee" status="none" />
+		<rom name="Doom (Japan) - [Fix Patch v0.3.0 by fafling] [3DO Music v0.3 by Shadowmask] (Track 14).bin" size="29988000" crc="f1e5a999" md5="9c4e2fa9f56140c9479d4dacaba53389" sha1="b7b4748d81252fbb06842b820cd0ba755633e504" status="none" />
+		<rom name="Doom (Japan) - [Fix Patch v0.3.0 by fafling] [3DO Music v0.3 by Shadowmask] (Track 15).bin" size="14787024" crc="af3a80d9" md5="27d045c7d96cfc4c71efa81f2bc8315c" sha1="d91a14a6d6666d7acc9216ddf732f3a95370ba46" status="none" />
+		<rom name="Doom (Japan) - [Fix Patch v0.3.0 by fafling] [3DO Music v0.3 by Shadowmask] (Track 16).bin" size="26198928" crc="6fb938aa" md5="54f4337e2eee0a345e7209f11b58e83d" sha1="16ea242faca1d6bfbf9efd879cdedfa343f70f3b" status="none" />
+		<rom name="Doom (Japan) - [Fix Patch v0.3.0 by fafling] [3DO Music v0.3 by Shadowmask] (Track 17).bin" size="26471760" crc="51db2659" md5="bd4518d368dd8249db4343b1b684905b" sha1="7b1e3436ecd2605edbca933b102a5d41f1901a5b" status="none" />
+		<rom name="Doom (Japan) - [Fix Patch v0.3.0 by fafling] [3DO Music v0.3 by Shadowmask] (Track 18).bin" size="23964528" crc="e5c30c2e" md5="50d5c1cb8b4152e177ce9c62fc7f52e3" sha1="96cf2e199d8cdfc4ca3ff45608a9ab075d735d35" status="none" />
+		<rom name="Doom (Japan) - [Fix Patch v0.3.0 by fafling] [3DO Music v0.3 by Shadowmask].cue" size="3042" crc="bfd5b97d" md5="7dc78d5bf516818a39afa8167a6a4882" sha1="26c7620ae82c8f56a38d1c52a588e191bc1260b5" status="none" />
+	</machine>
+	<machine name="Doom (Japan) - [Fix Patch v0.3.0 by fafling] [Roland SC-55 music v0.3 by Shadowmask]">
+		<description>Doom (Japan) - [Fix Patch v0.3.0 by fafling] [Roland SC-55 music v0.3 by Shadowmask]</description>
+		<rom name="Doom (Japan) - [Fix Patch v0.3.0 by fafling] [Roland SC-55 music v0.3 by Shadowmask] (Track 01).bin" size="68647824" crc="c2149fb1" md5="5af9cbe0fd1b1d5934b1d55b10153b38" sha1="98c69a623c88e96d8f38aae099fc9e8efc7be0fb" status="none" />
+		<rom name="Doom (Japan) - [Fix Patch v0.3.0 by fafling] [Roland SC-55 music v0.3 by Shadowmask] (Track 02).bin" size="35310576" crc="77bf1dfb" md5="9d61ed0bc739ce88921ca068860e1428" sha1="521ec2c2dc45a7fcf955a357993b26be822ae034" status="none" />
+		<rom name="Doom (Japan) - [Fix Patch v0.3.0 by fafling] [Roland SC-55 music v0.3 by Shadowmask] (Track 03).bin" size="21511392" crc="8ae45b97" md5="d1f7e83092562d6593d682b7074dfa2b" sha1="0a1c6cbb66d2efc640e831bafb383387b2f46886" status="none" />
+		<rom name="Doom (Japan) - [Fix Patch v0.3.0 by fafling] [Roland SC-55 music v0.3 by Shadowmask] (Track 04).bin" size="42350112" crc="f890889f" md5="e25fd4edcb01774702b8d6b74586cb0d" sha1="bc2c9549f295e1898e9fb6db6bd2603b62e7dfd5" status="none" />
+		<rom name="Doom (Japan) - [Fix Patch v0.3.0 by fafling] [Roland SC-55 music v0.3 by Shadowmask] (Track 05).bin" size="34619088" crc="df6a0e29" md5="a51fad94fdf41df9f986051f93c348aa" sha1="07f29f8d7a1557b613df8cc8950a56b5541872fb" status="none" />
+		<rom name="Doom (Japan) - [Fix Patch v0.3.0 by fafling] [Roland SC-55 music v0.3 by Shadowmask] (Track 06).bin" size="23647008" crc="dbe6d4c7" md5="2ac569b3ffd21296ef973631f52b8a66" sha1="9b717a34fa5de730b6a2bf7d115586eff052f4dc" status="none" />
+		<rom name="Doom (Japan) - [Fix Patch v0.3.0 by fafling] [Roland SC-55 music v0.3 by Shadowmask] (Track 07).bin" size="10569888" crc="dbdc4a08" md5="ea61c80bb61c58e228462d7dee71dcc0" sha1="a4a625c04e8a13246f388f8541db10b29df598f2" status="none" />
+		<rom name="Doom (Japan) - [Fix Patch v0.3.0 by fafling] [Roland SC-55 music v0.3 by Shadowmask] (Track 08).bin" size="40564944" crc="879a0001" md5="b57c92d188c194c289511eec0eba67e7" sha1="b4dc5b32e53202e31c2cded7fd3bd4613153686a" status="none" />
+		<rom name="Doom (Japan) - [Fix Patch v0.3.0 by fafling] [Roland SC-55 music v0.3 by Shadowmask] (Track 09).bin" size="34619088" crc="3d933cff" md5="9cec166babf398c9274f0919c357a8e7" sha1="fb542d86a147ff5e93bb802e386602ffb98db069" status="none" />
+		<rom name="Doom (Japan) - [Fix Patch v0.3.0 by fafling] [Roland SC-55 music v0.3 by Shadowmask] (Track 10).bin" size="50266944" crc="252cd281" md5="71e17b9ea103f0b4b21325411b77cfa8" sha1="f96c86333baef12312e8e136fba1c06be4865aff" status="none" />
+		<rom name="Doom (Japan) - [Fix Patch v0.3.0 by fafling] [Roland SC-55 music v0.3 by Shadowmask] (Track 11).bin" size="47493936" crc="8868b116" md5="fb81838c7c4eed18067bd52a2f72c148" sha1="c07c334810199ccecbf648241af0073b54b451ad" status="none" />
+		<rom name="Doom (Japan) - [Fix Patch v0.3.0 by fafling] [Roland SC-55 music v0.3 by Shadowmask] (Track 12).bin" size="27273792" crc="963fc6cd" md5="5861e9270d7af068abd3e92ded4e42e5" sha1="7db3f48f3030f6550c4b0d742490cac887a60c3f" status="none" />
+		<rom name="Doom (Japan) - [Fix Patch v0.3.0 by fafling] [Roland SC-55 music v0.3 by Shadowmask] (Track 13).bin" size="29931552" crc="d09a9c9a" md5="8b7570d791f56539c1a22930cff35d73" sha1="080511c4b59a3c1d10f0f1c0d123835a4371eda8" status="none" />
+		<rom name="Doom (Japan) - [Fix Patch v0.3.0 by fafling] [Roland SC-55 music v0.3 by Shadowmask] (Track 14).bin" size="28788480" crc="812e7d2f" md5="449800c68ff0242f43fa6a1e6ee94f04" sha1="944bd92c3cf2e2447f38183309a5fc8f90e657f8" status="none" />
+		<rom name="Doom (Japan) - [Fix Patch v0.3.0 by fafling] [Roland SC-55 music v0.3 by Shadowmask] (Track 15).bin" size="29465856" crc="2081e6ec" md5="9b22e1b2b6222aa75db5a85167ecd07e" sha1="704666226f7068fa4a5d4a8e78609d95cdd69e65" status="none" />
+		<rom name="Doom (Japan) - [Fix Patch v0.3.0 by fafling] [Roland SC-55 music v0.3 by Shadowmask] (Track 16).bin" size="26511744" crc="e1e8df56" md5="f3632d5ad77b993ca8eb9fe4383d30bd" sha1="87cac69647a3abdd507b6a6f632d5d01ae1e7e0f" status="none" />
+		<rom name="Doom (Japan) - [Fix Patch v0.3.0 by fafling] [Roland SC-55 music v0.3 by Shadowmask] (Track 17).bin" size="26697552" crc="b15c9017" md5="7c9e956a1dc00ffe003b123d39c3eadb" sha1="5f95c70faf5211919ade36297ed56be01030cd56" status="none" />
+		<rom name="Doom (Japan) - [Fix Patch v0.3.0 by fafling] [Roland SC-55 music v0.3 by Shadowmask] (Track 18).bin" size="26777520" crc="89e11c59" md5="6b421394daeb9211c46fae040fb1d3ac" sha1="e2535be8bb63a8517db59345c91afe38448172c6" status="none" />
+		<rom name="Doom (Japan) - [Fix Patch v0.3.0 by fafling] [Roland SC-55 music v0.3 by Shadowmask].cue" size="3204" crc="baf5b037" md5="13a5eb76a74ad5a0b8b226b79706fbb0" sha1="2a6338dbae48d23772bbf2033b61f2704d1c66c1" status="none" />
 	</machine>
 	<machine name="Doom (USA) - [Sound Canvas Version by unknown]">
 		<description>Doom (USA) - [Sound Canvas Version by unknown]</description>
@@ -1673,6 +1718,19 @@
 		<rom name="Sega Ages - Galaxy Force II (Japan) - [FM Towns and SST Band Soundtrack Replacement v0.9 by BaraFapper69] (Track 9).bin" size="19498028" crc="2e87304b" md5="213fe2a2dd691ace86cf42d3020fa43a" sha1="156486ebe604792937f7157ca34e639c115b30d9" status="none" />
 		<rom name="Sega Ages - Galaxy Force II (Japan) - [FM Towns and SST Band Soundtrack Replacement v0.9 by BaraFapper69].cue" size="1773" crc="5e2d0f48" md5="026fc06f3ecb5b16c6575ed1c2f9cda2" sha1="9a62fd6eabf62242c44a19c30f5837468c4f0c11" status="none" />
 	</machine>
+	<machine name="Sega Ages - Galaxy Force II (Japan) - [FM Towns and SST Band Soundtrack Replacement v0.91 by BaraFapper69]">
+		<description>Sega Ages - Galaxy Force II (Japan) - [FM Towns and SST Band Soundtrack Replacement v0.91 by BaraFapper69]</description>
+		<rom name="Sega Ages - Galaxy Force II (Japan) - [FM Towns and SST Band Soundtrack Replacement v0.91 by BaraFapper69] (Track 1).bin" size="10957968" crc="ad725db6" md5="d0c3d2288b82bce3e950312e04cc63ba" sha1="545e5c3fa44356e51796473f8fba148aa2ce829c" status="none" />
+		<rom name="Sega Ages - Galaxy Force II (Japan) - [FM Towns and SST Band Soundtrack Replacement v0.91 by BaraFapper69] (Track 2).bin" size="48879264" crc="5321cf62" md5="a045d30b5eb1de20f32d3d5cf41915d2" sha1="7082ff5f57aea37b94cfcf17498adc13a5d44560" status="none" />
+		<rom name="Sega Ages - Galaxy Force II (Japan) - [FM Towns and SST Band Soundtrack Replacement v0.91 by BaraFapper69] (Track 3).bin" size="46508448" crc="c68cffd4" md5="2cd75cd9bc1af9a60bcb119823e1aa33" sha1="11298f7ada3f479e44483facffe23e856c5e2cab" status="none" />
+		<rom name="Sega Ages - Galaxy Force II (Japan) - [FM Towns and SST Band Soundtrack Replacement v0.91 by BaraFapper69] (Track 4).bin" size="27332592" crc="50925ec9" md5="d6646322bd0ceda238e1a46f169698b7" sha1="e6007e354d1989d4a92d2c59747f7304b8884f25" status="none" />
+		<rom name="Sega Ages - Galaxy Force II (Japan) - [FM Towns and SST Band Soundtrack Replacement v0.91 by BaraFapper69] (Track 5).bin" size="60274704" crc="dded5de1" md5="3b5e051e430f3d5c15bd9bd52c249372" sha1="11a88599c7a85657acbd87706cc644b1bb1297f2" status="none" />
+		<rom name="Sega Ages - Galaxy Force II (Japan) - [FM Towns and SST Band Soundtrack Replacement v0.91 by BaraFapper69] (Track 6).bin" size="58099104" crc="e52241a3" md5="830ed311e27614ba3face5c32c1486fe" sha1="63472a2892fd118d3fdeef9f68b7573f51b3a235" status="none" />
+		<rom name="Sega Ages - Galaxy Force II (Japan) - [FM Towns and SST Band Soundtrack Replacement v0.91 by BaraFapper69] (Track 7).bin" size="65406768" crc="d1e463af" md5="a1701d91c3bdfec39194e15fc82489ef" sha1="2b1a77739ddb6b667bb4454ff353561b996280bf" status="none" />
+		<rom name="Sega Ages - Galaxy Force II (Japan) - [FM Towns and SST Band Soundtrack Replacement v0.91 by BaraFapper69] (Track 8).bin" size="25474512" crc="a9523fee" md5="e13c368eaeab110ced1a5b2650b62ce4" sha1="888516646dadf2409bc04abad72dd518b3556517" status="none" />
+		<rom name="Sega Ages - Galaxy Force II (Japan) - [FM Towns and SST Band Soundtrack Replacement v0.91 by BaraFapper69] (Track 9).bin" size="19145280" crc="07395c08" md5="796a6d6e42009214d35b4371684c2941" sha1="c19018a9c587ab2145f9f10ad1a226bcdf345d31" status="none" />
+		<rom name="Sega Ages - Galaxy Force II (Japan) - [FM Towns and SST Band Soundtrack Replacement v0.91 by BaraFapper69].cue" size="1782" crc="ad5d2bc0" md5="9dcb33932de3642d3ac41aca085a1daf" sha1="812e29e1a46264357002ffacde2c384c10943321" status="none" />
+	</machine>
 	<machine name="Sega Ages - Galaxy Force II (Japan) - [FM Towns Soundtrack Replacement v0.9 by BaraFapper69]">
 		<description>Sega Ages - Galaxy Force II (Japan) - [FM Towns Soundtrack Replacement v0.9 by BaraFapper69]</description>
 		<rom name="Sega Ages - Galaxy Force II (Japan) - [FM Towns Soundtrack Replacement v0.9 by BaraFapper69] (Track 1).bin" size="10957968" crc="ad725db6" md5="d0c3d2288b82bce3e950312e04cc63ba" sha1="545e5c3fa44356e51796473f8fba148aa2ce829c" status="none" />
@@ -1685,6 +1743,19 @@
 		<rom name="Sega Ages - Galaxy Force II (Japan) - [FM Towns Soundtrack Replacement v0.9 by BaraFapper69] (Track 8).bin" size="25474356" crc="f2617f00" md5="416d5133263cff30cc7fc0e60b6ac1c5" sha1="c4ee8921a7ac6dd2410537a2e2dcbe9da1d34476" status="none" />
 		<rom name="Sega Ages - Galaxy Force II (Japan) - [FM Towns Soundtrack Replacement v0.9 by BaraFapper69] (Track 9).bin" size="19498028" crc="2e87304b" md5="213fe2a2dd691ace86cf42d3020fa43a" sha1="156486ebe604792937f7157ca34e639c115b30d9" status="none" />
 		<rom name="Sega Ages - Galaxy Force II (Japan) - [FM Towns Soundtrack Replacement v0.9 by BaraFapper69].cue" size="1656" crc="c8a38434" md5="9f92fba9f1bbd0676a427dbde68575a8" sha1="2af1d8112286c92c2287bc19904600a5c0604d1f" status="none" />
+	</machine>
+	<machine name="Sega Ages - Galaxy Force II (Japan) - [FM Towns Soundtrack Replacement v0.91 by BaraFapper69]">
+		<description>Sega Ages - Galaxy Force II (Japan) - [FM Towns Soundtrack Replacement v0.91 by BaraFapper69]</description>
+		<rom name="Sega Ages - Galaxy Force II (Japan) - [FM Towns Soundtrack Replacement v0.91 by BaraFapper69] (Track 1).bin" size="10957968" crc="ad725db6" md5="d0c3d2288b82bce3e950312e04cc63ba" sha1="545e5c3fa44356e51796473f8fba148aa2ce829c" status="none" />
+		<rom name="Sega Ages - Galaxy Force II (Japan) - [FM Towns Soundtrack Replacement v0.91 by BaraFapper69] (Track 2).bin" size="57120672" crc="d76d3ec5" md5="fff77f001cb3d1958aaac2b98ca028f3" sha1="3bae4c6db5271425873deda6aecd5e9ee4df954d" status="none" />
+		<rom name="Sega Ages - Galaxy Force II (Japan) - [FM Towns Soundtrack Replacement v0.91 by BaraFapper69] (Track 3).bin" size="57021888" crc="1e3a20cd" md5="65509b5320a1314c9a9181e11a5504cb" sha1="ac2713a20982701d0c035a1c1e769e7ac481da1c" status="none" />
+		<rom name="Sega Ages - Galaxy Force II (Japan) - [FM Towns Soundtrack Replacement v0.91 by BaraFapper69] (Track 4).bin" size="27332592" crc="50925ec9" md5="d6646322bd0ceda238e1a46f169698b7" sha1="e6007e354d1989d4a92d2c59747f7304b8884f25" status="none" />
+		<rom name="Sega Ages - Galaxy Force II (Japan) - [FM Towns Soundtrack Replacement v0.91 by BaraFapper69] (Track 5).bin" size="60274704" crc="dded5de1" md5="3b5e051e430f3d5c15bd9bd52c249372" sha1="11a88599c7a85657acbd87706cc644b1bb1297f2" status="none" />
+		<rom name="Sega Ages - Galaxy Force II (Japan) - [FM Towns Soundtrack Replacement v0.91 by BaraFapper69] (Track 6).bin" size="58099104" crc="e52241a3" md5="830ed311e27614ba3face5c32c1486fe" sha1="63472a2892fd118d3fdeef9f68b7573f51b3a235" status="none" />
+		<rom name="Sega Ages - Galaxy Force II (Japan) - [FM Towns Soundtrack Replacement v0.91 by BaraFapper69] (Track 7).bin" size="65406768" crc="d1e463af" md5="a1701d91c3bdfec39194e15fc82489ef" sha1="2b1a77739ddb6b667bb4454ff353561b996280bf" status="none" />
+		<rom name="Sega Ages - Galaxy Force II (Japan) - [FM Towns Soundtrack Replacement v0.91 by BaraFapper69] (Track 8).bin" size="25474512" crc="a9523fee" md5="e13c368eaeab110ced1a5b2650b62ce4" sha1="888516646dadf2409bc04abad72dd518b3556517" status="none" />
+		<rom name="Sega Ages - Galaxy Force II (Japan) - [FM Towns Soundtrack Replacement v0.91 by BaraFapper69] (Track 9).bin" size="19145280" crc="07395c08" md5="796a6d6e42009214d35b4371684c2941" sha1="c19018a9c587ab2145f9f10ad1a226bcdf345d31" status="none" />
+		<rom name="Sega Ages - Galaxy Force II (Japan) - [FM Towns Soundtrack Replacement v0.91 by BaraFapper69].cue" size="1665" crc="a34a853a" md5="b8d99404458dc7d94bf30485f6c9a880" sha1="42de9548d8452dbae04479a2da8a762fc77d5115" status="none" />
 	</machine>
 	<machine name="Sega Ages - OutRun (Japan) - [Extra Music Tracks Arcade Step on Beat v1.1 by OlivusPrime]">
 		<description>Sega Ages - OutRun (Japan) - [Extra Music Tracks Arcade Step on Beat v1.1 by OlivusPrime]</description>
