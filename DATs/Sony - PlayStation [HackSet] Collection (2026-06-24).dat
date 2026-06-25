@@ -5,8 +5,8 @@
 		<name>Sony - PlayStation [HackSet] Collection</name>
 		<description>HackSet Sony PlayStation Collection</description>
 		<category> </category>
-		<version>20260619-211951</version>
-		<date>2026-06-19</date>
+		<version>20260624-233929</version>
+		<date>2026-06-24</date>
 		<author>GlitchedIris</author>
 		<url>https://github.com/GlitchedIris/HackSet</url>
 		<comment>A collection of romhacks for the Sony PlayStation</comment>
@@ -65,14 +65,34 @@
 		<rom name="Final Fantasy IX (USA, Canada) - [Comprehensive ATB Enhancement v1.01 by RoSoDude].txt" size="3225" crc="4b169eeb" md5="9390429b64bfbb3afef321104c4bc366" sha1="f3f4a4cb889d011bca201e0accaa0347c2bdc8ae" status="none" />
 		<rom name="Final Fantasy IX (USA, Canada) [Alternate Fantasy v3.2 by Tirlititi].txt" size="1352" crc="7e528512" md5="e5e17f766eb266eb4a943544015f3df5" sha1="0fa4c9fcf0f4f8049b2a88403767d287d59b5538" status="none" />
 		<rom name="Final Fantasy Tactics (USA) - [Antidote v2.2 by wakkoswami].txt" size="37958" crc="4ec5b44b" md5="ed8994d8caf48da6560d2b130015bc56" sha1="869a23cd06458f7750f573e60ed90421cf5a6e45" status="none" />
+		<rom name="Final Fantasy Tactics (USA) - [Cerabow's Mod v0.13.2668 by Cerabow].txt" size="25350" crc="3e35fb94" md5="d1b992460dae05239dc89505dd6b806d" sha1="2c8a347ac6390b48393bf929d0d77343f3fa8f17" status="none" />
 		<rom name="Final Fantasy Tactics (USA) - [Complete v2 v2.0 by Xjamxx].txt" size="28953" crc="a54cf08a" md5="120252bed0ac09d0819db7f4d73b1580" sha1="5f77e8571ad1114cedfc1cbf5ccd9f08f3882ff7" status="none" />
 		<rom name="Final Fantasy Tactics (USA) - [Doublecast Red Mage v1.0 by Celdia].txt" size="4726" crc="28efd8d6" md5="0bc2d4ab861587c28c30cd95c1864191" sha1="adb032a8b50949bfed01b71771fd45ae2ab06f6d" status="none" />
 		<rom name="Final Fantasy Tactics (USA) - [FFT Reimagined v0.92 by ActionMan] .92 Updates.txt" size="1185" crc="23c455ad" md5="8c010571330ba9c5dd7e058dea9637bd" sha1="be7b61d0962d93b7985e3060493cd0eb3dcb36aa" status="none" />
 		<rom name="Final Fantasy Tactics (USA) - [FFT Reimagined v0.92 by ActionMan] Equipment Updates.txt" size="8999" crc="f5cca3f1" md5="8ef77ed63fa1b1065ada0878d7889fd8" sha1="da5a8c13786e042eadfde864e345b4a165868775" status="none" />
 		<rom name="Final Fantasy Tactics (USA) - [FFT Reimagined v0.92 by ActionMan] Patch Notes.txt" size="30371" crc="e765c990" md5="482ab1ae82d214eeda75ad9edbb1987c" sha1="e51da34f1f2205cd09288bd0955908aba6d3da32" status="none" />
 		<rom name="Final Fantasy Tactics (USA) - [Final Fantasy Tactics 1.3 v1.3.0.8 by Archael].txt" size="3876" crc="be6485ec" md5="6e455569f948f08e5e36e94eb4bfeb50" sha1="38b6974fdc7947d1a0265b9634aecb30776b585a" status="none" />
+		<rom name="Final Fantasy Tactics (USA) - [Heroes v20190911 by aacroke].txt" size="22675" crc="af72f8fb" md5="43d889ea2c11ec214ff2b65b4b215b2f" sha1="78d8723c1a50178d25f346bb77a2e7b175bea93b" status="none" />
+		<rom name="Final Fantasy Tactics (USA) - [LFT v20180929 by Laggy] LFT Abilities.html" size="690185" crc="b1850dfd" md5="5166454101da6cb371caf323009b0ab8" sha1="b1fb271f6816c3b22655533a03990dbe5bd5dd5a" status="none" />
+		<rom name="Final Fantasy Tactics (USA) - [LFT v20180929 by Laggy] LFT Affinities.html" size="49541" crc="3091b353" md5="33d18651b96e3212f397f408d59d1b30" sha1="89fe410c2847f41d14dbbe12532bef708ee4c6b4" status="none" />
+		<rom name="Final Fantasy Tactics (USA) - [LFT v20180929 by Laggy] LFT Equipment.html" size="173866" crc="b5deb2e2" md5="edd67c26c764510a52f068b9bd6e24c1" sha1="97cb555a4eb823484542b103820f64b8616c7034" status="none" />
+		<rom name="Final Fantasy Tactics (USA) - [LFT v20180929 by Laggy] LFT Stats.html" size="252639" crc="f024dca7" md5="358d54b1adf9ee47104e42b04ae442c6" sha1="4e284848f52d01c3f2fb1a796f6820658f4c6fca" status="none" />
 		<rom name="Final Fantasy Tactics (USA) - [Monster Tactics v3.01 by Emmy] monsterfaq.rtf" size="68799" crc="e290cfaa" md5="9a4ed0763593c24ff68c2aedd8a1aeb6" sha1="e77b2c00058df0cd3643ba8ed8cac53e5e799f5d" status="none" />
+		<rom name="Final Fantasy Tactics (USA) - [Mushroom Stew v1.05 by Love Colored Magic].txt" size="6432" crc="8f00fae4" md5="4418db056fd96cf5f7388c210adfbfbe" sha1="0617b52b48a53a425ca69909cc22fb328ecaf498" status="none" />
+		<rom name="Final Fantasy Tactics (USA) - [Path of Hero v20250221 by Rancor]1. NOTES.txt" size="4041" crc="5aed89d6" md5="e6cb885cbf7d054ff3ceaaaf18241a85" sha1="a87a8997ccdc12cf5d5bab7e34ca8a5406ddb790" status="none" />
+		<rom name="Final Fantasy Tactics (USA) - [Path of Hero v20250221 by Rancor]2. GAMEPLAY.txt" size="1551" crc="762140a0" md5="f59dd06e1e433bb8d694d7b79f318727" sha1="762ef237eb6fc5c06ef8ba31934e6c24fc88a88c" status="none" />
+		<rom name="Final Fantasy Tactics (USA) - [Path of Hero v20250221 by Rancor]3. ITEMS.txt" size="4736" crc="9697fc1c" md5="d18cd73a84c74c63cd25a86ff373fd4e" sha1="b7734c1dca83836e877ebc7f8580bafa817705ca" status="none" />
+		<rom name="Final Fantasy Tactics (USA) - [Path of Hero v20250221 by Rancor]4.SECRET HUNT.txt" size="3404" crc="7f3b7ca0" md5="1ca1b8acda2f4bc08a1724c6e6083d46" sha1="712b5a6b96b5e323ecfcf8ab84ebcaaf9675c9de" status="none" />
+		<rom name="Final Fantasy Tactics (USA) - [Path of Hero v20250221 by Rancor]5.MOVE FIND ITEM.txt" size="1373" crc="30eb5ad1" md5="c5ed612df024fe7e266f26f3be2c3f0e" sha1="0406751f2c1a38d38c3d40b877e75982d42ce1b4" status="none" />
+		<rom name="Final Fantasy Tactics (USA) - [Path of Hero v20250221 by Rancor]6.SYNTHESIS.txt" size="2041" crc="4ae58835" md5="e5dbae1cb58d7c5b41757c814d84bfe8" sha1="e4caf9b6b006001c32edbe8d34d3ba1d79b7c5e9" status="none" />
+		<rom name="Final Fantasy Tactics (USA) - [Path of Hero v20250221 by Rancor]7.BUGS.txt" size="1458" crc="74a6855e" md5="bc93a647b3ce7c205aff7a6ae50df2dc" sha1="6e5a0e83aad72cbc32078aa145fc4fa204bb3cae" status="none" />
+		<rom name="Final Fantasy Tactics (USA) - [Path of Hero v20250221 by Rancor]8.JOBS AND GUESTS.txt" size="2128" crc="79d1c040" md5="62e54c71be311feb2861fc74c7cff39c" sha1="608ae327cbe6b3d3d9ed92c43c7881d2425c750e" status="none" />
+		<rom name="Final Fantasy Tactics (USA) - [Path of Hero v20250221 by Rancor]9.BLUE MAGE.txt" size="3783" crc="68b38cff" md5="dae7980d07ccd9f41740af6c9e100abb" sha1="a2667d65e32d6546f3474ab451d9c5ad6789223e" status="none" />
+		<rom name="Final Fantasy Tactics (USA) - [Path of Hero v20250221 by Rancor]10.DEEP DUNGEON.txt" size="1928" crc="e09dea91" md5="5d9af68a97c2745314a591f79a378a25" sha1="9eeca35eac6aca89a8e65cd5c104aaa808891cab" status="none" />
+		<rom name="Final Fantasy Tactics (USA) - [Path of Hero v20250221 by Rancor]11. NEW REQUIREMENTS.txt" size="2428" crc="2a2c884f" md5="e49ec2203e0649ea93d00e19fc3b1779" sha1="ba543a5c14eb41e19bd6d7b644814d1b82dd8686" status="none" />
+		<rom name="Final Fantasy Tactics (USA) - [Path of Hero v20250221 by Rancor]12. SIDE QUESTS.txt" size="578" crc="c052f268" md5="ca3506c1670938d9a1c07717cec5c0d6" sha1="e59ec236578d4447667dbe7c75509ded9cc305ba" status="none" />
 		<rom name="Final Fantasy Tactics (USA) - [Prime v6.1 by wakkoswami].txt" size="11849" crc="b30bdeab" md5="db970b5e8f4ee9deb24a83db713e61ed" sha1="bd8508daac604ffa5973a9020697fa6311a1e7c5" status="none" />
+		<rom name="Final Fantasy Tactics (USA) - [The Lion War v2.031 by Team TLW].txt" size="3932" crc="43de179c" md5="d50d34b05be494bf746aef25c6d5c499" sha1="e352e4e3637605b8a167d3dd6910fee048a3b38a" status="none" />
 		<rom name="Final Fantasy Tactics (USA) - [US Gameplay Changes Removed + Less Grinding v1.1 by LethargicOwl].txt" size="7395" crc="98f8ab11" md5="c0f93afe66afb9c94037c1e5e9526af0" sha1="8a0f00f06a8a7e98a22b0a789cbd4b1814309eb2" status="none" />
 		<rom name="Final Fantasy VII (USA) - [Comprehensive ATB Enhancement by RoSoDude].txt" size="4091" crc="73a13fd7" md5="aaf582d9eb63089dbabd5033a89669eb" sha1="ed5b80b1b4496e367a4604caa26d4543bda0d896" status="none" />
 		<rom name="Final Fantasy VII (USA) - [CTB Wait Addon v1.01 by RoSoDude].txt" size="1459" crc="766be8fc" md5="8dcb688b7c43d3f703cbfe09c5835bec" sha1="1822ac43a87a83daa2a71ad7a1c7460efc244e1c" status="none" />
@@ -788,6 +808,11 @@
 		<rom name="Final Fantasy Tactics (USA) - [Antidote v2.2 by wakkoswami].bin" size="541315152" crc="56ddf686" md5="53904fb8e445afc9d8aa7f26c38a5b09" sha1="a09bae688c7ed10e3b2a8cc580709a6589c91aed" status="none" />
 		<rom name="Final Fantasy Tactics (USA) - [Antidote v2.2 by wakkoswami].cue" size="125" crc="816c52d8" md5="929d35d8fbb33bbf7e2ade77f611bccd" sha1="078c03c5d1d93be8e5fb3bdfe53d70b1347bcb70" status="none" />
 	</machine>
+	<machine name="Final Fantasy Tactics (USA) - [Cerabow's Mod v0.13.2668 by Cerabow]">
+		<description>Final Fantasy Tactics (USA) - [Cerabow's Mod v0.13.2668 by Cerabow]</description>
+		<rom name="Final Fantasy Tactics (USA) - [Cerabow's Mod v0.13.2668 by Cerabow].bin" size="552701184" crc="d3b765a0" md5="13bebc9a4140d2531f15d18fc6ab97f9" sha1="ca984f0cc5f3700d18cd39f5773d34ae8ce5c271" status="none" />
+		<rom name="Final Fantasy Tactics (USA) - [Cerabow's Mod v0.13.2668 by Cerabow].cue" size="133" crc="fc831171" md5="a83ca4fedae8eb81de1053f67a28f1ee" sha1="432d0872ff4a5183a0e1f4ccc6721dc72ccf5856" status="none" />
+	</machine>
 	<machine name="Final Fantasy Tactics (USA) - [Complete v2 v2.0 by Xjamxx]">
 		<description>Final Fantasy Tactics (USA) - [Complete v2 v2.0 by Xjamxx]</description>
 		<rom name="Final Fantasy Tactics (USA) - [Complete v2 v2.0 by Xjamxx].bin" size="541315152" crc="94bdbaaa" md5="57b87be7141bcec6a2e9455b931225ab" sha1="6be7760e94ee6ba2ce2ac4a1c56e64e3462a5e18" status="none" />
@@ -808,10 +833,35 @@
 		<rom name="Final Fantasy Tactics (USA) - [Final Fantasy Tactics 1.3 v1.3.0.8 by Archael].bin" size="541315152" crc="377f6510" md5="b156ba386436d20fd5ed8d37bab6b624" sha1="2b5d4db3229cdc7bbd0358b95fcba33dddae8bba" status="none" />
 		<rom name="Final Fantasy Tactics (USA) - [Final Fantasy Tactics 1.3 v1.3.0.8 by Archael].cue" size="143" crc="f2c4bb60" md5="f9cf7a7f4495766d835b2ce9d1c906df" sha1="0e0e6e49a328094b48ca2676936621b5cfdd9910" status="none" />
 	</machine>
+	<machine name="Final Fantasy Tactics (USA) - [Heroes v20190911 by aacroke]">
+		<description>Final Fantasy Tactics (USA) - [Heroes v20190911 by aacroke]</description>
+		<rom name="Final Fantasy Tactics (USA) - [Heroes v20190911 by aacroke].bin" size="550946592" crc="0c88f4b7" md5="4d7553bc0249e79c5a9d9bdb448065ce" sha1="65018adafa47f56d5a7afe8ef0b8ba21c92f975d" status="none" />
+		<rom name="Final Fantasy Tactics (USA) - [Heroes v20190911 by aacroke].cue" size="125" crc="5442706a" md5="97ee2a598568745b370906f2de88b09f" sha1="6ee355db71a8cf94fda88bfb3ffd6dedb662b667" status="none" />
+	</machine>
+	<machine name="Final Fantasy Tactics (USA) - [Kind Of v2.6 by Eternal]">
+		<description>Final Fantasy Tactics (USA) - [Kind Of v2.6 by Eternal]</description>
+		<rom name="Final Fantasy Tactics (USA) - [Kind Of v2.6 by Eternal].bin" size="541315152" crc="b9ea7fdd" md5="fe0d143e3e2697fa2eb21cc08e8a4b9f" sha1="a9143c5a9187745bfd08eb9909697c12a57c6499" status="none" />
+		<rom name="Final Fantasy Tactics (USA) - [Kind Of v2.6 by Eternal].cue" size="121" crc="3b6b99b3" md5="5bde67a2a7bf4b81f704a611f764da0e" sha1="6ef12a5c0055b4db6867c9b262c3248d3fe91f7f" status="none" />
+	</machine>
+	<machine name="Final Fantasy Tactics (USA) - [LFT v20180929 by Laggy]">
+		<description>Final Fantasy Tactics (USA) - [LFT v20180929 by Laggy]</description>
+		<rom name="Final Fantasy Tactics (USA) - [LFT v20180929 by Laggy].bin" size="541315152" crc="fee8c21b" md5="918e0f8f10c0b6d484577b6f19607a5a" sha1="3790bf72930d5eaa3395d96a3a2a6962b711a969" status="none" />
+		<rom name="Final Fantasy Tactics (USA) - [LFT v20180929 by Laggy].cue" size="120" crc="bff62c5f" md5="f6f76476e90b8164d8a582aa2c85da3d" sha1="45cd29b5181bb82e1dcce89bdbc58b872d9bcebe" status="none" />
+	</machine>
 	<machine name="Final Fantasy Tactics (USA) - [Monster Tactics v3.01 by Emmy]">
 		<description>Final Fantasy Tactics (USA) - [Monster Tactics v3.01 by Emmy]</description>
 		<rom name="Final Fantasy Tactics (USA) - [Monster Tactics v3.01 by Emmy].bin" size="552701179" crc="4cde8dd8" md5="ea6e7f490982a1e44867278f82c73968" sha1="6617eb4eb8b861adaba6927757c094b218f10321" status="none" />
 		<rom name="Final Fantasy Tactics (USA) - [Monster Tactics v3.01 by Emmy].cue" size="127" crc="fbadf9d7" md5="3af93744503f56f5585f98ea63b7ea4f" sha1="307710011868453ad484ba8896c4896cd487613e" status="none" />
+	</machine>
+	<machine name="Final Fantasy Tactics (USA) - [Mushroom Stew v1.05 by Love Colored Magic]">
+		<description>Final Fantasy Tactics (USA) - [Mushroom Stew v1.05 by Love Colored Magic]</description>
+		<rom name="Final Fantasy Tactics (USA) - [Mushroom Stew v1.05 by Love Colored Magic].bin" size="541315152" crc="2cf7d727" md5="c301330d961e6de5084f71a8ee3a6bfd" sha1="b7d9cd16c2a91826a73368023adb1ff635c491ed" status="none" />
+		<rom name="Final Fantasy Tactics (USA) - [Mushroom Stew v1.05 by Love Colored Magic].cue" size="139" crc="18caf90e" md5="53b6fa4f258654fbc90d30be8fbb6bad" sha1="e9f0ab844217375c9b9974ec3285b47b530f78ff" status="none" />
+	</machine>
+	<machine name="Final Fantasy Tactics (USA) - [Path of Hero v20250221 by Rancor]">
+		<description>Final Fantasy Tactics (USA) - [Path of Hero v20250221 by Rancor]</description>
+		<rom name="Final Fantasy Tactics (USA) - [Path of Hero v20250221 by Rancor].bin" size="552701179" crc="59d0d7bf" md5="17f3e8a8acc60a164e51d3da60be5c9a" sha1="e0efe101d8e585170fafe961eac10d1fb765046a" status="none" />
+		<rom name="Final Fantasy Tactics (USA) - [Path of Hero v20250221 by Rancor].cue" size="130" crc="b04850e4" md5="adceffd6259668ec603407f1ca7b44f1" sha1="a02fb81877c6afba7ab5adf78175b9c665a52e6b" status="none" />
 	</machine>
 	<machine name="Final Fantasy Tactics (USA) - [Prime v6.1 by wakkoswami]">
 		<description>Final Fantasy Tactics (USA) - [Prime v6.1 by wakkoswami]</description>
@@ -823,20 +873,55 @@
 		<rom name="Final Fantasy Tactics (USA) - [Prime v6.1 Convenience by wakkoswami].bin" size="541315152" crc="b438e090" md5="2c39fc04e0e356b994ff1bf4a33456a3" sha1="9d9edc2be78e82d8513097ea4c7e51ca89fb65ff" status="none" />
 		<rom name="Final Fantasy Tactics (USA) - [Prime v6.1 Convenience by wakkoswami].cue" size="134" crc="38c44353" md5="81cb3c1135844f7fad280657036f8ae3" sha1="0e2cc8dd487e721721542f2fdf88af98814b8c62" status="none" />
 	</machine>
-	<machine name="Final Fantasy Tactics (USA) - [The Lion War ReMixed Beta v1.2.62.3 by Nyzer]">
-		<description>Final Fantasy Tactics (USA) - [The Lion War ReMixed Beta v1.2.62.3 by Nyzer]</description>
-		<rom name="Final Fantasy Tactics (USA) - [The Lion War ReMixed Beta v1.2.62.3 by Nyzer].bin" size="541315152" crc="19b2e7a1" md5="9c7a866f2d87ba8bfa003837b749af37" sha1="39b469c0e7eb97f48b1475975f4c0d982e38ef3f" status="none" />
-		<rom name="Final Fantasy Tactics (USA) - [The Lion War ReMixed Beta v1.2.62.3 by Nyzer].cue" size="142" crc="39c721f9" md5="b9e5e435b1dfedcf003c3147c82eab6e" sha1="88cf3562e23497a2270d14761e3634808383b646" status="none" />
+	<machine name="Final Fantasy Tactics (USA) - [Second Read Hardcover v32 by ParryPupPup]">
+		<description>Final Fantasy Tactics (USA) - [Second Read Hardcover v32 by ParryPupPup]</description>
+		<rom name="Final Fantasy Tactics (USA) - [Second Read Hardcover v32 by ParryPupPup].bin" size="541315152" crc="20dd5115" md5="91a5c134ab1790cbfeeedace3cec2da2" sha1="0989277c98884a68e5c12f5260c804e9fa8f3028" status="none" />
+		<rom name="Final Fantasy Tactics (USA) - [Second Read Hardcover v32 by ParryPupPup].cue" size="138" crc="23af1fac" md5="40dfe9dcc0ac48235e4d01b636544e8b" sha1="aa4c76fd5157e76f5e5c48a14847695994171678" status="none" />
+	</machine>
+	<machine name="Final Fantasy Tactics (USA) - [Souls of Destiny v4.42 by CONMAN]">
+		<description>Final Fantasy Tactics (USA) - [Souls of Destiny v4.42 by CONMAN]</description>
+		<rom name="Final Fantasy Tactics (USA) - [Souls of Destiny v4.42 by CONMAN].bin" size="552701179" crc="ec88bde6" md5="8a65f166f8e172e03c51f2648f2d3660" sha1="694d0f609d9035bc2de40f7ee57f83387b1ecba3" status="none" />
+		<rom name="Final Fantasy Tactics (USA) - [Souls of Destiny v4.42 by CONMAN].cue" size="130" crc="8ad73124" md5="d5c8fc2f266e65fa491be6b0411180ff" sha1="83369db6ebab72e25b89780f3078f3ce4035228e" status="none" />
+	</machine>
+	<machine name="Final Fantasy Tactics (USA) - [Spirit of 98 v20211012 by IronJustice]">
+		<description>Final Fantasy Tactics (USA) - [Spirit of 98 v20211012 by IronJustice]</description>
+		<rom name="Final Fantasy Tactics (USA) - [Spirit of 98 v20211012 by IronJustice].bin" size="541315152" crc="1fb613cb" md5="16218cdf4e65b2dcd8b44461928a397b" sha1="cb1a842d532f09dfe8d53f966da844ee58a31efc" status="none" />
+		<rom name="Final Fantasy Tactics (USA) - [Spirit of 98 v20211012 by IronJustice].cue" size="135" crc="d872c765" md5="299ae53db506a17847c8f1e142119376" sha1="55b74143b2edda5d41e1336a57351b48555b6057" status="none" />
+	</machine>
+	<machine name="Final Fantasy Tactics (USA) - [The Lion War ReMixed Beta v1.2.62.4 by Nyzer]">
+		<description>Final Fantasy Tactics (USA) - [The Lion War ReMixed Beta v1.2.62.4 by Nyzer]</description>
+		<rom name="Final Fantasy Tactics (USA) - [The Lion War ReMixed Beta v1.2.62.4 by Nyzer].bin" size="541315152" crc="2624848c" md5="285e018d7791fa86c12687969b496dcd" sha1="46983b5d9807fa157c431cbd7ac598f83ae309bf" status="none" />
+		<rom name="Final Fantasy Tactics (USA) - [The Lion War ReMixed Beta v1.2.62.4 by Nyzer].cue" size="142" crc="52f933a2" md5="14b4701da08570e8607441e287eb8015" sha1="96be412ca2fe953f9ebac576cc886078cdf28642" status="none" />
 	</machine>
 	<machine name="Final Fantasy Tactics (USA) - [The Lion War ReMixed Stable v1.1.11 by Nyzer]">
 		<description>Final Fantasy Tactics (USA) - [The Lion War ReMixed Stable v1.1.11 by Nyzer]</description>
 		<rom name="Final Fantasy Tactics (USA) - [The Lion War ReMixed Stable v1.1.11 by Nyzer].bin" size="541315152" crc="fc61f8dd" md5="0f4e048efa36775ccebf0ec185cb42b7" sha1="759b6121fe6f80b92edbdd4dfd3aaaec9c0c9a98" status="none" />
 		<rom name="Final Fantasy Tactics (USA) - [The Lion War ReMixed Stable v1.1.11 by Nyzer].cue" size="142" crc="8e7594c2" md5="cf5543f90054a12403f247c7a27e1276" sha1="abb8d4caa8a3188f057a6bd06c2012c20c54b2b9" status="none" />
 	</machine>
+	<machine name="Final Fantasy Tactics (USA) - [The Lion War v2.031 and TLW Movies by Team TLW]">
+		<description>Final Fantasy Tactics (USA) - [The Lion War v2.031 and TLW Movies by Team TLW]</description>
+		<rom name="Final Fantasy Tactics (USA) - [The Lion War v2.031 and TLW Movies by Team TLW].bin" size="541315152" crc="f2faaad6" md5="b2b95ed27ba6d4fda0be1b7391b6608f" sha1="41ab17522b3b3413fbf48745111aa48be831780b" status="none" />
+		<rom name="Final Fantasy Tactics (USA) - [The Lion War v2.031 and TLW Movies by Team TLW].cue" size="144" crc="a65658af" md5="387640e56130110f1b8328b74b210b10" sha1="a51057f50d5f96959a86f120f9f1d4d07ef90213" status="none" />
+	</machine>
+	<machine name="Final Fantasy Tactics (USA) - [The Lion War v2.031 by Team TLW]">
+		<description>Final Fantasy Tactics (USA) - [The Lion War v2.031 by Team TLW]</description>
+		<rom name="Final Fantasy Tactics (USA) - [The Lion War v2.031 by Team TLW].bin" size="541315152" crc="86dfc77b" md5="997d3eb6f2b75a5503e0abd541351a4b" sha1="7e4d05862b31c486489e87909eec4716ecf6d55c" status="none" />
+		<rom name="Final Fantasy Tactics (USA) - [The Lion War v2.031 by Team TLW].cue" size="129" crc="0664784e" md5="3ff8dec3d137a85a024aeaaa4dd8dc24" sha1="e7ecf5a5cdf6b09500c20b0069ddb103cd5ba98f" status="none" />
+	</machine>
+	<machine name="Final Fantasy Tactics (USA) - [type-R v1.21 by ruwin]">
+		<description>Final Fantasy Tactics (USA) - [type-R v1.21 by ruwin]</description>
+		<rom name="Final Fantasy Tactics (USA) - [type-R v1.21 by ruwin].bin" size="541315152" crc="43394526" md5="a2ec9ccf2a5d94cc018c27c50284df53" sha1="5836d4b4e95606f12bee4bcce329f3b5c2d5468c" status="none" />
+		<rom name="Final Fantasy Tactics (USA) - [type-R v1.21 by ruwin].cue" size="119" crc="f305072d" md5="2c3db09efd5d6db1b58207b4fefdaa2a" sha1="8a7b61fb9324f4b53c4e9edb8a9a119fee23ca48" status="none" />
+	</machine>
 	<machine name="Final Fantasy Tactics (USA) - [US Gameplay Changes Removed + Less Grinding v1.1 by LethargicOwl]">
 		<description>Final Fantasy Tactics (USA) - [US Gameplay Changes Removed + Less Grinding v1.1 by LethargicOwl]</description>
 		<rom name="Final Fantasy Tactics (USA) - [US Gameplay Changes Removed + Less Grinding v1.1 by LethargicOwl].bin" size="541315152" crc="90a0b64b" md5="4d5b60ab2170ead870e2399491c77712" sha1="b42e3ff0ee7038eb2027ce69522c891481c2d15b" status="none" />
 		<rom name="Final Fantasy Tactics (USA) - [US Gameplay Changes Removed + Less Grinding v1.1 by LethargicOwl].cue" size="162" crc="c5807349" md5="cbd5d778aecd51b9efc4d16fb7b98341" sha1="84a52dbfca1a7906ec67387ec8d8692031514cdc" status="none" />
+	</machine>
+	<machine name="Final Fantasy Tactics (USA) - [Zodiac Brave Story v1.2.6 by Batfrog]">
+		<description>Final Fantasy Tactics (USA) - [Zodiac Brave Story v1.2.6 by Batfrog]</description>
+		<rom name="Final Fantasy Tactics (USA) - [Zodiac Brave Story v1.2.6 by Batfrog].bin" size="541315152" crc="45df5da6" md5="e1757bba1efd42b2eb0f7c9e1af8073d" sha1="ccc2ec278a6d424821fcffebcd155ee7d58d89bf" status="none" />
+		<rom name="Final Fantasy Tactics (USA) - [Zodiac Brave Story v1.2.6 by Batfrog].cue" size="134" crc="8868c8e0" md5="45d48ddddcdedce5456e84545ef743e5" sha1="2a32f45c6355ad039c3e34fea980c536d991efa3" status="none" />
 	</machine>
 	<machine name="Final Fantasy VII (USA) - [Comprehensive ATB Enhancement and CTB Wait Addon v1.01 by RoSoDude] (Disc 1)">
 		<description>Final Fantasy VII (USA) - [Comprehensive ATB Enhancement and CTB Wait Addon v1.01 by RoSoDude] (Disc 1)</description>
@@ -1911,10 +1996,10 @@
 		<rom name="Street Fighter EX2 Plus (USA) - [Playable Bison II v1.1 by Gledson999].bin" size="447124608" crc="c7fd03c2" md5="a4477775dec52b70b63fb412b3f65c98" sha1="b93e834c4ac8683b8f6b9113c5a6b2dd69d7461b" status="none" />
 		<rom name="Street Fighter EX2 Plus (USA) - [Playable Bison II v1.1 by Gledson999].cue" size="136" crc="ad9aec73" md5="7e9d8ed94dc606b4900fa3642fdbb39a" sha1="ff194f9ee87521b7541ca8f95989f84ce474744d" status="none" />
 	</machine>
-	<machine name="Strider 2 (USA) - [Restoration vFinal by SCD]">
-		<description>Strider 2 (USA) - [Restoration vFinal by SCD]</description>
-		<rom name="Strider 2 (USA) - [Restoration vFinal by SCD].bin" size="459063360" crc="9b48bc6f" md5="93cdc248e525c56f28eb141392e9ebf8" sha1="58d3b4abcadd1ca7cc814dd0df54ee2887daedd2" status="none" />
-		<rom name="Strider 2 (USA) - [Restoration vFinal by SCD].cue" size="111" crc="943b2055" md5="a167828468776a628f356e23c88d99e2" sha1="644e4275ccb1d1bb11f891e7c1c478ab6b39390f" status="none" />
+	<machine name="Strider 2 (USA) - [Restoration vFinal-20260622 by SCD]">
+		<description>Strider 2 (USA) - [Restoration vFinal-20260622 by SCD]</description>
+		<rom name="Strider 2 (USA) - [Restoration vFinal-20260622 by SCD].bin" size="459063360" crc="a088937d" md5="0414624f0064ee639edb35b6345b36bb" sha1="4ef4fa85123f40795cec61d0c1feb5cb428c6070" status="none" />
+		<rom name="Strider 2 (USA) - [Restoration vFinal-20260622 by SCD].cue" size="120" crc="7cd5a5cc" md5="6b28c0eb215db32c5ac235ba3cb99647" sha1="ddf14c3f33dccf1903739c4f6933240523cca39d" status="none" />
 	</machine>
 	<machine name="Strider (USA) - [Restoration vFinal by SCD]">
 		<description>Strider (USA) - [Restoration vFinal by SCD]</description>
